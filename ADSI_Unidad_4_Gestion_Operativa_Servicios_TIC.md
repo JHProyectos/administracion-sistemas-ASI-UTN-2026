@@ -446,7 +446,7 @@ Métricas Fundamentales de Disponibilidad El ciclo de vida de la falla permite c
 - Uptime (Time between failures): Es el período operativo durante el cual el servicio está funcionando correctamente y disponible para el usuario.
 - Downtime (Time to restore): Es el tiempo total que el servicio no esta disponible, desde que ocurre el incidente hasta que se alcanza el Restore Point. Se utiliza para calcular el MTTR (Mean Time To Restore Service), una métrica de mantenimiento.
 
-###Desglose del Ciclo de Vida del Incidente (Downtime)
+### Desglose del Ciclo de Vida del Incidente (Downtime)
 
 El *Downtime* se descompone en fases secuenciales que la Gestión de Incidencias debe optimizar:
 
@@ -486,7 +486,7 @@ La información necesaria para cada incidente puede incluir:
 - Categoría de cierre
 - Fecha y hora de cierre
 
-###Beneficios:
+### Beneficios:
 Los principales beneficios de una correcta Gestión de Incidencias incluyen:
 
 - Mejorar la productividad de los usuarios.
@@ -504,7 +504,7 @@ La imagen muestra una Matriz de priorización basada en Impacto y Urgencia, util
 
 El eje horizontal representa la Urgencia, medida en tiempo (horas), indicando el margen disponible para actuar antes de que el impacto se materialice o escale. A menor tiempo disponible, mayor urgencia. Este enfoque temporal es tipico en la definición de SLA (Service Level Agreements) y OLA (Operational Level Agreements).
 
-###Zonas de priorización 
+### Zonas de priorización 
 La matriz se encuentra segmentada en cuatro zonas diagonales, identificadas por colores y una leyenda asociada:
 
 - **Crítica:** Alta combinación de impacto y urgencia. Corresponde a eventos que requieren atención inmediata, escalamiento automático y asignación prioritaria de recursos. Ejemplo: caida total de un sistema productivo crítico.
@@ -580,7 +580,7 @@ Los principales beneficios de una correcta Gestión de Problemas:
 - Los incidentes se solucionan más rápidamente y, generalmente, en la primera linea de soporte TI, ahorrando recursos e innecesarios escalados.
 - La documentación desarrollada es de gran utilidad para la Gestión de la Capacidad, Disponibilidad y Niveles de Servicio.
 
-#Solicitudes
+# Solicitudes
 ## Gestión de Solicitudes
 
 El término "solicitud de servicio" se utiliza como una descripción genérica para muchos tipos diferentes de demandas que son colocadas a la organización de TI por los usuarios.
@@ -605,7 +605,7 @@ Los principales beneficios de la implementación del proceso de Gestión de Soli
 - Incrementa el nivel de control sobre los servicios al centralizar la concesión de acceso a los mismos.
 - Reduce costes al centralizar la negociación con proveedores respecto al acceso alos servicios, y también al reducir el coste del soporte.
 
-#Accesos
+# Accesos
 
 ## Gestión de Accesos
 
@@ -660,7 +660,7 @@ Otros acuerdos relacionados al SLA
 - Acuerdos de nivel operacional - Operational Level Agreements (OLA): contrato interno con un área que cubre un servicio que la soporta la organización de IT or ft fay 
 
 # Mesa de servicio TI
-##MESA DE SERVICIOS 
+## MESA DE SERVICIOS 
 La Mesa de Servicio (Service Desk) es una FUNCION —un equipo u organización— y no un proceso, cuyo rol es ser el Punto Único de Contacto (SPOC) para los usuarios de servicios TI.
 
 El Objetivo Principal es establecer este SPOC para gestionar todas las solicitudes (incidencias, peticiones) y asegurar que se atiendan según los SLA.
