@@ -35,8 +35,9 @@ En síntesis, esta unidad propone una visión sistémica de la Gestión Operativ
 ## Modelo de Prestador de Servicios TI
 
 Clientes
-[IMAGEN 1] 
-!(https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-1.png)
+
+![IMAGEN 1](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-1.png)
+
 La imagen muestra un modelo conceptual de alineación estratégica entre el negocio y las Tecnologías de la Información (TI), organizado en una arquitectura multinivel donde cada capa representa un dominio funcional dentro de la organización. La representación enfatiza la interdependencia entre clientes, procesos de negocio y la infraestructura tecnológica.
 
 En la capa superior, se visualizan usuarios finales (clientes), que consumen servicios habilitados por procesos digitalizados.
@@ -71,7 +72,7 @@ En definitiva, se representa un modelo tridimensional de arquitectura empresaria
 
 En este esquema conceptual, la TI deja de ser un soporte pasivo y pasa a ser un habilitador estratégico del negocio.
 
-[IMAGEN 2]
+![IMAGEN 2](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-2.png)
 
 - Modelo de Prestador de Servicios TI
 - Proveedor
@@ -115,7 +116,8 @@ Gestión de Servicios de TI IT Service Management (Gestión de los Servicios TI)
 
 ## Cuál es el foco de la Gestión de los servicios TI ?
 
-[IMAGEN 3] 
+![IMAGEN 3](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-3.jfif)
+
 El objetivo central del modelo es evidenciar que Gestión de Servicios de TI (IT Service Management, ITSM) no se concentra exclusivamente en la infraestructura tecnológica, sino en cdmo los servicios TI posibilitan y potencian los procesos del negocio, generando valor estratégico y operacional.
 
 La imagen presenta una estructura organizada en capas, ordenadas desde elementos puramente tecnológicos hacia componentes de valor de negocio. La capa inferior, denominada Technology, representa las plataformas técnicas fundamentales:
@@ -140,7 +142,7 @@ En síntesis, la imagen posiciona claramente el foco de la Gestión de Servicios
 
 ## Relación Gobierno TI-Gestión TI
 
-[IMAGEN 4]
+![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-4.jfif)
 
 La imagen presenta un modelo conceptual que explica la interacción estructural entre el Gobierno de TI (IT Governance) y la Gestión de TI (IT Management) dentro de una organización. Este esquema destaca cómo ambas funciones, aunque complementarias, operan a niveles distintos: el gobierno de TI orientado a la dirección estratégica y la gestión de TI enfocada en la ejecución operativa. La representación integra de manera clara los principios de marcos como COBIT, ITIL y ISO/IEC 38500, los cuales establecen la separación y articulación entre “dirigir” y “gestionar” TI como una práctica esencial para generar valor, reducir riesgos y garantizar cumplimiento.
 
@@ -168,7 +170,7 @@ En síntesis, la imagen muestra un modelo integrado de Gobierno + Gestión de TI
 
 ## Gestión de Servicios de TI
 
-[IMAGEN 5]
+![IMAGEN 5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-5.jfif)
 
 Este diagrama refleja que la Gestión de Servicios de TI depende de la integración equilibrada de cuatro componentes críticos:
 
@@ -182,7 +184,7 @@ Este diagrama refleja que la Gestión de Servicios de TI depende de la integraci
 
 El modelo sugiere que estos elementos deben trabajar de forma integrada para alcanzar una entrega de servicios de TI eficaz y alineada a las necesidades del negocio.
 
-[IMAGEN 6]
+![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-6.jfif)
 
 La imagen muestra el cambio de paradigma organizacional desde una estructura funcional tradicional basada en silos hacia un enfoque holístico de Gestión de Servicios de TI (ITSM).
 
@@ -192,7 +194,7 @@ La transición a la ITSM propone la entrega de servicios de punta a punta (end-t
 
 ## Servicios de TI
 
-[IMAGEN 7]
+![IMAGEN 7](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-7.jfif)
 
 La definición de servicio es el concepto fundacional de la ITSM. Un servicio se define como "la entrega de valor al cliente facilitandole las salidas o resultados que desea obtener sin ser el dueño ni tener la propiedad directa sobre costos específicos y sus riesgos".
 
@@ -200,7 +202,7 @@ Desde la perspectiva de sistemas, esto implica un proceso de abstracción. El eq
 
 ## Cómo se producen los Servicios TI?
 
-[IMAGEN 8]
+![IMAGEN 8](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-8.jfif)
 
 Esta imagen presenta el modelo de producción de un Servicio de TI como la combinación sinérgica de dos componentes esenciales: Activos TI y Procesos TI.
 
@@ -213,7 +215,7 @@ La conjunción de Activos y Procesos permite entregar Servicios TI para clientes
 
 ## Qué es un proceso TI?
 
-[IMAGEN 9]
+![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-9.png)
 
 Un proceso es una secuencia lógica de actividades diseñada para transformar un conjunto de Entradas previamente definidas en Productos u objetivos específicos. En el contexto de TI, la estandarización por procesos es clave para la escalabilidad y la calidad.
 
@@ -226,7 +228,7 @@ Desde un punto de vista predictivo, se establece que "Un proceso no garantiza el
 
 ## Roles Claves asociados a procesos TI
 
-[IMAGEN 10]
+![IMAGEN 10](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-10.png)
 
 Para asegurar la gobernanza y la ejecución de un proceso de TI, se definen dos roles principales con responsabilidades distintas:
 
@@ -240,7 +242,7 @@ Esta clara división (Diseño/Estrategia vs. Ejecución/Tactica) evita conflicto
 
 ## ITSM - Visión General
 
-[IMAGEN 11]
+![IMAGEN 11](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-11.png)
 
 Los proveedores de servicios entregan valor a sus consumidores al facilitarles el logro de resultados y, al hacerlo, asumir algunos de los riesgos y costos asociados.
 
@@ -265,7 +267,7 @@ El mensaje clave es que los proveedores de servicios entregan valor al facilitar
 
 ## Qué es la Operación de Servicios TI ??
 
-[IMAGEN 12]
+![IMAGEN 12](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-12.jfif)
 
 La Operación de Servicios TI es la fase del ciclo de vida del servicio donde se ejecuta el valor real y donde los diseños se ponen a prueba; es esencialmente "gestionar la diaria". Es el punto de contacto donde el cliente percibe y consume el valor de TI.
 
@@ -281,7 +283,7 @@ La Operación busca mantener la satisfacción del usuario y cumplir con los SLA 
 
 ## Modelo de Relación de Servicios de TI
 
-[IMAGEN 13]
+![IMAGEN 13](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-13.png)
 
 La imagen representa un modelo integral de provisión, gestión y control de servicios de TI, estructurado desde la capa operativa hasta la percepción final del usuario. En la parte superior se ubica la User Community, compuesta por distintos clientes internos, quienes consumen los servicios especificados en el Service Catalog. Este catálogo funciona como referencia formal de los servicios disponibles y de los compromisos asociados.
 
@@ -325,7 +327,7 @@ CSI= Continual Service Improvement
 
 Procesos/Prácticas de la Gestión TI
 
-[IMAGEN 14]
+![IMAGEN 14](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-14.png)
 
 Los procesos de gestión ubicados en la base del modelo son fundamentales para garantizar tanto el éxito de las iniciativas de TI como el funcionamiento estable de los servicios tecnológicos. Estos procesos sirven como soporte estructural, permitiendo controlar, evaluar y ejecutar actividades técnicas de forma ordenada y segura.
 
@@ -373,7 +375,7 @@ Los objetivos de la Gestión de Eventos y Monitoreo son:
 - Contribuir a la Mejora Continua del Servicio mediante informes de mejora.
 - Ayudar a la detección temprana de incidentes y reaccionar eficientemente.
 
-[IMAGEN 15]
+![IMAGEN 15](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-15.png)
 
 ## Beneficios: 
 Algunas de las ventajas que una correcta Gestión de Eventos y Monitoreo aporta a la organización TI son:
@@ -430,7 +432,7 @@ La calidad de estos datos es fundamental para el diagndéstico y el correcto enc
 
 ## Relación entre incidencia y disponibilidad: 
 
-[IMAGEN 16]
+![IMAGEN 16](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-16.jfif)
 
 Este diagrama establece la relación crítica entre la Gestión de Incidencias y la Disponibilidad del servicio. La disponibilidad se define como la capacidad de un servicio o elemento de configuración (Cl) para operar cuando es requerido.
 
@@ -492,7 +494,7 @@ Los principales beneficios de una correcta Gestión de Incidencias incluyen:
 
 # Matriz de Impacto y Urgencia
 
-[IMAGEN 17]
+![IMAGEN 17](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-17.jfif)
 
 La imagen muestra una Matriz de priorización basada en Impacto y Urgencia, utilizada comtnmente para la toma de decisiones operativas y tácticas dentro de áreas de sistemas, ya que permite asignar prioridades objetivas a eventos, incidentes El eje vertical corresponde al Impacto, y se refiere al grado de afectación que un incidente o requerimiento produce sobre el negocio, los usuarios o la infraestructura tecnológica (por ejemplo, indisponibilidad de un sistema crítico, degradación del servicio o afectación a un proceso core).
 
@@ -537,8 +539,7 @@ Problema: causa aun no identificada, de una serie de incidentes o un incidente a
 
 La **Gestión de Problemas** tiene como objetivo reducir la interrupción del negocio a largo plazo mediante la identificación proactiva y el análisis de la Causa Raíz de incidentes (diferenciándose de la Gestión de Incidencias, que busca la solución temporal).
 
-[IMAGEN 18]
-!(/imagenes/Unidad-4/imagen-18.png)
+![IMAGEN 18](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-18.png)
 
 La imagen representa el funcionamiento del proceso de Gestión de Problemas dentro de un entorno de gestión de servicios TI, mostrando sus componentes principales y su interacción con otros procesos clave. La Gestión de Problemas tiene como objetivo identificar causas raíz de incidentes, prevenir su recurrencia y minimizar el impacto de fallas en los servicios.
 
@@ -670,7 +671,7 @@ La Mesa de Servicio ejecuta los procesos de Gestión de Incidencias y Gestión d
 
 **IMPORTANTE: el Service Desk NO es un proceso, es una función, que ejecuta procesos!**
 
-[IMAGEN 19] 
+![IMAGEN 19](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-19.png)
 
 Estructura organizativa 
 - Local: Co-ubicados dentro o físicamente cerca de la comunidad de usuarios que sirve 
@@ -687,7 +688,7 @@ Responsabilidades:
 
 En el siguiente grafico, se muestran los procesos soportados por la Mesa de Ayuda, y su relación aproximada en la atención y resolución de incidentes, con los equipos técnicos de soporte interno Service Desk Tecnologías ITSM Consideraciones de tecnologías
 
-[IMAGEN 20]
+![IMAGEN 20](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-20.png)
 
 # Tecnologías ITSM
 
@@ -707,11 +708,11 @@ En el siguiente grafico, se muestran los procesos soportados por la Mesa de Ayud
 
 ## Herramientas ITSM
 
-[IMAGEN 21]
+![IMAGEN 21](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-21.png)
 
 ## Madurez ITSM
 
-[IMAGEN 22]
+![IMAGEN 22](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-22.png)
 
 **Nivel de madurez 1: Centro de costos:** los diversos departamentos de servicio de su organización operan de forma aislada y trabajan de forma independiente para administrar los costos. Estos departamentos aislados utilizan herramientas de gestión de servicios dispares, sus procesos no están documentados, son ad hoc y están desconectados. Hay operaciones de TI mínimas.
 
