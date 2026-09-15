@@ -281,6 +281,10 @@ La Operación busca mantener la satisfacción del usuario y cumplir con los SLA 
 
 ## Ejemplos de Operación de Servicios TI
 
+![IMAGEN 12.5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-12.5.png)
+
+La imagen reúne cinco ejemplos de operación de servicios TI: atención bancaria mediante cajeros automáticos, supervisión de procesos industriales con una tableta, gestión digital de pasajes aéreos, acceso a servicios desde una aplicación móvil y monitoreo centralizado desde un centro de operaciones. En conjunto, representa cómo la tecnología permite automatizar, controlar y sostener servicios en distintos sectores.
+
 ## Modelo de Relación de Servicios de TI
 
 ![IMAGEN 13](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-13.png)
@@ -355,7 +359,7 @@ Estos procesos garantizan la continuidad operativa, evitando interrupciones y ma
 
 En conclusión, los procesos de gestión inferiores constituyen la base que permite ejecutar proyectos de TI de forma controlada y operar servicios con estabilidad. Su correcta integración asegura un equilibrio entre innovación y continuidad operativa, permitiendo que la función de TI aporte valor real y sostenible a la organización.
 
-#Gestión de Eventos y Monitoreo
+# Gestión de Eventos y Monitoreo
 ## Introducción
 
 Una vez que el servicio está operando es necesario monitorizar todos los sucesos importantes que se produzcan para poder anticiparse a los problemas, resolverlos o incluso prevenirlos. Esta función representa una tarea en si misma y por tanto constituye un proceso independiente dentro del ciclo de vida: la Gestión de Eventos
