@@ -281,7 +281,7 @@ La Operación busca mantener la satisfacción del usuario y cumplir con los SLA 
 
 ## Ejemplos de Operación de Servicios TI
 
-![IMAGEN 12.5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-12.5.png)
+![IMAGEN 12.1](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-12.1.png)
 
 La imagen reúne cinco ejemplos de operación de servicios TI: atención bancaria mediante cajeros automáticos, supervisión de procesos industriales con una tableta, gestión digital de pasajes aéreos, acceso a servicios desde una aplicación móvil y monitoreo centralizado desde un centro de operaciones. En conjunto, representa cómo la tecnología permite automatizar, controlar y sostener servicios en distintos sectores.
 
