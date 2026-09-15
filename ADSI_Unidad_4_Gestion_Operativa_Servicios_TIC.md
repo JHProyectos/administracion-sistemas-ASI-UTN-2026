@@ -35,7 +35,9 @@ En síntesis, esta unidad propone una visión sistémica de la Gestión Operativ
 ## Modelo de Prestador de Servicios TI
 
 Clientes
-[IMAGEN 1] La imagen muestra un modelo conceptual de alineación estratégica entre el negocio y las Tecnologías de la Información (TI), organizado en una arquitectura multinivel donde cada capa representa un dominio funcional dentro de la organización. La representación enfatiza la interdependencia entre clientes, procesos de negocio y la infraestructura tecnológica.
+[IMAGEN 1] 
+!(https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-1.png)
+La imagen muestra un modelo conceptual de alineación estratégica entre el negocio y las Tecnologías de la Información (TI), organizado en una arquitectura multinivel donde cada capa representa un dominio funcional dentro de la organización. La representación enfatiza la interdependencia entre clientes, procesos de negocio y la infraestructura tecnológica.
 
 En la capa superior, se visualizan usuarios finales (clientes), que consumen servicios habilitados por procesos digitalizados.
 
