@@ -373,8 +373,7 @@ Esto puede ser aplicado en diversos ámbitos como el militar o el empresarial.
 
 - [**Estrategia empresarial:](https://economipedia.com/definiciones/estrategia-empresarial.html)** Es una metodología que busca alcanzar un objetivo por medio de un plan de acción que se descompone en objetivos estratégicos para cada área funcional de la organización.
 - [**Estrategia de negocio:](https://economipedia.com/definiciones/estrategia-de-negocio.html)** Es la planificación por parte de una empresa de cara a la consecución de objetivos previamente establecidos. Se centra en el posicionamiento en el mercado y en la obtención de beneficios. En cambio, la estrategia empresarial es más amplia y abarca todas las áreas de la compañía, pudiendo ser aquella orientada a lograr un mejor clima laboral, por ejemplo.
-- [**Estrategia de marketing:](https://economipedia.com/definiciones/estrategias-de-marketing.html)** Es el plan de acción dispuesto para lograr el objetivo comercial, ya sea aumentar las ventas o la participación en el mercado.
-  Tenemos, por ejemplo, la [estrategia push](https://economipedia.com/definiciones/estrategia-push.html) y la [estrategia pull](https://economipedia.com/definiciones/estrategia-pull.html).
+- [**Estrategia de marketing:](https://economipedia.com/definiciones/estrategias-de-marketing.html)** Es el plan de acción dispuesto para lograr el objetivo comercial, ya sea aumentar las ventas o la participación en el mercado. Tenemos, por ejemplo, la [estrategia push](https://economipedia.com/definiciones/estrategia-push.html) y la [estrategia pull](https://economipedia.com/definiciones/estrategia-pull.html).
 - [**Estrategia de inversión:](https://economipedia.com/definiciones/estrategia-de-inversion.html)** Son los lineamientos que el inversionista va a seguir al momento de armar su portafolio. Por ejemplo, puede ser que decida destinar un 50% a instrumentos de renta fija y el otro 50% a renta variable.
 
 ### Estrategia de TI
