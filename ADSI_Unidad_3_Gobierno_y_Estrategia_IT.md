@@ -286,9 +286,6 @@ Los principios rectores expresan preferentemente las conductas que guiarán a lo
 | **Conformidad** | La función de TI cumple todas las regulaciones y normas aplicables. Las políticas y prácticas al respecto están claramente definidas, implementadas y exigidas. |
 | **Comportamiento humano** | Las políticas de TI, prácticas y decisiones demuestran respeto al talento humano, incluyendo las necesidades actuales y emergentes de toda la gente involucrada. |
 
-
-[Imagenes 9 a 14]
-
 ![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-9.jpg)
 
 ![IMAGEN 10](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-10.jpg)
@@ -300,8 +297,6 @@ Los principios rectores expresan preferentemente las conductas que guiarán a lo
 ![IMAGEN 13](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-13.jpg)
 
 ![IMAGEN 14](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-14.jpg)
-
-
 
 ### Gobierno de TI: Beneficios
 
@@ -376,13 +371,11 @@ Esto puede ser aplicado en diversos ámbitos como el militar o el empresarial.
 
 ### Tipos de estrategia en el ámbito económico
 
-- Estrategia empresarial: Es una metodología que busca alcanzar un objetivo por medio de un plan de acción que se descompone en objetivos estratégicos para cada área funcional de la organización.
-- Estrategia de negocio: Es la planificación por parte de una empresa de cara a la consecución de objetivos previamente establecidos. Se centra en el posicionamiento en el mercado y en la obtención de beneficios. En cambio, la estrategia empresarial es más amplia y abarca todas las áreas de la compañía, pudiendo ser aquella orientada a lograr un mejor clima laboral, por ejemplo.
-- Estrategia de marketing: Es el plan de acción dispuesto para lograr el objetivo comercial, ya sea aumentar las ventas o la participación en el mercado.
-
-Tenemos, por ejemplo, la estrategia push y la estrategia pull.
-
-- Estrategia de inversión: Son los lineamientos que el inversionista va a seguir al momento de armar su portafolio. Por ejemplo, puede ser que decida destinar un 50% a instrumentos de renta fija y el otro 50% a renta variable.
+- [**Estrategia empresarial:](https://economipedia.com/definiciones/estrategia-empresarial.html)** Es una metodología que busca alcanzar un objetivo por medio de un plan de acción que se descompone en objetivos estratégicos para cada área funcional de la organización.
+- [**Estrategia de negocio:](https://economipedia.com/definiciones/estrategia-de-negocio.html)** Es la planificación por parte de una empresa de cara a la consecución de objetivos previamente establecidos. Se centra en el posicionamiento en el mercado y en la obtención de beneficios. En cambio, la estrategia empresarial es más amplia y abarca todas las áreas de la compañía, pudiendo ser aquella orientada a lograr un mejor clima laboral, por ejemplo.
+- [**Estrategia de marketing:](https://economipedia.com/definiciones/estrategias-de-marketing.html)** Es el plan de acción dispuesto para lograr el objetivo comercial, ya sea aumentar las ventas o la participación en el mercado.
+Tenemos, por ejemplo, la [estrategia push](https://economipedia.com/definiciones/estrategia-push.html) y la [estrategia pull](https://economipedia.com/definiciones/estrategia-pull.html).
+- [**Estrategia de inversión:](https://economipedia.com/definiciones/estrategia-de-inversion.html)** Son los lineamientos que el inversionista va a seguir al momento de armar su portafolio. Por ejemplo, puede ser que decida destinar un 50% a instrumentos de renta fija y el otro 50% a renta variable.
 
 ### Estrategia de TI
 
@@ -407,12 +400,12 @@ Elementos clave de una estrategia de TI
 
 ### Ejemplos de Estrategia de TI
 
-- Prevención: El área de TI es un gran facilitador para las organizaciones, pero sin una gestión adecuada de la infraestructura puede haber un impacto negativo en toda la organización. Por ello, es importante tener una estrategia de anticipación a los posibles riesgos y gestionarlos para prevenir los peores escenarios.
-- Optimización: Con el enfoque en la competitividad, las áreas de TI son responsables de promover la optimización de recursos. Como parte de una estrategia, muchas están optando por la última tecnología a su alcance, que no requiera de grandes inversiones iniciales y que les permita ser flexibles y ágiles.
-- Reducción de costos: En la estrategia económica, la tecnología es un aliado para aumentar la rentabilidad de las organizaciones con un menor costo, pieza clave en la competitividad del negocio, pues conlleva el uso óptimo de los recursos para hacerlos más eficientes.
-- Bienestar: Habilitar equipos de alto rendimiento y mejorar el bienestar de los colaboradores es posible gracias a la tecnología. Cuando los empleados disfrutan de un ambiente laboral sano, aumenta la productividad, el enfoque en la estrategia emerge y comienzan las innovaciones en los procesos de negocio.
-- Sentido comunitario: Ante el panorama que se vive hoy, algunas empresas han optado por invertir en soluciones tecnológicas como VPN, intranets, conexiones remotas y todo lo necesario para habilitar el trabajo remoto desde cualquier ubicación.
-- Contribución social: A lo largo de su evolución y hasta el día de hoy, las TI han generado una enorme contribución social. No solo están transformando una forma de operar en las organizaciones, van más allá del ámbito empresarial.
+- *Prevención:* El área de TI es un gran facilitador para las organizaciones, pero sin una gestión adecuada de la infraestructura puede haber un impacto negativo en toda la organización. Por ello, es importante tener una estrategia de anticipación a los posibles riesgos y gestionarlos para prevenir los peores escenarios.
+- *Optimización:* Con el enfoque en la competitividad, las áreas de TI son responsables de promover la optimización de recursos. Como parte de una estrategia, muchas están optando por la última tecnología a su alcance, que no requiera de grandes inversiones iniciales y que les permita ser flexibles y ágiles.
+- *Reducción de costos:* En la estrategia económica, la tecnología es un aliado para aumentar la rentabilidad de las organizaciones con un menor costo, pieza clave en la competitividad del negocio, pues conlleva el uso óptimo de los recursos para hacerlos más eficientes.
+- *Bienestar:* Habilitar equipos de alto rendimiento y mejorar el bienestar de los colaboradores es posible gracias a la tecnología. Cuando los empleados disfrutan de un ambiente laboral sano, aumenta la productividad, el enfoque en la estrategia emerge y comienzan las innovaciones en los procesos de negocio.
+- *Sentido comunitario:* Ante el panorama que se vive hoy, algunas empresas han optado por invertir en soluciones tecnológicas como VPN, intranets, conexiones remotas y todo lo necesario para habilitar el trabajo remoto desde cualquier ubicación.
+- *Contribución social:* A lo largo de su evolución y hasta el día de hoy, las TI han generado una enorme contribución social. No solo están transformando una forma de operar en las organizaciones, van más allá del ámbito empresarial.
 
 ### Plan Estratégico de TI
 
