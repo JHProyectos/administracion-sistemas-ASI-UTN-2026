@@ -357,13 +357,10 @@ Algunas de estas tecnologías son:
 
 ![IMAGEN 16](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-16.jpg)
 
-- El proveedor enfatiza la confiabilidad, la eficiencia y el cumplimiento, ya que
-
-TI busca satisfacer las demandas de las áreas colegas.
-
-- El promotor propone activamente y crea conciencia sobre las capacidades tecnológicas emergentes y cómo podrían mejorar los resultados comerciales de la empresa.
-- El socio actúa como un consultor, centrado en el asesoramiento de TI, la guía de implementación y el cambio organizacional.
-- El Par trabaja junto con colegas de negocios para dar forma a la estrategia futura de la empresa y establecer y mantener una ventaja competitiva
+- El **proveedor (Provider)** enfatiza la confiabilidad, la eficiencia y el cumplimiento, ya que TI busca satisfacer las demandas de las áreas colegas.
+- El **promotor (Promoter)** propone activamente y crea conciencia sobre las capacidades tecnológicas emergentes y cómo podrían mejorar los resultados comerciales de la empresa.
+- El **socio (Partner)** actúa como un consultor, centrado en el asesoramiento de TI, la guía de implementación y el cambio organizacional.
+- El **Par (Peer)** trabaja junto con colegas de negocios para dar forma a la estrategia futura de la empresa y establecer y mantener una ventaja competitiva
 
 ## Estrategia
 
