@@ -229,7 +229,7 @@ En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejor
 |---|---|---|
 | • Deberes y responsabilidades de Directores/Líderes<br><br>• Cumplimiento y control legislativo/fiduciario<br><br>• Derechos de terceros afectados<br><br>• Ética e Integridad<br><br>• Operaciones de negocio, riesgo y control<br><br>• Contabilidad Financiera e Informes<br><br>• Gestión de activos<br><br>• Gestión del riesgo | • Metas y objetivos del negocio<br><br>• Estrategia y Planificación del negocio<br><br>• Procesos del negocio<br><br>• Capacidades Inn. + Inv.<br><br>• Conocimiento y Capital intelectual<br><br>• Gestión de la información<br><br>• Gestión de Recursos Humanos<br><br>• Servicio al cliente y relaciones<br><br>• Comunicación interna y externa<br><br>• Control de Gestión | • Objetivos de TI<br><br>• Alineamiento e Integración con los objetivos de la Empresa<br><br>• Recursos de TI<br><br>• Gestión del Conocimiento<br><br>• Estrategia y Planificación de TI<br><br>• Adquisición e implementación de TI<br><br>• Operaciones de TI, riesgo y control<br><br>• Gestión de activos de TI<br><br>• Gestión del riesgo de TI |
 
-## Gobierno de TI: evalúa, dirige y monitorea
+### Gobierno de TI: evalúa, dirige y monitorea
 
 #### EVALUAR ¿QUÉ SIGNIFICA REALMENTE ‘EVALUAR’? 
 
@@ -264,7 +264,7 @@ Problemas de la monitorización:
 - Informes ininteligibles.
 - Información demasiado genérica.
 
-## Los Principios del Gobierno de TI
+### Los Principios del Gobierno de TI
 
 Los principios rectores expresan preferentemente las conductas que guiarán a los directores ejecutivos en la toma de decisiones.
 
@@ -294,7 +294,7 @@ Los principios rectores expresan preferentemente las conductas que guiarán a lo
 
 
 
-## Gobierno de TI: Beneficios
+### Gobierno de TI: Beneficios
 
 | Beneficios Cuantitativos | Beneficios Cualitativos |
 |---|---|
@@ -304,9 +304,9 @@ Los principios rectores expresan preferentemente las conductas que guiarán a lo
 | • Un modelo que demuestra cómo TI está alineado con la entidad. | • Mejores relaciones internas entre las unidades de negocio. |
 | • Calidad mejorada producto de inversiones controladas y estratégicas de Tecnología de la Información. | |
 
-## Gobierno de TI: Marcos de Referencia
+### Gobierno de TI: Marcos de Referencia
 
-### Example Framework Categories
+#### Example Framework Categories
 | Tipo | Governance | Architecture | IT Service Management | Program and Project Management | Risk Management | Security Management | Quality and Improvement | Lifecycles |
 |---|---|---|---|---|---|---|---|---|
 | **Example Standards** | ISO38500 | ISO42010 | ISO20000 | ISO21500 | ISO31000<br>NIST | ISO27001<br>NIST | ISO15504 | ISO12207 |
@@ -344,7 +344,7 @@ Algunas de estas tecnologías son:
   - [Servicios en la Nube](https://icorp.com.mx/blog/que-es-la-nube-informatica/)
   - [Tercerización de servicios](https://icorp.com.mx/blog/servicios-especializados-de-ti/)
 
-## El rol de TI en la Relación con el Negocio (4Ps)
+### El rol de TI en la Relación con el Negocio (4Ps)
 
 ![IMAGEN 16](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-16.jpg)
 
@@ -368,7 +368,7 @@ Esto puede ser aplicado en diversos ámbitos como el militar o el empresarial.
 - Cabe señalar que la estrategia se diferencia de la táctica en que este última es una medida más concreta. Así, la estrategia es el proceso planteado, mientras que la táctica es la manera en la que se va a ejecutar.
 - Por ejemplo, una empresa textil se plantea el objetivo de incrementar sus ventas en el mercado. La estrategia propuesta es llegar a más segmentos, y la táctica podría ser establecer una alianza estratégica con una cadena de tiendas para ofrecer algunos de sus productos en sus establecimientos.
 
-## Tipos de estrategia en el ámbito económico
+### Tipos de estrategia en el ámbito económico
 
 - Estrategia empresarial: Es una metodología que busca alcanzar un objetivo por medio de un plan de acción que se descompone en objetivos estratégicos para cada área funcional de la organización.
 - Estrategia de negocio: Es la planificación por parte de una empresa de cara a la consecución de objetivos previamente establecidos. Se centra en el posicionamiento en el mercado y en la obtención de beneficios. En cambio, la estrategia empresarial es más amplia y abarca todas las áreas de la compañía, pudiendo ser aquella orientada a lograr un mejor clima laboral, por ejemplo.
@@ -378,7 +378,7 @@ Tenemos, por ejemplo, la estrategia push y la estrategia pull.
 
 - Estrategia de inversión: Son los lineamientos que el inversionista va a seguir al momento de armar su portafolio. Por ejemplo, puede ser que decida destinar un 50% a instrumentos de renta fija y el otro 50% a renta variable.
 
-## Estrategia de TI
+### Estrategia de TI
 
 ![IMAGEN 18](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-18.jpg)
 
@@ -399,7 +399,7 @@ Elementos clave de una estrategia de TI
 
 ![IMAGEN 19](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-19.jpg)
 
-## Ejemplos de Estrategia de TI
+### Ejemplos de Estrategia de TI
 
 - Prevención: El área de TI es un gran facilitador para las organizaciones, pero sin una gestión adecuada de la infraestructura puede haber un impacto negativo en toda la organización. Por ello, es importante tener una estrategia de anticipación a los posibles riesgos y gestionarlos para prevenir los peores escenarios.
 - Optimización: Con el enfoque en la competitividad, las áreas de TI son responsables de promover la optimización de recursos. Como parte de una estrategia, muchas están optando por la última tecnología a su alcance, que no requiera de grandes inversiones iniciales y que les permita ser flexibles y ágiles.
@@ -408,7 +408,7 @@ Elementos clave de una estrategia de TI
 - Sentido comunitario: Ante el panorama que se vive hoy, algunas empresas han optado por invertir en soluciones tecnológicas como VPN, intranets, conexiones remotas y todo lo necesario para habilitar el trabajo remoto desde cualquier ubicación.
 - Contribución social: A lo largo de su evolución y hasta el día de hoy, las TI han generado una enorme contribución social. No solo están transformando una forma de operar en las organizaciones, van más allá del ámbito empresarial.
 
-## Plan Estratégico de TI
+### Plan Estratégico de TI
 
 - Un plan de estrategia de TI es el documento integral que sirve como hoja de ruta para la estrategia de TI, y describe cómo una organización usará la tecnología para lograr sus objetivos.
 - Define las acciones e iniciativas específicas que se llevarán a cabo para alinear los esfuerzos de TI de la organización con su misión general, estrategia comercial y prioridades. Hay serios riesgos que vienen con la negligencia en la integración de la planificación de TI en su estrategia comercial.
@@ -424,41 +424,25 @@ Elementos clave de una estrategia de TI
   - ¿Cómo evolucionará la estrategia de TI de la organización con el tiempo para satisfacer las necesidades cambiantes del negocio?
   - ¿Qué iniciativas y proyectos de TI deben emprenderse a corto y largo plazo?
 
-## Contenido del Plan Estratégico de TI
-# FALTA EDITAR ESTAS TABLAS
-Objetivos de negocios El plan debe establecer claramente los objetivos comerciales generales de la organización y cómo la tecnología de la información apoyará el logro de esos objetivos.
+### Contenido del Plan Estratégico de TI
 
-Visión y misión de TI Las declaraciones de visión y misión de TI de la organización, que deben alinearse con la visión y misión general del negocio.
+| Elemento | Descripción |
+|---|---|
+| **Objetivos de negocios** | El plan debe establecer claramente los objetivos comerciales generales de la organización y cómo la tecnología de la información apoyará el logro de esos objetivos. |
+| **Visión y misión de TI** | Las declaraciones de visión y misión de TI de la organización, que deben alinearse con la visión y misión general del negocio. |
+| **Evaluación del estado actual** | Una evaluación de las capacidades de TI actuales de la organización, incluido el hardware, el software y los procesos, así como un análisis de qué tan bien respaldan las operaciones de la organización. |
+| **Visión del estado futuro** | Una visión clara de cómo deberían ser las capacidades de TI de la organización en el futuro para brindar el mejor soporte al negocio. |
+| **Iniciativas estratégicas** | El plan debe identificar iniciativas estratégicas específicas que se emprenderán para cerrar la brecha entre las visiones del estado actual y futuro. Estas iniciativas podrían incluir proyectos, programas o mejoras de procesos. |
+| **Plan de IMPLEMENTACION** | Un plan de implementación detallado que describa los pasos que se tomarán para ejecutar las iniciativas estratégicas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso. |
+| **Gestión de riesgos** | Una estrategia de gestión de riesgos que identifica los riesgos potenciales para las operaciones de TI de la organización y describe cómo se gestionarán. |
+| **Recursos** | Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan. |
+| **Supervisión y revisión** | Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación. |
+| **Plan de Operación y Soporte de los Servicios TI** | Un plan para sostener la operación del negocio, gestiona de las fallas y asegurar disponibilidad. |
+| **Plan de Proyectos y Cambios TI** | Un plan de proyectos y cambios que describa los pasos que se tomarán para ejecutar las iniciativas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso. |
+| **Recursos TI** | Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan. |
+| **Supervisión y revisión** | Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación.|
 
-Evaluación del estado actual Una evaluación de las capacidades de TI actuales de la organización, incluido el hardware, el software y los procesos, así como un análisis de qué tan bien respaldan las operaciones de la organización.
-
-Visión del estado futuro Una visión clara de cómo deberían ser las capacidades de TI de la organización en el futuro para brindar el mejor soporte al negocio.
-
-Iniciativas estrategicas El plan debe identificar iniciativas estratégicas específicas que se emprenderán para cerrar la brecha entre las visiones del estado actual y futuro. Estas iniciativas podrían incluir proyectos, programas o mejoras de procesos.
-
-Plan de IMPLEMENTACION Un plan de implementación detallado que describa los pasos que se tomarán para ejecutar las iniciativas estratégicas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso.
-
-Gestión de riesgos Una estrategia de gestión de riesgos que identifica los riesgos potenciales para las operaciones de TI de la organización y describe cómo se gestionarán.
-
-Recursos Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan.
-
-Supervisión y revisión Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación.
-
-Evaluación del estado actual Una evaluación de las capacidades de TI actuales de la organización, incluido el hardware, el software y los procesos, así como un análisis de qué tan bien respaldan las operaciones de la organización.
-
-Visión del estado futuro Una visión clara de cómo deberían ser las capacidades de TI de la organización en el futuro para brindar el mejor soporte al negocio.
-
-## Plan de Operación y
-
-Soporte de los Servicios TI Un plan para sostener la operación del negocio, gestiona de las fallas y asegurar disponibilidad.
-
-Plan de Proyectos y Cambios TI Un plan de proyectos y cambios que describa los pasos que se tomarán para ejecutar las iniciativas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso.
-
-Recursos TI Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan.
-
-Supervisión y revisión Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación.
-
-## Ejecutando la Estrategia TI
+### Ejecutando la Estrategia TI
 
 Con demasiada frecuencia se produce una brecha entre la formulación y la ejecución de la estrategia.
 
@@ -466,11 +450,11 @@ En el contexto actual, esto puede ser un error fatal que genera costos no desead
 
 ![IMAGEN 20](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-20.jpg)
 
-## Relación entre Estrategia y Ejecución
+### Relación entre Estrategia y Ejecución
 
 ![IMAGEN 21](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-21.jpg)
 
-## Estrategia y Ejecución vs Gobierno y Gestión TI
+### Estrategia y Ejecución vs Gobierno y Gestión TI
 
 ![IMAGEN 22](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-22.jpg)
 
