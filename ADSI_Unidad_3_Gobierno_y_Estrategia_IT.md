@@ -4,16 +4,7 @@ Cátedra: Administración de Sistemas de Información (ADSI) — UTN, Facultad R
 
 ## Índice de Temas
 
-- Introducción.
-- Contexto: Digitalización y Transformación digital.
-- Función y Rol de la TI en las organizaciones. El valor de la TI y la relación
-
-Negocio-TI.
-
-- Gobierno TI (IT Governance). Introducción. Objetivo, Pilares y Principios.
-- Rol Estratégico de la TI: Qué es una estrategia? Estrategia de TI.
-- Planificación Estratégica TI.
-- Ejecución de la Estrategia TI vs Gobierno y Gestión TI
+[TOC]
 
 ## Introducción
 
@@ -23,7 +14,7 @@ Aunque viviendo en el mar digital, tenemos que cambiar con la "marea", también 
 
 Estos cambios y transformaciones están remodelando nuestro pensamiento y la forma en que nos vemos a nosotros mismos, los sistemas de los que somos parte, los entornos en los que vivimos.
 
-Las organizaciones tienen que transformar las funciones y los procesos subyacentes y crear un conjunto único de capacidades digitales para desarrollar la competencia empresarial central a fin de adaptarse a la velocidad digital.
+**Las organizaciones tienen que transformar las funciones y los procesos subyacentes y crear un conjunto único de capacidades digitales para desarrollar la competencia empresarial central a fin de adaptarse a la velocidad digital.**
 
 ## Digitalización
 
@@ -70,46 +61,48 @@ En definitiva, la digitalización ha llevado a las empresas a utilizar contenido
 
 Una vez que las organizaciones comienzan el proceso de transformación, este afecta a productos y servicios, canales de marketing y distribución, procesos empresariales, cadenas de suministro e incluso al resto de competidores del mercado.
 
-## Qué hace un área de TI?
+![IMAGEN 1](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-1.jpg)
 
-Las 3 funciones principales de TI:
+## ¿Qué hace un área de TI?
 
-- Infraestructura se refiere a componentes de hardware, La red, los circuitos y todos los demás equipos necesarios para que funcione un sistema informático.
-- Funcionalidad es quizás la tarea más visible realizada por el departamento de
+### Las 3 funciones principales de TI:
 
-TI. Por tanto, la funcionalidad es lo que más les asocia. Se refiere a la creación y mantenimiento de aplicaciones operativas; eso desarrollar, asegurar y almacenar datos de la organización; y ayudar en el uso de software y gestión de datos.
+- **Infraestructura** se refiere a componentes de hardware, La red, los circuitos y todos los demás equipos necesarios para que funcione un sistema informático.
+- **Funcionalidad** es quizás la tarea más visible realizada por el departamento de TI. Por tanto, la funcionalidad es lo que más les asocia. Se refiere a la creación y mantenimiento de aplicaciones operativas; eso desarrollar, asegurar y almacenar datos de la organización; y ayudar en el uso de software y gestión de datos.
+- **Gobernanza** se refiere a la implementación de criterios de toma de decisión en el uso de sistemas de TI, su arquitectura y la creación y explotación de activos tecnológicos para cubrir las necesidades presentes y futuras del negocio.
 
-- Gobernanza se refiere a la implementación de criterios de toma de decisión en el uso de sistemas de TI, su arquitectura y la creación y explotación de activos tecnológicos para cubrir las necesidades presentes y futuras del negocio.
-
-## Qué se espera de la TI?
+### ¿Qué se espera de la TI?
 
 - Asegurar disponibilidad de sus equipamientos y sistemas
 - Implementar proyectos y cambios en el plazo acordado
 - Reducir a largo plazo el costo de provisión y soporte del servicio
 - Alinear los servicios de TI con las necesidades presentes y futuras del negocio y los clientes
 - Entregar servicios de calidad
-- …..
 - entre otros…
 
-## Qué recursos/capacidad tiene?
+### ¿Qué recursos/capacidad tiene?
 
-## Cómo los gestiona?
+![IMAGEN 2](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-2.jpg)
 
-- IT Management (Gestión Tecnológica y Operativa). Gestiona las capas más técnicas y operativas:
-- Technology y Tools: administración de infraestructura, plataformas, software y herramientas.
-- Tasks y Activities: ejecución de tareas operativas, monitoreo, soporte técnico y mantenimiento.
-- Aquí se enfocan áreas como infraestructura, DevOps, operación de plataformas, soporte técnico y monitoreo.
-- IT Service Management (ITSM)
-- Se enfoca en gestionar los servicios de TI que soportan al negocio:
-- IT Processes: procesos basados en marcos como ITIL (incidentes, problemas, cambios, niveles de servicio).
-- IT Services: definición, operación y mejora de los servicios que consumen los usuarios o clientes.
-- El objetivo es garantizar disponibilidad, calidad y continuidad de los servicios tecnológicos.
-- Business Processes:
-- conecta los servicios de TI con los procesos de negocio. Permite medir cómo la tecnología impacta en resultados del negocio y en la experiencia del cliente.
+### ¿Cómo los gestiona?
+
+![IMAGEN 3](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-3.jpg)
+
+- **IT Management (Gestión Tecnológica y Operativa). Gestiona las capas más técnicas y operativas:**
+  - Technology y Tools: administración de infraestructura, plataformas, software y herramientas.
+  - Tasks y Activities: ejecución de tareas operativas, monitoreo, soporte técnico y mantenimiento.
+  - Aquí se enfocan áreas como infraestructura, DevOps, operación de plataformas, soporte técnico y monitoreo.
+- **IT Service Management (ITSM)**
+  - Se enfoca en gestionar los servicios de TI que soportan al negocio:
+  - IT Processes: procesos basados en marcos como ITIL (incidentes, problemas, cambios, niveles de servicio).
+  - IT Services: definición, operación y mejora de los servicios que consumen los usuarios o clientes.
+  - El objetivo es garantizar disponibilidad, calidad y continuidad de los servicios tecnológicos.
+- **Business Processes:**
+  - conecta los servicios de TI con los procesos de negocio. Permite medir cómo la tecnología impacta en resultados del negocio y en la experiencia del cliente.
 
 ## Gobierno de TI
 
-¿Por qué es necesario Gobernar la TI? (mirada interna)
+### ¿Por qué es necesario Gobernar la TI? (mirada interna)
 
 - ¿Cómo sé si TI está en el camino correcto?
 - ¿Cómo solicito la ayuda del CIO para cumplir con los objetivos corporativos?
@@ -121,140 +114,126 @@ TI. Por tanto, la funcionalidad es lo que más les asocia. Se refiere a la creac
 - ¿Qué debo subcontratar?
 - ¿Qué debo entregar?
 
-## ¿Por qué es necesario Gobernar la TI? (mirada CIO/Gte Sistemas)
+### ¿Por qué es necesario Gobernar la TI? (mirada CIO/Gte Sistemas)
 
- Estrategia – “¿Estamos haciendo lo correcto?” Este cuadrante analiza si las iniciativas tecnológicas y los servicios de TI están alineados con los objetivos estratégicos del negocio.
+![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-4.jpg)
 
-Se evalúa:  si los servicios realmente apoyan los procesos de negocio,  si las prioridades tecnológicas son las adecuadas,  y si las inversiones en TI generan impacto en el negocio.
+- Estrategia – “¿Estamos haciendo lo correcto?”
+Este cuadrante analiza si las iniciativas tecnológicas y los servicios de TI están alineados con los objetivos estratégicos del negocio.
 
- Generación de Valor – “¿Estamos obteniendo los beneficios?” Aquí se mide si las iniciativas implementadas realmente producen resultados.
+Se evalúa: 
+  - si los servicios realmente apoyan los procesos de negocio,
+  - si las prioridades tecnológicas son las adecuadas,
+  - y si las inversiones en TI generan impacto en el negocio.
 
-Se analizan indicadores como:  retorno de inversión (ROI),  satisfacción del cliente,  mejoras en productividad o eficiencia.
-
+- Generación de Valor – “¿Estamos obteniendo los beneficios?”
+Aquí se mide si las iniciativas implementadas realmente producen resultados.
+Se analizan indicadores como:
+  - retorno de inversión (ROI),
+  - satisfacción del cliente,
+  - mejoras en productividad o eficiencia.
 El foco está en validar que la tecnología genere valor tangible para la organización.
 
- Capacidad Tecnológica – “¿Lo estamos haciendo correctamente?” Este cuadrante evalúa la madurez técnica y operativa de la organización:
-
- arquitectura tecnológica,  herramientas,  procesos ITSM,  capacidades del equipo.
+- Capacidad Tecnológica – “¿Lo estamos haciendo correctamente?”
+Este cuadrante evalúa la madurez técnica y operativa de la organización:
+  - arquitectura tecnológica,
+  - herramientas,
+  - procesos ITSM,
+  - capacidades del equipo.
 
 Se busca asegurar que la organización tenga los recursos y competencias necesarias para operar los servicios correctamente.
 
- Provisión de Servicios – “¿Lo estamos logrando bien?” Se centra en cómo se entregan y operan los servicios en el día a día.
+- Provisión de Servicios – “¿Lo estamos logrando bien?”
+Se centra en cómo se entregan y operan los servicios en el día a día.
+Se mide a través de:
+  - SLA y XLA,
+  - disponibilidad y rendimiento,
+  - tiempos de respuesta y resolución,
+  - calidad de la experiencia del usuario.
 
-Se mide a través de:  SLA y XLA,  disponibilidad y rendimiento,  tiempos de respuesta y resolución,  calidad de la experiencia del usuario.
+### Qué es Gobernar?
 
-## Qué es Gobernar?
+- quién toma las decisiones de dirección, control y ejecución
+- cómo se tomarán las decisiones
+- qué información se requiere para tomar las decisiones
+- qué mecanismos de toma de decisiones deberían ser necesarios
+- cómo se manejarán las excepciones
+- cómo deben revisarse y mejorarse los resultados de la gobernanza;
 
-- quién toma las decisiones de dirección, control y ejecución - cómo se tomarán las decisiones - qué información se requiere para tomar las decisiones - qué mecanismos de toma de decisiones deberían ser necesarios - cómo se manejarán las excepciones - cómo deben revisarse y mejorarse los resultados de la gobernanza; ¿QUÉ ES GOBERNANZA? Gobernanza (Comisión Económica y Social de las Naciones Unidas ).
+![IMAGEN 5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-5.jpg)
 
- El concepto de ‘gobernanza’ no es nuevo. Es tan antiguo como la civilización humana.
+![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-6.jpg)
 
- El mal gobierno se considera cada vez más como una de las razones principales de los males en nuestras sociedades.
+### ¿QUÉ ES GOBERNANZA? Gobernanza (Comisión Económica y Social de las Naciones Unidas).
 
- Gobernanza como concepto aislado significa: el proceso de toma de decisiones y el proceso por el que las decisiones son implementadas, o no.
+- El concepto de ‘gobernanza’ no es nuevo. Es tan antiguo como la civilización humana.
+- El mal gobierno se considera cada vez más como una de las razones principales de los males en nuestras sociedades.
+- Gobernanza como concepto aislado significa: el proceso de toma de decisiones y el proceso por el que las decisiones son implementadas, o no.
 
-El código de buen Gobierno  Que la política de control y gestión de riesgos identifique al menos:
+#### El código de buen Gobierno 
+- Que la política de control y gestión de riesgos identifique al menos:
+  - Los distintos tipos de riesgo (operativos, tecnológicos, financieros, legales, reputacionales…) a los que se enfrenta la sociedad
+  - La fijación del nivel de riesgo que la sociedad considere aceptable;
+  - Las medidas previstas para mitigar el impacto de los riesgos identificados, en caso de que llegaran a materializarse;
+  - Los sistemas de información y control interno que se utilizarán para controlar y gestionar los citados riesgos
 
- Los distintos tipos de riesgo (operativos, tecnológicos, financieros, legales, reputacionales…) a los que se enfrenta la sociedad  La fijación del nivel de riesgo que la sociedad considere aceptable;  Las medidas previstas para mitigar el impacto de los riesgos identificados, en caso de que llegaran a materializarse;  Los sistemas de información y control interno que se utilizarán para controlar y gestionar los citados riesgos Qué es Gobierno de empresa?
+### Qué es Gobierno de empresa?
 
-Definiciones:  IT Governance es una parte del Gobierno Corporativo, que busca 2 cosas fundamentales: agregar valor a la compañía y mitigar los riesgos que la tecnología podría generarle al negocio.
+![IMAGEN 7](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-7.jpg)
+
+### Definiciones: 
+IT Governance es una parte del Gobierno Corporativo, que busca 2 cosas fundamentales: agregar valor a la compañía y mitigar los riesgos que la tecnología podría generarle al negocio.
 
 IT Governance vela por alinear la estrategia de IT con la del negocio, proveer correcta dirección a los procesos que implementan la estrategia y garantizar la obtención de los resultados deseados.
 
- Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como: Alineamiento Estratégico, Generación de Valor, Gestión de Riesgos, Gestión de Recursos y Medición del Desempeño.
+Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como: Alineamiento Estratégico, Generación de Valor, Gestión de Riesgos, Gestión de Recursos y Medición del Desempeño.
 
 IT debe ser gerenciado y gobernado con la misma rigurosidad e importancia con la cual se manejan los Activos estratégicos de la organización con foco en Valor.
 
- IT Governance es el instrumento que las organizaciones necesitan para vincular la mejora de los procesos de IT con la Estrategia del Negocio.
+IT Governance es el instrumento que las organizaciones necesitan para vincular la mejora de los procesos de IT con la Estrategia del Negocio.
 
- La gobernanza de la información y la tecnología (TI) es una disciplina de subconjunto de gobierno corporativo, centrada en la información y tecnología (TI) y su desempeño y gestión de riesgos. El interés en la gobernanza de TI se debe a la necesidad continua dentro de las organizaciones de concentrar los esfuerzos de creación de valor en los objetivos estratégicos de una organización y de administrar mejor el desempeño de los responsables de crear este valor en el mejor interés de todas las partes interesadas.
+La gobernanza de la información y la tecnología (TI) es una disciplina de subconjunto de gobierno corporativo, centrada en la información y tecnología (TI) y su desempeño y gestión de riesgos. El interés en la gobernanza de TI se debe a la necesidad continua dentro de las organizaciones de concentrar los esfuerzos de creación de valor en los objetivos estratégicos de una organización y de administrar mejor el desempeño de los responsables de crear este valor en el mejor interés de todas las partes interesadas.
 
- Históricamente, los ejecutivos de la junta directiva aplazaron las decisiones clave de TI para los líderes empresariales y de administración de TI de la empresa. Los objetivos a corto plazo de los responsables de la gestión de TI pueden estar en conflicto con los mejores intereses de otras partes interesadas, a menos que se establezca una supervisión adecuada.
+Históricamente, los ejecutivos de la junta directiva aplazaron las decisiones clave de TI para los líderes empresariales y de administración de TI de la empresa. Los objetivos a corto plazo de los responsables de la gestión de TI pueden estar en conflicto con los mejores intereses de otras partes interesadas, a menos que se establezca una supervisión adecuada.
 
- La gobernanza de TI involucra sistemáticamente a todos: miembros del consejo, dirección ejecutiva, personal, clientes, comunidades, inversionistas y reguladores.
+La gobernanza de TI involucra sistemáticamente a todos: miembros del consejo, dirección ejecutiva, personal, clientes, comunidades, inversionistas y reguladores.
 
- Un marco de gobierno de TI se utiliza para identificar, establecer y vincular los mecanismos para supervisar el uso de la información y la tecnología relacionada para crear valor y administrar los riesgos asociados con el uso de la información y la tecnología.
+Un marco de gobierno de TI se utiliza para identificar, establecer y vincular los mecanismos para supervisar el uso de la información y la tecnología relacionada para crear valor y administrar los riesgos asociados con el uso de la información y la tecnología.
 
- Existen varias definiciones de gobierno de TI. Mientras que en el mundo de los negocios se ha centrado en la gestión del rendimiento y la creación de valor, en el mundo académico se ha centrado en "especificar los derechos de decisión y un marco de rendición de cuentas para fomentar el comportamiento deseable en el uso de TI"  La definición del IT Governance Institute es: "... liderazgo, estructuras organizativas y procesos para asegurar que la TI de la organización sustente y extienda las estrategias y objetivos de la organización".
+Existen varias definiciones de gobierno de TI. Mientras que en el mundo de los negocios se ha centrado en la gestión del rendimiento y la creación de valor, en el mundo académico se ha centrado en "especificar los derechos de decisión y un marco de rendición de cuentas para fomentar el comportamiento deseable en el uso de TI" 
 
- AS8015, la Norma Australiana, define el gobierno de las TIC como "El sistema por el que se dirige y controla el uso actual y futuro de las TIC", que consiste en evaluar y dirigir los planes de uso de las TIC para apoyar la organización y monitorear este uso para lograr planes, incluyendo la estrategia y políticas para el uso de las TIC dentro de una organización ".
+La definición del IT Governance Institute es: "... liderazgo, estructuras organizativas y procesos para asegurar que la TI de la organización sustente y extienda las estrategias y objetivos de la organización".
+
+AS8015, la Norma Australiana, define el gobierno de las TIC como "El sistema por el que se dirige y controla el uso actual y futuro de las TIC", que consiste en evaluar y dirigir los planes de uso de las TIC para apoyar la organización y monitorear este uso para lograr planes, incluyendo la estrategia y políticas para el uso de las TIC dentro de una organización ".
 
 En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejores prácticas que facilitan su dirección para:
 
- Apoyar a los objetivos en la creación de valor.  Incrementar el rendimiento de los procesos de TI.
+- Apoyar a los objetivos en la creación de valor.  Incrementar el rendimiento de los procesos de TI.
+- Mejorar los temas financieros relacionados con TI.  Desarrollar soluciones de TI y las competencias necesarias, en el futuro, para la empresa.
+- Asegurar que los riesgos relacionados con TI están gestionados.  Desarrollar relaciones en un marco de transparencia.
 
- Mejorar los temas financieros relacionados con TI.  Desarrollar soluciones de TI y las competencias necesarias, en el futuro, para la empresa.
+### Impacto del NO Governance
 
- Asegurar que los riesgos relacionados con TI están gestionados.  Desarrollar relaciones en un marco de transparencia.
+- Problemas específicos percibidos por el negocio son:
+  - TI no entrega los servicios que requiere el negocio.
+  - Muchos proyectos de TI no producen los beneficios ni los cambios esperados por la organización.
+  - Se consumen demasiados recursos en dar soporte y mantener los sistemas existentes.
+  - Excesiva atención de TI a las nuevas tecnologías y modas en detrimento de las necesidades reales del negocio.
+  - Demasiada reactividad de TI ante la demanda y poca proactividad en soluciones.
+  - Desconexión entre la mejora de procesos en el negocio y en TI.
+  - No se perciben los beneficios de las inversiones en TI como reales y se cuestiona su valor para el negocio.
+  - Desconfianza en la capacidad real de TI para resolver problemas del negocio.
+  - Insatisfacción de los usuarios con TI.
 
-## Impacto del NO Governance
-
- Problemas específicos percibidos por el negocio son:  TI no entrega los servicios que requiere el negocio.
-
-Muchos proyectos de TI no producen los beneficios ni los cambios esperados por la organización.
-
- Se consumen demasiados recursos en dar soporte y mantener los sistemas existentes.
-
- Excesiva atención de TI a las nuevas tecnologías y modas en detrimento de las necesidades reales del negocio.
-
- Demasiada reactividad de TI ante la demanda y poca proactividad en soluciones.  Desconexión entre la mejora de procesos en el negocio y en TI.
-
- No se perciben los beneficios de las inversiones en TI como reales y se cuestiona su valor para el negocio.
-
- Desconfianza en la capacidad real de TI para resolver problemas del negocio.  Insatisfacción de los usuarios con TI.
-
-## Gobernanza Corporativa Gobernanza de negocio Gobernanza de TI
-
-- Deberes y responsabilidades de
-
-Directores/Líderes
-
-- Cumplimiento y control legislativo/fiduciario
-- Derechos de terceros afectados
-- Ética e Integridad
-- Operaciones de negocio, riesgo y control
-- Contabilidad Financiera e
-
-Informes
-
-- Gestión de activos
-- Gestión del riesgo
-- Metas y objetivos del negocio
-- Estrategia y
-
-Planificación del negocio
-
-- Procesos del negocio
-- Capacidades Inn. + Inv.
-- Conocimiento y Capital intelectual
-- Gestión de la información
-- Gestión de Recursos
-
-Humanos
-
-- Servicio al cliente y relaciones
-- Comunicación interna y externa
-- Control de Gestión
-- Objetivos de TI
-- Alineamiento e Integración con los objetivos de la
-
-Empresa
-
-- Recursos de TI
-- Gestión del Conocimiento
-- Estrategia y Planificación de
-
-TI
-
-- Adquisición e implementación de TI
-- Operaciones de TI, riesgo y control
-- Gestión de activos de TI
-- Gestión del riesgo de TI
+| Gobernanza Corporativa | Gobernanza de negocio | Gobernanza de TI |
+|---|---|---|
+| • Deberes y responsabilidades de Directores/Líderes<br><br>• Cumplimiento y control legislativo/fiduciario<br><br>• Derechos de terceros afectados<br><br>• Ética e Integridad<br><br>• Operaciones de negocio, riesgo y control<br><br>• Contabilidad Financiera e Informes<br><br>• Gestión de activos<br><br>• Gestión del riesgo | • Metas y objetivos del negocio<br><br>• Estrategia y Planificación del negocio<br><br>• Procesos del negocio<br><br>• Capacidades Inn. + Inv.<br><br>• Conocimiento y Capital intelectual<br><br>• Gestión de la información<br><br>• Gestión de Recursos Humanos<br><br>• Servicio al cliente y relaciones<br><br>• Comunicación interna y externa<br><br>• Control de Gestión | • Objetivos de TI<br><br>• Alineamiento e Integración con los objetivos de la Empresa<br><br>• Recursos de TI<br><br>• Gestión del Conocimiento<br><br>• Estrategia y Planificación de TI<br><br>• Adquisición e implementación de TI<br><br>• Operaciones de TI, riesgo y control<br><br>• Gestión de activos de TI<br><br>• Gestión del riesgo de TI |
 
 ## Gobierno de TI: evalúa, dirige y monitorea
 
-EVALUAR ¿QUÉ SIGNIFICA REALMENTE ‘EVALUAR’? Propuestas: Planes o sugerencias
+#### EVALUAR ¿QUÉ SIGNIFICA REALMENTE ‘EVALUAR’? 
 
+Propuestas: Planes o sugerencias
 - Visión.
 - Planes.
 - Iniciativas.
@@ -264,8 +243,8 @@ EVALUAR ¿QUÉ SIGNIFICA REALMENTE ‘EVALUAR’? Propuestas: Planes o sugerenci
 - Oferta (operacional - proyectos).
 - Gobernanza.
 
-DIRIGIR ¿Qué es DIRIGIR?
-
+#### DIRIGIR 
+¿Qué es DIRIGIR?
 - Delegación de autoridad.
 - Definir estrategias para establecer
 - foco y atención (misión-visión).
@@ -275,14 +254,11 @@ DIRIGIR ¿Qué es DIRIGIR?
 - Asignación progresiva de recursos.
 - Decisiones clave.
 
-## MONITOREAR
-
-Se monitoriza para: Asegurarse de que las pretensiones se están materializándose.
-
+#### MONITOREAR
+Se monitoriza para: 
+Asegurarse de que las pretensiones se están materializándose.
 Para proteger y mejorar los intereses y maximizar la probabilidad de alcanzar los objetivos.
-
 Problemas de la monitorización:
-
 - Se monitorizan cosas equivocadas.
 - A veces se centra en la actividad y no en los resultados.
 - Informes ininteligibles.
@@ -292,9 +268,51 @@ Problemas de la monitorización:
 
 Los principios rectores expresan preferentemente las conductas que guiarán a los directores ejecutivos en la toma de decisiones.
 
+| Principio | Descripción |
+|---|---|
+| **Responsabilidad** | Todas las personas deben comprender y aceptar sus responsabilidades en el contexto de TI. |
+| **Estrategia** | La estrategia del negocio toma en cuenta las capacidades actuales y futuras de las TI. Los planes estratégicos de TI satisfacen las necesidades actuales y previstas derivadas de la estrategia del negocio. |
+| **Adquisición** | Las adquisiciones de TI se hacen por razones válidas, en base a un análisis apropiado y continuo, con decisiones claras y transparentes. Hay un equilibrio adecuado entre beneficios, oportunidades, costes y riesgos tanto a corto como a largo plazo. |
+| **Rendimiento** | Las TI están dimensionadas para dar soporte al negocio, proporcionando los servicios, niveles de servicio y con la calidad adecuada para cumplir con las necesidades actuales y futuras del negocio. |
+| **Conformidad** | La función de TI cumple todas las regulaciones y normas aplicables. Las políticas y prácticas al respecto están claramente definidas, implementadas y exigidas. |
+| **Comportamiento humano** | Las políticas de TI, prácticas y decisiones demuestran respeto al talento humano, incluyendo las necesidades actuales y emergentes de toda la gente involucrada. |
+
+
+[Imagenes 9 a 14]
+
+![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-9.jpg)
+
+![IMAGEN 10](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-10.jpg)
+
+![IMAGEN 11](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-11.jpg)
+
+![IMAGEN 12](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-12.jpg)
+
+![IMAGEN 13](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-13.jpg)
+
+![IMAGEN 14](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-14.jpg)
+
+
+
 ## Gobierno de TI: Beneficios
 
+| Beneficios Cuantitativos | Beneficios Cualitativos |
+|---|---|
+| • Roles claros, responsabilidades definidas en la asignación de recursos. | • Alineación mejorada de las iniciativas de TI con las necesidades del negocio. |
+| • Ciclos de planeación efectivos maximizando recursos. | • Entendimiento mejorado del rol de TI en la consecución de los objetivos de la entidad. |
+| • Administración efectiva de nuevas propuestas de negocio o cambios. | • Mecanismo para evaluar de forma efectiva el impacto de cambios en la tecnología. |
+| • Un modelo que demuestra cómo TI está alineado con la entidad. | • Mejores relaciones internas entre las unidades de negocio. |
+| • Calidad mejorada producto de inversiones controladas y estratégicas de Tecnología de la Información. | |
+
 ## Gobierno de TI: Marcos de Referencia
+
+### Example Framework Categories
+| Tipo | Governance | Architecture | IT Service Management | Program and Project Management | Risk Management | Security Management | Quality and Improvement | Lifecycles |
+|---|---|---|---|---|---|---|---|---|
+| **Example Standards** | ISO38500 | ISO42010 | ISO20000 | ISO21500 | ISO31000<br>NIST | ISO27001<br>NIST | ISO15504 | ISO12207 |
+| **Example Good Practices** | COSO<br>COBIT | TOGAF<br>ASL/BiSL | ITIL | PMBOK<br>PRINCE2 | COBIT5 For Risk | COBIT5 for Security | SIX SIGMA<br>PDCA | SDLC<br>AGILE<br>DEVOPS |
+
+![IMAGEN 15](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-15.jpg)
 
 ## Estrategia TI
 
@@ -314,19 +332,21 @@ Todo esto con el fin de prevenir incidentes, optimizar recursos, reducir costos,
 
 Algunas de estas tecnologías son:
 
-- Softwares de ITSM
-- Atención omnicanal
-- Chatbots conversacionales
-- Portales de autoservicio
-- Base de conocimientos
-- Automatización de procesos (RPA)
+- [Softwares de ITSM](https://icorp.com.mx/blog/software-de-gestion-de-ti/)
+- [Atención omnicanal](https://icorp.com.mx/blog/que-es-omnicanal/)
+- [Chatbots conversacionales](https://icorp.com.mx/blog/10-razones-para-usar-chatbots-en-tu-empresa/)
+- Portales de autoservicio 
+- [Base de conocimientos](https://icorp.com.mx/blog/que-es-la-base-de-conocimientos-en-ti/)
+- [Automatización de procesos (RPA)](https://icorp.com.mx/blog/rpa-que-es/)
 - Analítica con inteligencia artificial
 - Otras alternativas son:
-- Arrendamiento de equipos
-- Servicios en la Nube
-- Tercerización de servicios
+  - [Arrendamiento de equipos](https://icorp.com.mx/blog/estrategia-de-ti-para-pasar-de-capex-a-opex/)
+  - [Servicios en la Nube](https://icorp.com.mx/blog/que-es-la-nube-informatica/)
+  - [Tercerización de servicios](https://icorp.com.mx/blog/servicios-especializados-de-ti/)
 
 ## El rol de TI en la Relación con el Negocio (4Ps)
+
+![IMAGEN 16](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-16.jpg)
 
 - El proveedor enfatiza la confiabilidad, la eficiencia y el cumplimiento, ya que
 
@@ -337,6 +357,8 @@ TI busca satisfacer las demandas de las áreas colegas.
 - El Par trabaja junto con colegas de negocios para dar forma a la estrategia futura de la empresa y establecer y mantener una ventaja competitiva
 
 ## Estrategia
+
+![IMAGEN 17](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-17.jpg)
 
 - La estrategia es un procedimiento (conjunto de pasos) dispuesto para la toma de decisiones y/o para accionar frente a un determinado escenario. Esto, buscando alcanzar uno o varios objetivos previamente definidos.
 - Es decir, la estrategia es un plan mediante el cual se busca lograr una meta.
@@ -358,6 +380,8 @@ Tenemos, por ejemplo, la estrategia push y la estrategia pull.
 
 ## Estrategia de TI
 
+![IMAGEN 18](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-18.jpg)
+
 Una estrategia de TI es un plan integral que define cómo se debe utilizar la tecnología para cumplir con los objetivos de negocio y de TI. Es un modelo de cómo la tecnología puede respaldar la estrategia de negocio general.
 
 Elementos clave de una estrategia de TI
@@ -372,6 +396,8 @@ Elementos clave de una estrategia de TI
 - Evaluación y seguimiento continuos
 - Gobernanza
 - Infraestructura / Arquitectura tecnológica
+
+![IMAGEN 19](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-19.jpg)
 
 ## Ejemplos de Estrategia de TI
 
@@ -389,17 +415,17 @@ Elementos clave de una estrategia de TI
 - Una buena estrategia de TI debe alinearse con la estrategia de negocio general y los objetivos de la organización. También debe tener en cuenta el estado actual de la tecnología de la organización, el presupuesto y los recursos de la organización, así como los requisitos reglamentarios o de cumplimiento.
 - La estrategia debe ser lo suficientemente flexible para ajustarse de acuerdo con las nuevas demandas de la organización, los objetivos comerciales, las tendencias externas, la experiencia disponible o los requisitos de los usuarios. Por ejemplo, la pandemia de COVID-19 obligó a muchas organizaciones a actualizar sus estrategias.
 - ¿Quién crea el plan estratégico de TI?
-- Idealmente, el CIO, o Director de Información, suele ser responsable de liderar el desarrollo y la implementación del plan.
-- Sin embargo, incluso en ausencia de un CIO, aún es posible desarrollar una estrategia de TI efectiva. En tales casos, el equipo de TI, ya sea interno o subcontratado, asume un papel más destacado en la conducción del proceso. Este es particularmente el caso de las PYMES, ya que a menudo tienen recursos y presupuesto limitados para contratar a un CIO o CTO.
+  - Idealmente, el CIO, o Director de Información, suele ser responsable de liderar el desarrollo y la implementación del plan.
+  - Sin embargo, incluso en ausencia de un CIO, aún es posible desarrollar una estrategia de TI efectiva. En tales casos, el equipo de TI, ya sea interno o subcontratado, asume un papel más destacado en la conducción del proceso. Este es particularmente el caso de las PYMES, ya que a menudo tienen recursos y presupuesto limitados para contratar a un CIO o CTO.
 - Preguntas que debe abordar el plan estratégico de TI:
-- ¿Qué recursos necesitamos tanto interna como externamente?
-- ¿Qué inversiones en tecnología son necesarias para alcanzar los objetivos comerciales?
-- ¿Cómo se definirá y evaluará el éxito?
-- ¿Cómo evolucionará la estrategia de TI de la organización con el tiempo para satisfacer las necesidades cambiantes del negocio?
-- ¿Qué iniciativas y proyectos de TI deben emprenderse a corto y largo plazo?
+  - ¿Qué recursos necesitamos tanto interna como externamente?
+  - ¿Qué inversiones en tecnología son necesarias para alcanzar los objetivos comerciales?
+  - ¿Cómo se definirá y evaluará el éxito?
+  - ¿Cómo evolucionará la estrategia de TI de la organización con el tiempo para satisfacer las necesidades cambiantes del negocio?
+  - ¿Qué iniciativas y proyectos de TI deben emprenderse a corto y largo plazo?
 
 ## Contenido del Plan Estratégico de TI
-
+# FALTA EDITAR ESTAS TABLAS
 Objetivos de negocios El plan debe establecer claramente los objetivos comerciales generales de la organización y cómo la tecnología de la información apoyará el logro de esos objetivos.
 
 Visión y misión de TI Las declaraciones de visión y misión de TI de la organización, que deben alinearse con la visión y misión general del negocio.
@@ -438,9 +464,15 @@ Con demasiada frecuencia se produce una brecha entre la formulación y la ejecuc
 
 En el contexto actual, esto puede ser un error fatal que genera costos no deseados, oportunidades perdidas y, en última instancia, fallas en la ejecución. Y cuando ocurre una falla en la ejecución, las pérdidas son significativas independientemente del sector.
 
+![IMAGEN 20](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-20.jpg)
+
 ## Relación entre Estrategia y Ejecución
 
+![IMAGEN 21](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-21.jpg)
+
 ## Estrategia y Ejecución vs Gobierno y Gestión TI
+
+![IMAGEN 22](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-22.jpg)
 
 ## Conclusiones
 
