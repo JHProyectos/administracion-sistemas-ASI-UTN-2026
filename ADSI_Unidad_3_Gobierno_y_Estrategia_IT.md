@@ -118,15 +118,15 @@ Una vez que las organizaciones comienzan el proceso de transformación, este afe
 
 ![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-4.jpg)
 
-- Estrategia – “¿Estamos haciendo lo correcto?”
+#### - Estrategia – “¿Estamos haciendo lo correcto?”
 Este cuadrante analiza si las iniciativas tecnológicas y los servicios de TI están alineados con los objetivos estratégicos del negocio.
 
 Se evalúa: 
-  - si los servicios realmente apoyan los procesos de negocio,
-  - si las prioridades tecnológicas son las adecuadas,
-  - y si las inversiones en TI generan impacto en el negocio.
+    - si los servicios realmente apoyan los procesos de negocio,
+    - si las prioridades tecnológicas son las adecuadas,
+    - y si las inversiones en TI generan impacto en el negocio.
 
-- Generación de Valor – “¿Estamos obteniendo los beneficios?”
+#### - Generación de Valor – “¿Estamos obteniendo los beneficios?”
 Aquí se mide si las iniciativas implementadas realmente producen resultados.
 Se analizan indicadores como:
   - retorno de inversión (ROI),
@@ -134,7 +134,7 @@ Se analizan indicadores como:
   - mejoras en productividad o eficiencia.
 El foco está en validar que la tecnología genere valor tangible para la organización.
 
-- Capacidad Tecnológica – “¿Lo estamos haciendo correctamente?”
+#### - Capacidad Tecnológica – “¿Lo estamos haciendo correctamente?”
 Este cuadrante evalúa la madurez técnica y operativa de la organización:
   - arquitectura tecnológica,
   - herramientas,
@@ -143,7 +143,7 @@ Este cuadrante evalúa la madurez técnica y operativa de la organización:
 
 Se busca asegurar que la organización tenga los recursos y competencias necesarias para operar los servicios correctamente.
 
-- Provisión de Servicios – “¿Lo estamos logrando bien?”
+#### - Provisión de Servicios – “¿Lo estamos logrando bien?”
 Se centra en cómo se entregan y operan los servicios en el día a día.
 Se mide a través de:
   - SLA y XLA,
@@ -227,7 +227,16 @@ En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejor
 
 | Gobernanza Corporativa | Gobernanza de negocio | Gobernanza de TI |
 |---|---|---|
-| • Deberes y responsabilidades de Directores/Líderes<br><br>• Cumplimiento y control legislativo/fiduciario<br><br>• Derechos de terceros afectados<br><br>• Ética e Integridad<br><br>• Operaciones de negocio, riesgo y control<br><br>• Contabilidad Financiera e Informes<br><br>• Gestión de activos<br><br>• Gestión del riesgo | • Metas y objetivos del negocio<br><br>• Estrategia y Planificación del negocio<br><br>• Procesos del negocio<br><br>• Capacidades Inn. + Inv.<br><br>• Conocimiento y Capital intelectual<br><br>• Gestión de la información<br><br>• Gestión de Recursos Humanos<br><br>• Servicio al cliente y relaciones<br><br>• Comunicación interna y externa<br><br>• Control de Gestión | • Objetivos de TI<br><br>• Alineamiento e Integración con los objetivos de la Empresa<br><br>• Recursos de TI<br><br>• Gestión del Conocimiento<br><br>• Estrategia y Planificación de TI<br><br>• Adquisición e implementación de TI<br><br>• Operaciones de TI, riesgo y control<br><br>• Gestión de activos de TI<br><br>• Gestión del riesgo de TI |
+| • Deberes y responsabilidades de Directores/Líderes | • Metas y objetivos del negocio | • Objetivos de TI |
+| • Cumplimiento y control legislativo/fiduciario |  • Estrategia y Planificación del negocio | • Alineamiento e Integración con los objetivos de la Empresa |
+| • Derechos de terceros afectados | • Procesos del negocio | • Recursos de TI |
+| • Ética e Integridad | • Capacidades Inn. + Inv. | • Gestión del Conocimiento |
+| • Operaciones de negocio, riesgo y control | • Conocimiento y Capital intelectual | • Estrategia y Planificación de TI |
+| • Contabilidad Financiera e Informes | • Gestión de la información | • Adquisición e implementación de TI |
+| • Gestión de activos | • Gestión de Recursos Humanos | • Operaciones de TI, riesgo y control |
+| • Gestión del riesgo | • Servicio al cliente y relaciones | • Gestión de activos de TI |
+| | • Comunicación interna y externa | • Gestión del riesgo de TI |
+| | • Control de Gestión | |
 
 ### Gobierno de TI: evalúa, dirige y monitorea
 
