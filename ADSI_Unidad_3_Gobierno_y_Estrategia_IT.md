@@ -164,7 +164,7 @@ Se mide a través de:
 
 ![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-6.jpg)
 
-### ¿QUÉ ES GOBERNANZA? 
+### ¿Qué es Gobernanza? 
 
 #### Gobernanza (Comisión Económica y Social de las Naciones Unidas).
 
@@ -242,7 +242,7 @@ En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejor
 
 ### Gobierno de TI: evalúa, dirige y monitorea
 
-#### EVALUAR ¿QUÉ SIGNIFICA REALMENTE ‘EVALUAR’? 
+#### EVALUAR 
 
 Propuestas: Planes o sugerencias
 - Visión.
@@ -255,7 +255,7 @@ Propuestas: Planes o sugerencias
 - Gobernanza.
 
 #### DIRIGIR 
-¿Qué es DIRIGIR?
+
 - Delegación de autoridad.
 - Definir estrategias para establecer
 - foco y atención (misión-visión).
