@@ -188,7 +188,11 @@ IT Governance es una parte del Gobierno Corporativo, que busca 2 cosas fundament
 
 IT Governance vela por alinear la estrategia de IT con la del negocio, proveer correcta dirección a los procesos que implementan la estrategia y garantizar la obtención de los resultados deseados.
 
-Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como: Alineamiento Estratégico, Generación de Valor, Gestión de Riesgos, Gestión de Recursos y Medición del Desempeño.
+Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como: - Alineamiento Estratégico, 
+- Generación de Valor, 
+- Gestión de Riesgos, 
+- Gestión de Recursos y 
+- Medición del Desempeño.
 
 IT debe ser gerenciado y gobernado con la misma rigurosidad e importancia con la cual se manejan los Activos estratégicos de la organización con foco en Valor.
 
@@ -210,9 +214,12 @@ AS8015, la Norma Australiana, define el gobierno de las TIC como "El sistema por
 
 En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejores prácticas que facilitan su dirección para:
 
-- Apoyar a los objetivos en la creación de valor.  Incrementar el rendimiento de los procesos de TI.
-- Mejorar los temas financieros relacionados con TI.  Desarrollar soluciones de TI y las competencias necesarias, en el futuro, para la empresa.
-- Asegurar que los riesgos relacionados con TI están gestionados.  Desarrollar relaciones en un marco de transparencia.
+- Apoyar a los objetivos en la creación de valor.
+- Incrementar el rendimiento de los procesos de TI.
+- Mejorar los temas financieros relacionados con TI.
+- Desarrollar soluciones de TI y las competencias necesarias, en el futuro, para la empresa.
+- Asegurar que los riesgos relacionados con TI están gestionados.
+- Desarrollar relaciones en un marco de transparencia.
 
 ### Impacto del NO Governance
 
