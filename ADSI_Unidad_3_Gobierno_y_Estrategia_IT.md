@@ -188,7 +188,8 @@ IT Governance es una parte del Gobierno Corporativo, que busca 2 cosas fundament
 
 IT Governance vela por alinear la estrategia de IT con la del negocio, proveer correcta dirección a los procesos que implementan la estrategia y garantizar la obtención de los resultados deseados.
 
-Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como: - Alineamiento Estratégico, 
+Por ello, cuando se aborda un proyecto de análisis y diseño de un plan de acción de IT Governance, este debe incluir capítulos como:
+- Alineamiento Estratégico, 
 - Generación de Valor, 
 - Gestión de Riesgos, 
 - Gestión de Recursos y 
