@@ -95,7 +95,7 @@ Objetivos:
 - Mejorar la calidad del servicio de IT en su totalidad
 - Reducir a largo plazo el costo de provisión y soporte del servicio
 
-## Cuál es el foco de la Gestión de los servicios TI ?
+## ¿Cuál es el foco de la Gestión de los servicios TI ?
 
 ![IMAGEN 3](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-3.jfif)
 
@@ -174,7 +174,7 @@ La definición de servicio es el concepto fundacional de la ITSM. Un servicio se
 
 Desde la perspectiva de sistemas, esto implica un proceso de abstracción. El equipo de TI gestiona la complejidad subyacente (el costo y el riesgo) de los activos y procesos de soporte, permitiendo que el cliente se enfoque únicamente en el resultado o el valor funcional (ej. "capacidad de facturación electrónica" en lugar de "servidor de base de datos"). El valor se genera cuando la tecnología soporta un proceso de negocio específico, y la gestión se orienta a asegurar que esa funcionalidad de negocio se entregue de manera confiable.
 
-## Cómo se producen los Servicios TI?
+## ¿Cómo se producen los Servicios TI?
 
 ![IMAGEN 8](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-8.jfif)
 
@@ -185,7 +185,7 @@ Esta imagen presenta el modelo de producción de un Servicio de TI como la combi
 
 La conjunción de Activos y Procesos permite entregar *Servicios TI para clientes* que soportan funciones críticas del negocio (ej. facturación, finanzas). Este modelo subraya que el valor no reside solo en la tecnología, sino en la manera disciplinada y repetible (proceso) en que esta se utiliza.
 
-## Qué es un proceso TI?
+## ¿Qué es un proceso TI?
 
 ![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-9.png)
 
@@ -238,7 +238,7 @@ El mensaje clave es que los proveedores de servicios entregan valor al facilitar
 
 # Operación de los Servicios
 
-## Qué es la Operación de Servicios TI ??
+## ¿Qué es la Operación de Servicios TI?
 
 ![IMAGEN 12](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-4/imagen-12.jfif)
 
