@@ -164,7 +164,9 @@ Se mide a través de:
 
 ![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-6.jpg)
 
-### ¿QUÉ ES GOBERNANZA? Gobernanza (Comisión Económica y Social de las Naciones Unidas).
+### ¿QUÉ ES GOBERNANZA? 
+
+#### Gobernanza (Comisión Económica y Social de las Naciones Unidas).
 
 - El concepto de ‘gobernanza’ no es nuevo. Es tan antiguo como la civilización humana.
 - El mal gobierno se considera cada vez más como una de las razones principales de los males en nuestras sociedades.
