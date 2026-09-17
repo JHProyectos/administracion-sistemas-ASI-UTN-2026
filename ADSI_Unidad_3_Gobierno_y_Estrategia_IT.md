@@ -151,7 +151,7 @@ Se mide a través de:
   - tiempos de respuesta y resolución,
   - calidad de la experiencia del usuario.
 
-### Qué es Gobernar?
+### ¿Qué es Gobernar?
 
 - quién toma las decisiones de dirección, control y ejecución
 - cómo se tomarán las decisiones
