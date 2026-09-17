@@ -265,8 +265,7 @@ Propuestas: Planes o sugerencias
 #### DIRIGIR 
 
 - Delegación de autoridad.
-- Definir estrategias para establecer
-- foco y atención (misión-visión).
+- Definir estrategias para establecer foco y atención (misión-visión).
 - Definir planes específicos.
 - Definir políticas para guiar las
 - decisiones de la gestión.
@@ -275,7 +274,7 @@ Propuestas: Planes o sugerencias
 
 #### MONITOREAR
 Se monitoriza para: 
-Asegurarse de que las pretensiones se están materializándose.
+Asegurarse de que las pretensiones se están materializando.
 Para proteger y mejorar los intereses y maximizar la probabilidad de alcanzar los objetivos.
 Problemas de la monitorización:
 - Se monitorizan cosas equivocadas.
