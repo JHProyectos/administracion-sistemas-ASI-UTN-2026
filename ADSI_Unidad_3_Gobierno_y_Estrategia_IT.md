@@ -10,7 +10,7 @@ Cátedra: Administración de Sistemas de Información (ADSI) — UTN, Facultad R
 
 Estamos experimentando la mayor TRANSFORMACIÓN social de la era de la máquina industrial a la era de la información /conocimiento /insight /digital. La digitalización implica cambios a gran escala en la forma en que se realizan los negocios para que sea una planificación y orquestación multidimensional.
 
-Aunque viviendo en el mar digital, tenemos que cambiar con la "marea", también tenemos que seguir los principios bien definidos que nos guiarán en las decisiones y cómo nos relacionas con los demás, con qué velocidad podemos nadar en el agua desconocida, qué capacidades nos ayudan a sobrevivir y prosperar, y cómo concentrarnos con láser en el destino sin perderse.
+Aunque viviendo en el mar digital, tenemos que cambiar con la "marea", también tenemos que seguir los principios bien definidos que nos guiarán en las decisiones y cómo nos relacionan con los demás, con qué velocidad podemos nadar en el agua desconocida, qué capacidades nos ayudan a sobrevivir y prosperar, y cómo concentrarnos con láser en el destino sin perderse.
 
 Estos cambios y transformaciones están remodelando nuestro pensamiento y la forma en que nos vemos a nosotros mismos, los sistemas de los que somos parte, los entornos en los que vivimos.
 
@@ -18,7 +18,7 @@ Estos cambios y transformaciones están remodelando nuestro pensamiento y la for
 
 ## Digitalización
 
-¿Qué es la digitalización y cuáles son sus ventajas? La digitalización, en términos genéricos, es el proceso de conversión de medios analógicos a digitales. El formato digital utiliza los dígitos 1 y o para interpretar los datos recibidos y enviados, es decir, la información se genera bajo la tecnología computacional.
+¿Qué es la digitalización y cuáles son sus ventajas? La digitalización, en términos genéricos, es el proceso de conversión de medios analógicos a digitales. El formato digital utiliza los dígitos 1 y 0 para interpretar los datos recibidos y enviados, es decir, la información se genera bajo la tecnología computacional.
 
 La música, la fotografía o el cine, por ejemplo, antes se reproducían en medios analógicos y ahora se almacenan mayoritariamente en unidades digitales. Por lo que decimos que se han digitalizado.
 
@@ -53,7 +53,9 @@ Los conceptos digitalización y transformación digital se han puesto muy de mod
 
 La diferencia entre ambos puede no tener importancia a ojos de algunos, pero cuando hablamos de empresas y sus estrategias es importante saber distinguirlos.
 
-La transformación digital busca solucionar los problemas del negocio A pesar de que, al igual que la digitalización, podemos observar la transformación digital en los negocios y sus procesos, este término abarca mucho más que la simple adaptación de la empresa a las tecnologías digitales.
+La transformación digital busca solucionar los problemas del negocio 
+
+A pesar de que, al igual que la digitalización, podemos observar la transformación digital en los negocios y sus procesos, este término abarca mucho más que la simple adaptación de la empresa a las tecnologías digitales.
 
 Esta transformación busca solucionar los problemas que entorpecen el óptimo funcionamiento del negocio aplicando la mejor tecnología posible. Para poder hacerlo primero hay que detectar esos problemas y puntos a mejorar y decidir cuál es el mejor medio digital para resolverlos. Así pues, la tecnología no es el comienzo o la causa de esa transformación; lo es la solución a la que queremos llegar.
 
@@ -68,7 +70,7 @@ Una vez que las organizaciones comienzan el proceso de transformación, este afe
 ### Las 3 funciones principales de TI:
 
 - **Infraestructura** se refiere a componentes de hardware, La red, los circuitos y todos los demás equipos necesarios para que funcione un sistema informático.
-- **Funcionalidad** es quizás la tarea más visible realizada por el departamento de TI. Por tanto, la funcionalidad es lo que más les asocia. Se refiere a la creación y mantenimiento de aplicaciones operativas; eso desarrollar, asegurar y almacenar datos de la organización; y ayudar en el uso de software y gestión de datos.
+- **Funcionalidad** es quizás la tarea más visible realizada por el departamento de TI. Por tanto, la funcionalidad es lo que más les asocia. Se refiere a la creación y mantenimiento de aplicaciones operativas; es decir, desarrollar, asegurar y almacenar datos de la organización; y ayudar en el uso de software y gestión de datos.
 - **Gobernanza** se refiere a la implementación de criterios de toma de decisión en el uso de sistemas de TI, su arquitectura y la creación y explotación de activos tecnológicos para cubrir las necesidades presentes y futuras del negocio.
 
 ### ¿Qué se espera de la TI?
@@ -119,12 +121,13 @@ Una vez que las organizaciones comienzan el proceso de transformación, este afe
 ![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-4.jpg)
 
 #### - Estrategia – “¿Estamos haciendo lo correcto?”
+
 Este cuadrante analiza si las iniciativas tecnológicas y los servicios de TI están alineados con los objetivos estratégicos del negocio.
 
 Se evalúa: 
-    - si los servicios realmente apoyan los procesos de negocio,
-    - si las prioridades tecnológicas son las adecuadas,
-    - y si las inversiones en TI generan impacto en el negocio.
+  - si los servicios realmente apoyan los procesos de negocio,
+  - si las prioridades tecnológicas son las adecuadas,
+  - y si las inversiones en TI generan impacto en el negocio.
 
 #### - Generación de Valor – “¿Estamos obteniendo los beneficios?”
 Aquí se mide si las iniciativas implementadas realmente producen resultados.
@@ -132,6 +135,7 @@ Se analizan indicadores como:
   - retorno de inversión (ROI),
   - satisfacción del cliente,
   - mejoras en productividad o eficiencia.
+
 El foco está en validar que la tecnología genere valor tangible para la organización.
 
 #### - Capacidad Tecnológica – “¿Lo estamos haciendo correctamente?”
@@ -249,7 +253,7 @@ En definitiva, la Gobernanza de TI es un proceso de gestión basado en las mejor
 | | • Control de Gestión | |
 
 ### Gobierno de TI: evalúa, dirige y monitorea
-
+![IMAGEN 8](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-3/imagen-8.jpg)
 #### EVALUAR 
 
 Propuestas: Planes o sugerencias
@@ -267,15 +271,15 @@ Propuestas: Planes o sugerencias
 - Delegación de autoridad.
 - Definir estrategias para establecer foco y atención (misión-visión).
 - Definir planes específicos.
-- Definir políticas para guiar las
-- decisiones de la gestión.
+- Definir políticas para guiar las decisiones de la gestión.
 - Asignación progresiva de recursos.
 - Decisiones clave.
 
 #### MONITOREAR
 Se monitoriza para: 
-Asegurarse de que las pretensiones se están materializando.
-Para proteger y mejorar los intereses y maximizar la probabilidad de alcanzar los objetivos.
+- Asegurarse de que las pretensiones se están materializando.
+- Para proteger y mejorar los intereses y maximizar la probabilidad de alcanzar los objetivos.
+
 Problemas de la monitorización:
 - Se monitorizan cosas equivocadas.
 - A veces se centra en la actividad y no en los resultados.
@@ -440,14 +444,14 @@ Elementos clave de una estrategia de TI
 | **Evaluación del estado actual** | Una evaluación de las capacidades de TI actuales de la organización, incluido el hardware, el software y los procesos, así como un análisis de qué tan bien respaldan las operaciones de la organización. |
 | **Visión del estado futuro** | Una visión clara de cómo deberían ser las capacidades de TI de la organización en el futuro para brindar el mejor soporte al negocio. |
 | **Iniciativas estratégicas** | El plan debe identificar iniciativas estratégicas específicas que se emprenderán para cerrar la brecha entre las visiones del estado actual y futuro. Estas iniciativas podrían incluir proyectos, programas o mejoras de procesos. |
-| **Plan de IMPLEMENTACION** | Un plan de implementación detallado que describa los pasos que se tomarán para ejecutar las iniciativas estratégicas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso. |
+| **Plan de IMPLEMENTACIÓN** | Un plan de implementación detallado que describa los pasos que se tomarán para ejecutar las iniciativas estratégicas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso. |
 | **Gestión de riesgos** | Una estrategia de gestión de riesgos que identifica los riesgos potenciales para las operaciones de TI de la organización y describe cómo se gestionarán. |
 | **Recursos** | Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan. |
 | **Supervisión y revisión** | Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación. |
 | **Plan de Operación y Soporte de los Servicios TI** | Un plan para sostener la operación del negocio, gestiona de las fallas y asegurar disponibilidad. |
 | **Plan de Proyectos y Cambios TI** | Un plan de proyectos y cambios que describa los pasos que se tomarán para ejecutar las iniciativas y lograr la visión del estado futuro. Esto debe incluir cronogramas, hitos e indicadores clave de desempeño para medir el progreso. |
-| **Recursos TI** | Un presupuesto y un plan de asignación de recursos, que describa los recursos financieros y de personal necesarios para implementar el plan. |
-| **Supervisión y revisión** | Un proceso para monitorear y revisar el progreso del plan, incluidas revisiones periódicas, informes y un proceso de evaluación.|
+
+
 
 ### Ejecutando la Estrategia TI
 
