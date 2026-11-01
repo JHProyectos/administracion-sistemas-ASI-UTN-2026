@@ -4,20 +4,33 @@ Material de estudio de la materia **Administración de Sistemas de Información 
 
 Las presentaciones de cátedra de las **Unidades 3 y 4**, originalmente en PDF, están convertidas a **Markdown** para que sean más fáciles de leer, buscar, citar y reutilizar (por ejemplo, como fuente para resumir o para trabajar con herramientas de IA).
 
+Las **Unidades 5 y 6** tienen un resumen de estudio propio, y en `material/` están los PDF de teoría y los trabajos prácticos ordenados por unidad.
+
 ## Contenido
 
 | Archivo | Unidad | Temas principales |
 |---|---|---|
 | [`ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md`](ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md) | Unidad N.º 3 — Gobierno y Estrategia de TI | Digitalización y transformación digital, funciones del área de TI, Gobierno de TI, Estrategia de TI |
 | [`ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md`](ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md) | Unidad N.º 4 — Gestión Operativa de los Servicios TIC | Modelo de prestador de servicios TI, gestión de servicios (ITSM), procesos y roles, operación de servicios, gestión de eventos, monitoreo e incidencias |
+| [`ADSI_Unidades_5_y_6_Resumen.md`](ADSI_Unidades_5_y_6_Resumen.md) | Unidades N.º 5 y 6 — Administración de Recursos TI y Emprendimientos (resumen de estudio) | Proyectos, ciclo de vida, stakeholders, riesgos, factibilidad técnica, económica y operativa, contrataciones y pliegos; emprendedor tecnológico, financiamiento, organizaciones exponenciales, ExO Sprint y canvas |
 
 ```
 .
 ├── ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md
 ├── ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md
-└── imagenes/
-    ├── Unidad-3/     # diagramas y gráficos de la Unidad 3
-    └── Unidad-4/     # diagramas y gráficos de la Unidad 4
+├── ADSI_Unidades_5_y_6_Resumen.md
+├── imagenes/
+│   ├── Unidad-3/     # diagramas y gráficos de la Unidad 3
+│   └── Unidad-4/     # diagramas y gráficos de la Unidad 4
+└── material/         # archivos originales, por unidad
+    ├── unidad-1/     # TP 2: análisis y selección de talento (GlobalBank)
+    ├── unidad-3/     # TP 4: objetivos SMART y gobierno IT
+    ├── unidad-4/     # TP 6: gestión operativa de servicios IT
+    ├── unidad-5/
+    │   ├── teoria/   # apunte y diapositivas de la unidad
+    │   └── tp10/     # TP 10: factibilidad operativa (NovaRetail)
+    └── unidad-6/
+        └── teoria/   # material teórico de emprendimientos
 ```
 
 Las imágenes de las presentaciones (esquemas, diagramas y cuadros) están en `imagenes/` y se referencian con rutas relativas desde cada `.md`, así que se ven tanto en GitHub como en cualquier lector que respete la estructura de carpetas.
@@ -41,4 +54,4 @@ git clone https://github.com/JHProyectos/administracion-sistemas-ASI-UTN-2026.gi
 
 ## Aviso
 
-El contenido pertenece a la cátedra de Administración de Sistemas de Información de la UTN FRVT. Este repositorio es solo una adaptación de formato con fines de estudio; no reemplaza el material oficial publicado por la cátedra.
+El contenido pertenece a la cátedra de Administración de Sistemas de Información de la UTN FRVT. Este repositorio es solo una adaptación de formato con fines de estudio; los trabajos prácticos resueltos son producción de los grupos de alumnos; no reemplaza el material oficial publicado por la cátedra.

@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TP 10 · Factibilidad Operativa · NovaRetail · Grupo 3</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/white.css">
+<style>
+  :root {
+    --azul: #0b4f8a;
+    --azul-oscuro: #12263f;
+    --celeste: #e6f0fa;
+    --rojo: #d64545;
+    --naranja: #f09a3e;
+    --amarillo: #f2d64b;
+    --verde: #2e9d6b;
+  }
+  .reveal { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: var(--azul-oscuro); }
+  .reveal h1, .reveal h2 { font-family: inherit; color: var(--azul); text-transform: none; font-weight: 700; letter-spacing: -0.5px; }
+  .reveal h1 { font-size: 1.9em; margin-bottom: 0.1em; }
+  .reveal h2 { font-size: 1.35em; margin-bottom: 0.5em; }
+  .reveal .sub { font-size: 0.6em; color: #51627a; margin: 0; }
+  .reveal .grid { display: grid; gap: 22px; margin-top: 28px; }
+  .reveal .g4 { grid-template-columns: repeat(4, 1fr); }
+  .reveal .card { background: var(--celeste); border-radius: 16px; padding: 22px 14px; }
+  .reveal .num { display: block; white-space: nowrap; font-size: 1.45em; font-weight: 800; color: var(--azul); line-height: 1; }
+  .reveal .lbl { display: block; font-size: 0.6em; margin-top: 8px; line-height: 1.25; }
+  .reveal .objetivo { margin-top: 34px; background: var(--azul); color: #fff; border-radius: 16px; padding: 20px 28px; font-size: 0.7em; line-height: 1.35; }
+  .reveal .card h3 { font-size: 0.85em; margin: 0 0 8px; color: var(--azul); text-transform: none; }
+  .reveal .card p { font-size: 0.62em; margin: 0; line-height: 1.3; text-align: left; }
+  .reveal table { font-size: 0.58em; width: 100%; border-collapse: separate; border-spacing: 0 6px; margin: 0; }
+  .reveal th { color: var(--azul); font-weight: 700; border: 0; padding: 4px 14px; text-align: center; }
+  .reveal th:first-child, .reveal td:first-child { text-align: left; }
+  .reveal td { background: var(--celeste); padding: 9px 14px; border: 0; text-align: center; }
+  .reveal td:first-child { border-radius: 10px 0 0 10px; }
+  .reveal td:last-child { border-radius: 0 10px 10px 0; }
+  .pill { display: inline-block; min-width: 110px; padding: 3px 14px; border-radius: 20px; color: #fff; font-weight: 700; }
+  .crit { background: var(--rojo); } .alta { background: var(--naranja); } .mod { background: var(--amarillo); color: #4a3d00; }
+  .reveal .pasos { display: flex; align-items: stretch; gap: 14px; margin-top: 34px; }
+  .reveal .paso { flex: 1; background: var(--celeste); border-radius: 16px; padding: 24px 14px; font-size: 0.62em; line-height: 1.3; }
+  .reveal .paso b { display: flex; width: 44px; height: 44px; margin: 0 auto 12px; align-items: center; justify-content: center; border-radius: 50%; background: var(--azul); color: #fff; font-size: 1.3em; }
+  .reveal .flecha { align-self: center; font-size: 0.9em; color: var(--azul); }
+  .reveal .nota-chica { font-size: 0.45em; color: #51627a; margin-top: 26px; }
+  .reveal .veredicto { margin-top: 30px; background: var(--azul-oscuro); color: #fff; border-radius: 18px; padding: 26px 30px; font-size: 0.85em; font-weight: 700; line-height: 1.25; }
+  .reveal .veredicto span { color: #7fd1ae; }
+  .reveal ul.cond { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; padding: 0; margin: 28px 0 0; }
+  .reveal ul.cond li { background: var(--celeste); border-radius: 30px; padding: 8px 22px; font-size: 0.6em; margin: 0; }
+  .reveal .pie { position: absolute; left: 0; right: 0; bottom: -150px; font-size: 0.34em; color: #51627a; line-height: 1.5; }
+  .reveal .barra { position: absolute; top: -30px; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, var(--azul), var(--verde)); border-radius: 3px; }
+</style>
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+
+    <!-- 1. Situación actual y objetivo -->
+    <section>
+      <h1>Factibilidad Operativa</h1>
+      <p class="sub">NovaRetail Distribuciones S.A. · TP 10 · Grupo 3 · ADSI · UTN FRVT</p>
+      <div class="grid g4">
+        <div class="card"><span class="num" style="color:var(--rojo)">12 %</span><span class="lbl">de errores de digitación</span></div>
+        <div class="card"><span class="num">48–72 hs</span><span class="lbl">hasta preparar un pedido</span></div>
+        <div class="card"><span class="num">+250</span><span class="lbl">llamadas diarias, 8 líneas saturadas</span></div>
+        <div class="card"><span class="num">1</span><span class="lbl">servidor físico, sin redundancia</span></div>
+      </div>
+      <div class="objetivo">Objetivo IT en 4 meses: <b>cloud + CRM móvil + agente de IA</b> · 99,5 % de disponibilidad · errores &lt; 1 %</div>
+      <aside class="notes">
+        Buenas tardes. Somos el Grupo 3. NovaRetail tiene 120 empleados, tres depósitos y 1.200 comercios, con 350 a 500 pedidos diarios.
+        Los 35 preventistas toman pedidos en libretas o WhatsApp y seis administrativos los transcriben: 12 % de errores y 48 a 72 horas hasta la preparación.
+        La atención está saturada: más de 250 llamadas por día, y cerca del 70 % del tiempo de los operadores se va en consultas.
+        El objetivo es implementar en cuatro meses nube, CRM móvil y un agente de IA, para 500 pedidos diarios, 99,5 % de disponibilidad y errores menores al 1 %.
+      </aside>
+    </section>
+
+    <!-- 2. Impacto humano -->
+    <section>
+      <h2>¿Pueden las personas operar el cambio?</h2>
+      <div class="grid g4">
+        <div class="card"><h3>Preventistas (35)</h3><p>Capacitación práctica, pilotos por zona y app que funcione sin señal.</p></div>
+        <div class="card"><h3>Administrativos</h3><p>Se reconvierten, no se despide: de cargar a controlar excepciones, cobranzas y datos.</p></div>
+        <div class="card"><h3>Atención telefónica</h3><p>El chatbot resuelve lo repetitivo; las personas atienden reclamos, saldos y retención.</p></div>
+        <div class="card"><h3>Depósitos (45)</h3><p>Registrar cada movimiento cuando ocurre, para que el stock digital sea el real.</p></div>
+      </div>
+      <aside class="notes">
+        Lo central del TP es si las personas pueden trabajar con el nuevo sistema.
+        Los preventistas necesitan capacitación práctica, implementación por zonas y comprobar que la app funcione sin señal.
+        Para los seis empleados que cargan pedidos proponemos reconvertir tareas: excepciones, cobranzas proactivas, datos maestros y soporte.
+        En atención telefónica el chatbot resuelve consultas frecuentes y los operadores quedan para reclamos complejos, diferencias de saldo y retención.
+        Y los 45 operarios deben registrar recepción, traslados, reservas y despachos cuando ocurren.
+      </aside>
+    </section>
+
+    <!-- 3. Riesgos -->
+    <section>
+      <h2>Riesgos prioritarios</h2>
+      <table>
+        <thead><tr><th>Riesgo</th><th>Prob. × Impacto</th><th>Prioridad</th></tr></thead>
+        <tbody>
+          <tr><td>Conectividad inestable en rutas y depósitos</td><td>Alta × Alta</td><td><span class="pill crit">Crítica</span></td></tr>
+          <tr><td>Desfase entre stock físico y sistema</td><td>Alta × Alta</td><td><span class="pill crit">Crítica</span></td></tr>
+          <tr><td>Resistencia al CRM de los preventistas</td><td>Alta × Media</td><td><span class="pill alta">Alta</span></td></tr>
+          <tr><td>Sobrecarga de los 3 profesionales de TI</td><td>Media × Alta</td><td><span class="pill alta">Alta</span></td></tr>
+          <tr><td>Errores de migración e integración</td><td>Media × Alta</td><td><span class="pill alta">Alta</span></td></tr>
+          <tr><td>IA con respuestas erróneas o fuga de datos</td><td>Media × Alta</td><td><span class="pill alta">Alta</span></td></tr>
+          <tr><td>Indisponibilidad del proveedor cloud</td><td>Baja × Alta</td><td><span class="pill mod">Moderada</span></td></tr>
+        </tbody>
+      </table>
+      <p class="nota-chica">Escala cualitativa del grupo (Baja / Media / Alta); prioridad = probabilidad × impacto. No son datos estadísticos medidos.</p>
+      <aside class="notes">
+        Priorizamos con probabilidad por impacto. Los dos más críticos son los cortes de conectividad y las diferencias entre stock físico y sistema.
+        Después están la resistencia al CRM, los errores de integración y las respuestas incorrectas del chatbot.
+        Y un riesgo importante: solo tres profesionales de TI para una transformación de cuatro meses. Hacen falta prioridades claras y apoyo del proveedor.
+      </aside>
+    </section>
+
+    <!-- 4. Continuidad -->
+    <section>
+      <h2>Si cae Internet o la nube: continuidad operativa</h2>
+      <div class="pasos">
+        <div class="paso"><b>1</b>Declarar la contingencia y avisar a los 3 depósitos</div>
+        <div class="flecha">➜</div>
+        <div class="paso"><b>2</b>Registrar pedidos y movimientos en formularios numerados</div>
+        <div class="flecha">➜</div>
+        <div class="paso"><b>3</b>Despachar solo lo que se puede verificar</div>
+        <div class="flecha">➜</div>
+        <div class="paso"><b>4</b>Al volver el servicio: conciliar y evitar duplicados</div>
+      </div>
+      <p class="nota-chica">No se promete facturación ni consultas en tiempo real si los servicios centrales están caídos.</p>
+      <aside class="notes">
+        Si falla Internet o la nube, no podemos frenar los despachos sin criterio. Primero se comunica formalmente el incidente.
+        Cada depósito registra pedidos autorizados y movimientos en formularios locales numerados.
+        El jefe de depósito libera solo mercadería cuya existencia física y documentación pueda confirmarse; los casos dudosos quedan pendientes.
+        Al recuperar el servicio, Administración sincroniza y concilia para evitar duplicados o diferencias de inventario.
+      </aside>
+    </section>
+
+    <!-- 5. Conclusión -->
+    <section>
+      <h2>Conclusión</h2>
+      <div class="veredicto">Operativamente factible, <span>de forma condicionada</span></div>
+      <ul class="cond">
+        <li>Capacitación y acompañamiento</li>
+        <li>Refuerzo del equipo de TI</li>
+        <li>Inventario exacto</li>
+        <li>Contingencia ensayada</li>
+      </ul>
+      <p class="nota-chica">Donato Cacchiarelli · Iván Salomón · Tomás Acosta · Jonatan Harbertz<br>Docentes: Ing. Jorge Ariel Balut Cabezas · Juan Cruz Bosetti Palacios</p>
+      <p class="nota-chica" style="margin-top:10px">Elaborado con apoyo de IA (Claude y ChatGPT); contenido revisado y validado por el grupo.</p>
+      <aside class="notes">
+        Nuestra conclusión: el proyecto es operativamente factible, pero de forma condicionada.
+        No basta con contratar tecnología: hay que capacitar, acompañar el cambio, reforzar el equipo de TI, verificar el inventario y ensayar la contingencia antes de la puesta en marcha.
+        Así la empresa mejora su servicio sin trasladar los problemas actuales al nuevo sistema. Muchas gracias.
+      </aside>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    controls: true,
+    progress: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    backgroundTransition: 'none',
+    width: 1280,
+    height: 720,
+    plugins: [RevealNotes]
+  });
+</script>
+</body>
+</html>
