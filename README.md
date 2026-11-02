@@ -2,32 +2,47 @@
 
 Material de estudio de la materia **Administración de Sistemas de Información (ASI)** de la UTN Facultad Regional Venado Tuerto, ciclo 2026.
 
-Las presentaciones de cátedra de las **Unidades 3 y 4**, originalmente en PDF, están convertidas a **Markdown** para que sean más fáciles de leer, buscar, citar y reutilizar (por ejemplo, como fuente para resumir o para trabajar con herramientas de IA).
+Las presentaciones y apuntes de cátedra de las **Unidades 1 a 4**, originalmente en PDF, están convertidos a **Markdown** para que sean más fáciles de leer, buscar, citar y reutilizar (por ejemplo, como fuente para resumir o para trabajar con herramientas de IA).
 
-Las **Unidades 5 y 6** tienen un resumen de estudio propio, y en `material/` están los PDF de teoría y los trabajos prácticos ordenados por unidad.
+Las **Unidades 5 y 6** tienen un resumen de estudio propio, uno por unidad, y en `material/` están los PDF de teoría y los trabajos prácticos ordenados por unidad.
 
 ## Contenido
 
 | Archivo | Unidad | Temas principales |
 |---|---|---|
+| [`ADSI_Unidad_1_Direccion_de_Talento.md`](ADSI_Unidad_1_Direccion_de_Talento.md) | Unidad N.º 1 — Dirección de Talento y Capital Humano | Tipos de organizaciones y procesos en TI, organizaciones tradicionales, ágiles y basadas en proyectos, talento y capital humano |
+| [`ADSI_Unidad_2_Relaciones_Laborales_HyS.md`](ADSI_Unidad_2_Relaciones_Laborales_HyS.md) | Unidad N.º 2 — Relaciones Laborales e Higiene y Seguridad en el Trabajo | Relaciones laborales, fuentes del derecho laboral, tipos de contratos, resolución de conflictos, higiene y seguridad |
 | [`ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md`](ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md) | Unidad N.º 3 — Gobierno y Estrategia de TI | Digitalización y transformación digital, funciones del área de TI, Gobierno de TI, Estrategia de TI |
 | [`ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md`](ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md) | Unidad N.º 4 — Gestión Operativa de los Servicios TIC | Modelo de prestador de servicios TI, gestión de servicios (ITSM), procesos y roles, operación de servicios, gestión de eventos, monitoreo e incidencias |
-| [`ADSI_Unidades_5_y_6_Resumen.md`](ADSI_Unidades_5_y_6_Resumen.md) | Unidades N.º 5 y 6 — Administración de Recursos TI y Emprendimientos (resumen de estudio) | Proyectos, ciclo de vida, stakeholders, riesgos, factibilidad técnica, económica y operativa, contrataciones y pliegos; emprendedor tecnológico, financiamiento, organizaciones exponenciales, ExO Sprint y canvas |
+| [`ADSI_Unidad_5_Administracion_Recursos_IT.md`](ADSI_Unidad_5_Administracion_Recursos_IT.md) | Unidad N.º 5 — Administración de Recursos TI (resumen de estudio) | Proyectos, ciclo de vida, stakeholders, riesgos, factibilidad técnica, económica y operativa, contrataciones y pliegos |
+| [`ADSI_Unidad_6_Emprendimientos.md`](ADSI_Unidad_6_Emprendimientos.md) | Unidad N.º 6 — Emprendimientos (resumen de estudio) | Emprendedor tecnológico, etapas, financiamiento, organizaciones exponenciales, ExO Sprint y canvas |
 
 ```
 .
+├── ADSI_Unidad_1_Direccion_de_Talento.md
+├── ADSI_Unidad_2_Relaciones_Laborales_HyS.md
 ├── ADSI_Unidad_3_Gobierno_y_Estrategia_IT.md
 ├── ADSI_Unidad_4_Gestion_Operativa_Servicios_TIC.md
-├── ADSI_Unidades_5_y_6_Resumen.md
+├── ADSI_Unidad_5_Administracion_Recursos_IT.md
+├── ADSI_Unidad_6_Emprendimientos.md
 ├── imagenes/
 │   ├── Unidad-3/     # diagramas y gráficos de la Unidad 3
 │   └── Unidad-4/     # diagramas y gráficos de la Unidad 4
 └── material/         # archivos originales, por unidad
     ├── unidad-1/     # TP 2: análisis y selección de talento (GlobalBank)
-    ├── unidad-3/     # TP 4: objetivos SMART y gobierno IT
+    │   └── teoria/   # apunte de la unidad
+    ├── unidad-2/
+    │   └── teoria/   # apunte de la unidad
+    ├── unidad-3/     # anexo y trabajo áulico del TP 4
+    │   ├── teoria/   # apunte y presentación de la unidad
+    │   ├── tp4/      # TP 4: objetivos SMART y gobierno IT
+    │   └── tp5/      # TP 5: planificación estratégica de IT
     ├── unidad-4/     # TP 6: gestión operativa de servicios IT
+    │   ├── teoria/   # apunte de la unidad
+    │   └── tp7/      # TP 7: gestión operativa de servicios IT (Grupo 3)
     ├── unidad-5/
     │   ├── teoria/   # apunte y diapositivas de la unidad
+    │   ├── tp8/      # TP 8: organización de proyectos y factibilidad técnica
     │   └── tp10/     # TP 10: factibilidad operativa (NovaRetail)
     └── unidad-6/
         └── teoria/   # material teórico de emprendimientos
