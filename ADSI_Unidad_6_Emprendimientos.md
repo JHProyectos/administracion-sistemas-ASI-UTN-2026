@@ -64,6 +64,8 @@ flowchart LR
 
 La idea de fondo: el foco va pasando de **validar lo técnico** a **operar bien** y después a **expandirse**.
 
+> **Ojo con el plan de negocios.** El índice del apunte nombra "El Plan de Negocios de una Empresa Tecnológica: Metodología Completa" y "Transformación Digital. Tecnologías exponenciales" como temas, pero el texto no los desarrolla: el plan de negocios solo aparece como tarea de la etapa **Start-up**, y las tecnologías exponenciales solo con la definición de Diamandis. Si en clase los dieron aparte, conviene repasarlos de tus apuntes.
+
 ## Perfil del emprendedor: EMPRENDEDOR, tres capas y triángulo invertido
 
 **El acrónimo E.M.P.R.E.N.D.E.D.O.R.** Una letra, una actitud:
@@ -142,7 +144,14 @@ Una forma de ordenarlo: semilla con 3F y ángeles, etapa temprana con ángeles y
 Tres autores sostienen el marco teórico. Asociá cada uno con una idea:
 
 - **Klaus Schwab** (Foro Económico Mundial): la **Cuarta Revolución Industrial**: velocidad exponencial, convergencia de lo físico, lo digital y lo biológico, y disrupción de los modelos tradicionales.
-- **Peter Diamandis** (Singularity University, XPRIZE): las **tecnologías exponenciales** duplican capacidad y bajan su costo a intervalos regulares, y eso genera un mundo de **abundancia**. Su **pirámide de la abundancia** tiene tres niveles: necesidades básicas en la base, habilitadores de desarrollo en el medio y autorrealización en la cima.
+- **Peter Diamandis** (Singularity University, XPRIZE): las **tecnologías exponenciales** duplican capacidad y bajan su costo a intervalos regulares, y eso genera un mundo de **abundancia**. Su **pirámide de la abundancia** tiene tres niveles, y la tecnología es lo que permite subir de uno a otro:
+
+| Nivel | Qué es | Qué incluye (figura del apunte) |
+|---|---|---|
+| 3. Cima: **autorrealización** | Se alcanza del todo cuando los de abajo están garantizados | **Salud y libertad** |
+| 2. Medio: **habilitadores de crecimiento** | Lo que permite crecer en conocimiento y producción | **Energía, educación, acceso a la información y telecomunicaciones** |
+| 1. Base: **necesidades básicas universales** | Lo mínimo para sobrevivir, que la tecnología puede democratizar a costo casi nulo | **Alimento, agua potable y refugio (vivienda)** |
+
 - **Salim Ismail**: junta todo y define la arquitectura de las **organizaciones exponenciales (ExO)**.
 
 ## Organizaciones exponenciales y el PTM
@@ -212,7 +221,9 @@ El **Sprint 1** tiene ocho actividades. Conviene saberlas en orden:
 | **Resegmentado de nicho** | ¿Hay clientes que quieren algo hecho a su medida, aunque cueste más? |
 | **Resegmentado de bajo costo** | ¿Hay clientes que comprarían algo "suficientemente bueno" mucho más barato? |
 | **Nuevo** | No hay mercado definido: ni clientes ni competidores |
-| **Clon** | ¿Puedo copiar un modelo exitoso de afuera y adaptarlo al idioma y los hábitos locales? |
+| **Clon** | ¿Puedo copiar un modelo exitoso de **Estados Unidos** y adaptarlo al idioma y los hábitos de compra locales? |
+
+Un detalle del nicho que el apunte remarca: esos clientes lo compran **aunque cueste más** e incluso aunque sea peor en algún aspecto que a ellos no les importa.
 
 **Business Model Canvas (Osterwalder).** Un modelo de negocio es **una simplificación que describe cómo una organización crea, distribuye y captura valor**. Son nueve bloques:
 
@@ -232,8 +243,10 @@ Un truco para leerlo: el lado derecho (2, 3, 4, 9) es **el cliente y la plata qu
 
 **Value Proposition Canvas.** Hace zoom en dos bloques del BMC (propuesta de valor y segmento) y busca el **encaje (fit)**:
 
-- **Perfil del cliente** (lado derecho): **trabajos** (lo que intenta hacer), **dolores** (lo que le molesta o le cuesta) y **ganancias** (lo que espera obtener).
-- **Mapa de valor** (lado izquierdo): **productos y servicios**, **aliviadores de dolores** y **creadores de ganancias**.
+- **Perfil del cliente** (lado derecho, el círculo): **trabajos** (lo que intenta hacer, resolver o conseguir; pueden ser tareas **funcionales, sociales o emocionales**), **dolores** (problemas, frustraciones, riesgos o costos que le aparecen al hacer esos trabajos) y **ganancias** (los beneficios o mejoras que espera obtener).
+- **Mapa de valor** (lado izquierdo, el cuadrado): **productos y servicios**, **aliviadores de dolores** y **creadores de ganancias**.
+
+Ojo con los nombres: en la figura del apunte (de Strategyzer) los dolores aparecen como **frustraciones** y las ganancias como **alegrías**; así que también vas a ver "aliviadores de frustraciones" y "creadores de alegrías". Es lo mismo.
 
 Hay fit cuando cada dolor importante tiene su aliviador y cada ganancia esperada tiene su creador.
 
@@ -316,7 +329,7 @@ Origen: es una oportunidad **"a pocos metros"** (dolor en un proceso cotidiano) 
 - ¿Cuándo una idea es una oportunidad? Las tres condiciones.
 - Diferenciá oportunidades a nivel macro y micro.
 - Etapas del capital y fuentes de financiamiento. ¿Qué es *smart money*?
-- ¿Qué aportan Schwab, Diamandis e Ismail?
+- ¿Qué aportan Schwab, Diamandis e Ismail? ¿Qué hay en cada nivel de la pirámide de la abundancia?
 - ¿Qué es una ExO? ¿Qué es el PTM y qué características tiene?
 - Explicá SCALE e IDEAS. ¿Cuál es externo y cuál interno?
 - Nombrá las ocho actividades del Sprint 1.

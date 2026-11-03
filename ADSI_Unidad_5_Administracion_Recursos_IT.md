@@ -56,6 +56,8 @@ Tres palabras clave, y si te las acordás tenés la definición:
 - **Único**: el resultado no se hizo de forma idéntica antes.
 - **Recursos escasos**: personas, tecnología y plata. Como son escasos, no se pueden hacer todos los proyectos aunque todos convengan. Por eso existe la **evaluación de proyectos**: elegir el más conveniente para el momento de la organización.
 
+El apunte agrega una segunda forma de decirlo, que sirve para una pregunta a desarrollar: un proyecto es **la combinación de todos los recursos necesarios, reunidos en una organización temporal, para transformar una idea en una realidad tangible y operante**.
+
 Un **proyecto informático** es un sistema de acciones simultáneas o secuenciales que integra personas, hardware, software y comunicaciones para obtener resultados sobre un sistema de información.
 
 Y acá viene la frase que la cátedra marca en mayúsculas: **"IT Project" es un concepto simplista, porque no existe un proyecto sin el negocio que reciba su resultado**. Un proyecto de TI siempre es un proyecto del negocio.
@@ -118,6 +120,8 @@ El apunte los agrupa en tres dimensiones. Si te piden "factores impulsores", con
 
 Los marcos que nombra la unidad: **Waterfall** (secuencial), **Agile/Scrum** (iterativo e incremental) y **Kanban** (gestión visual continua). El objetivo de trabajar con cualquier metodología es el mismo: **resultados de calidad predecible con actividades ordenadas y eficientes**.
 
+¿Por qué hace falta una metodología? Porque **el cambio es lo que permite que las organizaciones sobrevivan**, pero **no alcanza con elegir los proyectos correctos: hay que administrarlos bien** para que no queden en ideas ni fracasen.
+
 ## Ciclo de vida del proyecto: las cinco fases
 
 Esto se pregunta mucho, así que vale aprenderse qué se hace en cada fase.
@@ -173,11 +177,13 @@ Truco para no confundir latentes con defensores: **los latentes tienen poder** (
 
 **Estudio de viabilidad.** Un proyecto nuevo siempre es un riesgo y se lleva recursos importantes. El apunte dice que es común que las empresas no respeten "las mínimas normas de prudencia" y que los proyectos queden a mitad de camino. El estudio de viabilidad sirve para **averiguar si vale la pena convertir una idea en proyecto**: si de verdad va a dar los beneficios que se esperan. Es una herramienta de **decisión estratégica**: aprobar o rechazar.
 
+Lo que tiene que garantizar, como mínimo: que **el esfuerzo humano y financiero que pide el proyecto quede justificado por los resultados** y que **las condiciones técnicas de ejecución sean adecuadas**. Para eso hay que conocer de antemano las dificultades previsibles, los medios necesarios, las soluciones técnicas, los fondos y los beneficios.
+
 Su profundidad depende de la envergadura (riesgo, inversión, impacto interno, impacto en el cliente, aspectos legales). La regla: **se avanza cuando hay un grado de confianza razonable de que el resultado va a ser satisfactorio**.
 
 Además de bajar el riesgo, ayuda a: ver alternativas, descubrir oportunidades e innovar, detectar señales de que conviene no seguir, aumentar la probabilidad de éxito, decidir con datos y conseguir **financiación**.
 
-Las actividades para hacerlo: identificar limitaciones, restricciones y supuestos; detectar oportunidades; analizar cómo funciona hoy la organización; definir requisitos; establecer el alcance; evaluar alternativas; y acordar la línea de acción.
+Las actividades para hacerlo: identificar limitaciones, restricciones y supuestos; detectar oportunidades; analizar cómo funciona hoy la organización; definir requisitos; establecer el alcance; evaluar alternativas; y acordar la línea de acción. Al final, el estudio **confirma (o desmiente) que la iniciativa se puede hacer a tiempo y dentro del presupuesto**.
 
 **Riesgo.** Es un **evento o condición incierta que, si ocurre, tiene un efecto positivo o negativo** sobre los objetivos. Ojo con esto que es de examen: **el riesgo puede ser positivo** (una oportunidad) o negativo (una amenaza). Tiene tres características: **concierne al futuro**, **implica cambios** e **implica elegir** (métodos, herramientas, cuánta gente, cuánta calidad).
 
@@ -240,7 +246,14 @@ Pasar a la nube es, en el fondo, cambiar CapEx por OpEx: no comprás el servidor
 
 **Evaluación financiera**: la **inversión** (activos fijos, activos nominales y capital de trabajo), la proyección de **ingresos y gastos** anuales, el **financiamiento** (recursos propios, préstamos; si es externo, armar el servicio de la deuda) y los **estados proyectados**: Estado de Resultados, Flujo de Efectivo y Balance General. Con el **flujo de fondos netos** se calculan los criterios de rentabilidad: **VAN**, **TIR** y **relación beneficio/costo**.
 
-**Tipos de costos y beneficios.** Tres pares para clasificar:
+**Gestión de costos del proyecto.** Es el proceso que asegura que el presupuesto se use bien y que los gastos se mantengan según lo planeado, **sin sobrecostos**. Aunque se llama "gestión", incluye **planificación, estimación y control**. Cómo se gestionan los costos define tres cosas: la **salud financiera** del proyecto de principio a fin, la calidad de las **decisiones** (mejores si se basan en estimaciones correctas) y la detección temprana de **riesgos financieros**.
+
+El apunte define dos pares con sus propios ejemplos:
+
+- **Fijos**: no cambian durante el proyecto (los honorarios de una agencia que cobra precio fijo por diseñar un logo). **Variables**: cambian según otros factores (el sueldo del equipo, que depende de las horas que lleve una actividad).
+- **Directos**: salen directamente del proyecto (contratar un experto, una campaña de publicidad, comprar material). **Indirectos**: no salen del proyecto pero igual forman parte de los costos (impuestos generales, alquiler de la oficina, máquinas o software que usa toda la empresa).
+
+**Tipos de costos y beneficios.** Las diapositivas los ordenan en tres pares para clasificar:
 
 | Par | Costo | Beneficio |
 |---|---|---|
@@ -258,6 +271,15 @@ Pasar a la nube es, en el fondo, cambiar CapEx por OpEx: no comprás el servidor
 - **Residuales**: lo que vale lo que queda al final de la vida útil, **se resta**.
 
 **Beneficios.** Se estiman y se les pone un valor en plata. Los **tangibles se comparan con los costos**; los **intangibles sirven para "vender" el proyecto**. Un truco del apunte para encontrarlos: buscá los problemas del sistema actual y lo que cuestan; si el sistema nuevo los elimina, ese costo es tu beneficio. Se agrupan en **beneficios de desempeño** (velocidad, acceso a información, mejor atención, flexibilidad, más servicios) y **beneficios por evitar costos** (menos errores administrativos, personal, papel, conteo de inventario).
+
+Cómo los define el apunte:
+
+- **Tangibles**: fáciles de cuantificar; en general tienen que ver con **reducir recursos o personal**.
+- **Intangibles**: difíciles de cuantificar; tienen que ver con el **good will** (la imagen de la empresa) o con mejoras en otros procesos.
+
+La lista de ejemplos del apunte: más eficiencia en el área, menos personal, menos inversiones y costos futuros, personal disponible para otras tareas, mejor planeación y control de recursos, insumos a tiempo, cumplimiento de requisitos del gobierno, mejores decisiones, información apropiada y más confiable, mejor servicio al cliente interno y externo, ventajas competitivas y valor agregado al producto.
+
+La recomendación de las diapositivas: al presentar el proyecto, mostrá los beneficios específicos **y también todos los intangibles**, tanto los que mejoran el desempeño como los que bajan costos.
 
 **Las tres estrategias para comparar costos y beneficios:**
 
@@ -340,26 +362,26 @@ flowchart TD
 Lo importante de cada paso:
 
 - **[1] Inicio.** Aparece la necesidad (la "causa" del contrato).
-- **[2] Pliego.** La entidad licitante (el **comitente**) arma el **Pliego de Bases y Condiciones**: forma, cantidades, fechas y cómo se va a elegir a los oferentes. Participan Compras y el área que pide (cliente interno), y a veces expertos y abogados.
+- **[2] Pliego.** La entidad licitante (el **comitente**) arma el **Pliego de Bases y Condiciones** (también llamado "documentación licitaria" o simplemente "pliego"): forma, cantidades, fechas y cómo se va a elegir a los oferentes. Participan Compras y el área que pide (cliente interno), y a veces expertos y abogados. Se empieza a armar cuando un área hace el pedido y se termina **antes del llamado**.
 - **[3] Llamado.** Dos modalidades:
   - **Concurso privado de precios (licitación privada)**: se **invita** a proveedores elegidos de la base de datos.
   - **Licitación pública**: se **publica** en medios masivos o el Boletín Oficial, sin preselección.
   - La diferencia es **el grado de competencia**; el proceso es el mismo. El privado es más rápido, pero la pública es obligatoria en algunos casos: servicios públicos privatizados que superan cierto monto, productos innovadores sin proveedores conocidos, o productos clave para un sector del país.
 - **[4] Análisis y consultas.** Toda consulta de un oferente se responde **a todos** mediante una **circular con consulta**, por transparencia. Se puede corregir el pliego, pero solo en este período y comunicándolo a todos. Si se modifica después, el proceso puede quedar **viciado de nulidad**.
 - **[5] Presentación de ofertas.** Dos sobres cerrados y separados:
-  - **Sobre I**: pliego firmado, documentación técnica, legal y societaria, certificados. **Sin precios**.
+  - **Sobre I**: pliego general y particular firmados con sus anexos, documentos que acreditan que el oferente es **elegible**, certificados de laboratorio, certificados de **homologación**, lo que pidan los organismos reguladores y la documentación técnica, legal y societaria. **Sin precios**.
   - **Sobre II**: la **oferta económica** (planilla de cotización y ofertas alternativas si se admiten).
   - **Oferta básica** cumple el 100 % de las especificaciones; **oferta alternativa** no cumple alguna.
   - Todo foliado y firmado: la firma es una **declaración jurada** de que conocés el pliego. Si falta un documento, quedás descalificado.
-  - Se deposita la **garantía de oferta**: entre el **1 % y el 2 %** del monto ofertado.
-- **[6] Análisis y selección.** Análisis interdisciplinario del **Sobre I** únicamente. Se pueden pedir aclaraciones o correcciones de errores formales, siempre de forma transparente.
-- **[7] Dictamen de selección.** Lista de **aptos** y **no aptos**. Es interno: los oferentes saben si son aptos, pero no leen el dictamen; a los no aptos se les dice por qué.
-- **[8] Apertura del Sobre II**, solo de los aptos.
+  - Se deposita la **garantía de oferta**: entre el **1 % y el 2 %** del monto ofertado, en dinero o mediante caución.
+- **[6] Análisis y selección.** Análisis interdisciplinario del **Sobre I** únicamente: cada área revisa lo suyo, analiza muestras y pide pruebas. También se miran los antecedentes del oferente en la **base de proveedores**. Se pueden pedir aclaraciones o correcciones de errores formales, siempre de forma transparente.
+- **[7] Dictamen de selección.** Lista de **aptos** (o "calificados") y **no aptos**. Para calificar se mira que cumpla: los aspectos **formales y técnicos** del pliego, los **requisitos y documentos** que pide, y las **condiciones de elegibilidad** del oferente. No tiene una forma fija y es **interno**: los oferentes saben si son aptos, pero no leen el dictamen; a los no aptos se les dice por qué.
+- **[8] Apertura del Sobre II**, solo de los aptos. Las ofertas de los no aptos se descartan o quedan solo como dato estadístico.
 - **[9] Negociación** de precios y condiciones (o subasta), conducida por Compras.
 - **[10] Adjudicación.** Carta al ganador. Tiene unos **5 días** para constituir la **garantía de ejecución** y firmar la contrata.
 - **[11] Firma de la contrata.** El oferente pasa a ser **proveedor**. Desde esta fecha corren los plazos. Se devuelven las garantías de oferta.
 - **[12] Elaboración.** El proveedor fabrica o prepara el servicio.
-- **[13] Recepción.** Control de calidad verifica y emite el **acta de recepción**, sin la cual no se puede facturar. Si hay rechazos o **mora**, se aplica la **cláusula penal** (multas descontadas de la garantía de ejecución).
+- **[13] Recepción.** La entrega puede ser total o parcial. Control de calidad verifica y emite el **acta de recepción** (también llamada "de conformidad" o "de aprobación"). Desde la fecha del acta **corre el plazo de garantía** y el proveedor **puede facturar**; sin acta no se cobra. Si hay rechazos o **mora**, se aplica la **cláusula penal** (multas descontadas de la garantía de ejecución).
 - **[14] Plazo de garantía.** El proveedor repara o reemplaza a su costo.
 - **[15] Recepción final.** **Acta de recepción definitiva**; se devuelve la garantía de ejecución menos las multas. En locaciones de obra, la responsabilidad civil por **vicios ocultos** sigue después.
 - **[16] Evaluación del proveedor.** Se registra su desempeño en la base de proveedores, para futuras adjudicaciones.
@@ -374,7 +396,9 @@ Se divide en:
 
 1. **Pliego general**: cláusulas amplias, **se repite** en todos los concursos del contratante.
 2. **Pliego de condiciones particulares**: **específico e irrepetible** para cada contrato. Es "la clave del contrato". Lo que no dice, lo rige el general.
-3. **Documentación técnica** (anexos): especificaciones de requisitos, normas técnicas, métodos de instalación u operación. Define **qué** se compra.
+3. **Documentación técnica** (anexos): especificaciones de requisitos, normas técnicas, métodos de instalación u operación. Define **qué** se compra. Los anexos son **complementarios**: el pliego particular los menciona y se presentan como documentos aparte por lo largos que son.
+
+Después del llamado también se generan documentos: las **notas con consultas** de los oferentes (siempre por escrito) y las **circulares** con que el comitente responde a todos.
 
 **Orden de prelación** (qué manda cuando dos documentos dicen distinto):
 
@@ -384,7 +408,16 @@ Se divide en:
 
 La regla para acordarte: **cuanto más general es un documento, menos prioridad tiene**.
 
-**Contrata vs. orden de compra.** Las dos tienen el mismo efecto jurídico. En la **contrata** las partes firman **en el mismo momento** (a veces ante escribano). En la **orden de compra u orden de trabajo** firman **en momentos distintos**: el acuerdo vale cuando el proveedor la devuelve firmada.
+**Qué tiene la contrata.** Repite los puntos más importantes del pliego y suma lo que salió del proceso:
+
+- el **precio** de la contratación,
+- el **nombre o razón social del adjudicatario** (desde ahora, "proveedor" o "contratista"),
+- la **fecha de entrega**, contada desde la firma de la contrata,
+- las **modificaciones y adendas** al pliego hechas entre el llamado y la presentación de ofertas.
+
+Con las firmas queda el **consentimiento** de las partes. En contratos formales que piden solemnidades, se firma ante **escribano**.
+
+**Contrata vs. orden de compra.** Las dos tienen el mismo efecto jurídico; la orden de compra (OC) o de trabajo (OT) es menos formal y de carácter comercial. En la **contrata** las partes firman **en el mismo momento** (a veces ante escribano). En la **orden de compra u orden de trabajo** firman **en momentos distintos**: el acuerdo vale cuando el proveedor la devuelve firmada.
 
 **Garantías:**
 
@@ -520,7 +553,10 @@ Antes de los 2,3 años el sistema nuevo es más caro; después, empieza a dar be
 - ¿Por qué se usan dos sobres y se abren en fechas distintas?
 - Pliego general vs. particular; orden de prelación.
 - Garantía de oferta vs. garantía de ejecución. ¿Qué es la cláusula penal?
-- Contrata vs. orden de compra.
+- Contrata vs. orden de compra. ¿Qué datos nuevos aparecen en la contrata?
+- ¿Qué se mira en el dictamen de selección para declarar apto a un oferente?
+- ¿Qué es la gestión de costos y qué tres cosas define?
+- Diferenciá beneficios tangibles e intangibles y para qué sirve cada uno.
 
 ---
 
