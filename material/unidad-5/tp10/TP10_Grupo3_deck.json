@@ -1,0 +1,72 @@
+{
+  "title": "TP 10 · Factibilidad Operativa · NovaRetail · Grupo 3",
+  "filename": "TP10_Grupo3_Presentacion",
+  "lang": "es",
+  "slides": [
+    {
+      "type": "kpis",
+      "title": "Factibilidad Operativa",
+      "subtitle": "NovaRetail Distribuciones S.A. · TP 10 · Grupo 3 · ADSI · UTN FRVT",
+      "items": [
+        {"value": "12 %", "label": "de errores de digitación", "color": "crit"},
+        {"value": "48–72 hs", "label": "hasta preparar un pedido"},
+        {"value": "+250", "label": "llamadas diarias, 8 líneas saturadas"},
+        {"value": "1", "label": "servidor físico, sin redundancia"}
+      ],
+      "banner": "Objetivo IT en 4 meses: cloud + CRM móvil + agente de IA · 99,5 % de disponibilidad · errores < 1 %",
+      "notes": "Buenas tardes. Somos el Grupo 3. NovaRetail tiene 120 empleados, tres depósitos y 1.200 comercios, con 350 a 500 pedidos diarios. Los 35 preventistas toman pedidos en libretas o WhatsApp y seis administrativos los transcriben: 12 % de errores y 48 a 72 horas hasta la preparación. La atención está saturada: más de 250 llamadas por día. El objetivo es implementar en cuatro meses nube, CRM móvil y un agente de IA."
+    },
+    {
+      "type": "cards",
+      "title": "¿Pueden las personas operar el cambio?",
+      "items": [
+        {"title": "Preventistas (35)", "text": "Capacitación práctica, pilotos por zona y app que funcione sin señal."},
+        {"title": "Administrativos", "text": "Se reconvierten, no se despide: de cargar a controlar excepciones, cobranzas y datos."},
+        {"title": "Atención telefónica", "text": "El chatbot resuelve lo repetitivo; las personas atienden reclamos, saldos y retención."},
+        {"title": "Depósitos (45)", "text": "Registrar cada movimiento cuando ocurre, para que el stock digital sea el real."}
+      ],
+      "notes": "Lo central del TP es si las personas pueden trabajar con el nuevo sistema. Preventistas: capacitación y app offline. Administrativos: reconversión de tareas. Atención: el chatbot resuelve lo frecuente. Depósitos: registrar cuando ocurre."
+    },
+    {
+      "type": "table",
+      "title": "Riesgos prioritarios",
+      "columns": ["Riesgo", "Prob. × Impacto", "Prioridad"],
+      "rows": [
+        ["Conectividad inestable en rutas y depósitos", "Alta × Alta", {"text": "Crítica", "badge": "crit"}],
+        ["Desfase entre stock físico y sistema", "Alta × Alta", {"text": "Crítica", "badge": "crit"}],
+        ["Resistencia al CRM de los preventistas", "Alta × Media", {"text": "Alta", "badge": "alta"}],
+        ["Sobrecarga de los 3 profesionales de TI", "Media × Alta", {"text": "Alta", "badge": "alta"}],
+        ["Errores de migración e integración", "Media × Alta", {"text": "Alta", "badge": "alta"}],
+        ["IA con respuestas erróneas o fuga de datos", "Media × Alta", {"text": "Alta", "badge": "alta"}],
+        ["Indisponibilidad del proveedor cloud", "Baja × Alta", {"text": "Moderada", "badge": "mod"}]
+      ],
+      "note": "Escala cualitativa del grupo (Baja / Media / Alta); prioridad = probabilidad × impacto. No son datos estadísticos medidos.",
+      "notes": "Priorizamos con probabilidad por impacto. Los dos más críticos son los cortes de conectividad y las diferencias entre stock físico y sistema."
+    },
+    {
+      "type": "steps",
+      "title": "Si cae Internet o la nube: continuidad operativa",
+      "items": [
+        "Declarar la contingencia y avisar a los 3 depósitos",
+        "Registrar pedidos y movimientos en formularios numerados",
+        "Despachar solo lo que se puede verificar",
+        "Al volver el servicio: conciliar y evitar duplicados"
+      ],
+      "note": "No se promete facturación ni consultas en tiempo real si los servicios centrales están caídos.",
+      "notes": "Si falla Internet o la nube, no podemos frenar los despachos sin criterio. Se comunica el incidente, se registra en formularios numerados, se libera solo lo verificable y al volver se concilia."
+    },
+    {
+      "type": "closing",
+      "title": "Conclusión",
+      "verdict": "Operativamente factible, ",
+      "verdict_accent": "de forma condicionada",
+      "chips": ["Capacitación y acompañamiento", "Refuerzo del equipo de TI", "Inventario exacto", "Contingencia ensayada"],
+      "lines": [
+        "Donato Cacchiarelli · Iván Salomón · Tomás Acosta · Jonatan Harbertz",
+        "Docentes: Ing. Jorge Ariel Balut Cabezas · Juan Cruz Bosetti Palacios",
+        "Elaborado con apoyo de IA (Claude y ChatGPT); contenido revisado y validado por el grupo."
+      ],
+      "notes": "Nuestra conclusión: el proyecto es operativamente factible, pero de forma condicionada. No basta con contratar tecnología: hay que capacitar, reforzar TI, verificar el inventario y ensayar la contingencia. Muchas gracias."
+    }
+  ]
+}
