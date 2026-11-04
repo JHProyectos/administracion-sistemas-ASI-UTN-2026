@@ -43,6 +43,8 @@ Tres palabras clave, y si te las acordás tenés la definición. Temporal: tiene
 
 Como los recursos son escasos, no se pueden hacer todos los proyectos aunque todos convengan. Es como el presupuesto de una casa: no podés renovar la cocina, el baño y el techo el mismo año. Por eso existe la evaluación de proyectos: elegir el más conveniente para el momento de la organización.
 
+El apunte agrega una segunda forma de decirlo, que sirve para una pregunta a desarrollar: un proyecto es la combinación de todos los recursos necesarios, reunidos en una organización temporal, para transformar una idea en una realidad tangible y operante.
+
 Un proyecto informático es un sistema de acciones, simultáneas o secuenciales, que integra personas, hardware, software y comunicaciones para obtener resultados sobre un sistema de información.
 
 Y la frase que la cátedra marca en mayúsculas: "IT Project" es un concepto simplista, porque no existe un proyecto sin el negocio que reciba su resultado.
@@ -102,6 +104,8 @@ La gestión ágil no es para todo. Sirve cuando los requisitos o la solución no
 Con eso salen cuatro tipos de proyecto. El simple: requisitos y solución conocidos, y va con enfoque tradicional. El complicado: el qué y el cómo se conocen parcialmente, y va en un punto intermedio. El complejo: alta incertidumbre, cambios frecuentes y mucho contacto con el cliente, y ahí va el enfoque ágil. Y el caótico: no hay ni requisitos ni solución, y no sirve ni uno ni otro, primero hay que estabilizar.
 
 Los marcos que nombra la unidad son Waterfall, que es secuencial; Agile y Scrum, que es iterativo e incremental; y Kanban, que es gestión visual continua. Y el objetivo de cualquier metodología es el mismo: resultados de calidad predecible con actividades ordenadas y eficientes.
+
+¿Por qué hace falta una metodología? Porque el cambio es lo que permite que las organizaciones sobrevivan, pero no alcanza con elegir los proyectos correctos: hay que administrarlos bien para que no queden en ideas ni fracasen.
 
 **Lo importante.** Tradicional para entornos estables con requisitos claros; ágil para proyectos complejos, con incertidumbre. La matriz de Stacey cruza qué tan claro está el qué y qué tan claro está el cómo.
 
@@ -172,9 +176,13 @@ Un truco para no confundir latentes con defensores: los latentes tienen poder, p
 
 Primero, el estudio de viabilidad. Un proyecto nuevo siempre es un riesgo y se lleva recursos importantes. El apunte dice que es común que las empresas no respeten las mínimas normas de prudencia y que los proyectos queden a mitad de camino. El estudio de viabilidad sirve para averiguar si vale la pena convertir una idea en proyecto: si de verdad va a dar los beneficios que se esperan. Es una herramienta de decisión estratégica: aprobar o rechazar.
 
+Lo que tiene que garantizar, como mínimo: que el esfuerzo humano y financiero que pide el proyecto quede justificado por los resultados, y que las condiciones técnicas de ejecución sean adecuadas. Para eso hay que conocer de antemano las dificultades previsibles, los medios necesarios, las soluciones técnicas, los fondos y los beneficios.
+
 Su profundidad depende de la envergadura: el riesgo, la inversión, el impacto interno, el impacto en el cliente y los aspectos legales. Y la regla es avanzar cuando hay un grado de confianza razonable de que el resultado va a ser satisfactorio.
 
 Además de bajar el riesgo, ayuda a ver alternativas, descubrir oportunidades, detectar señales de que conviene no seguir, aumentar la probabilidad de éxito, decidir con datos y conseguir financiación.
+
+Las actividades para hacerlo son siete: identificar limitaciones, restricciones y supuestos; detectar oportunidades; analizar cómo funciona hoy la organización; definir requisitos; establecer el alcance; evaluar alternativas; y acordar la línea de acción. Al final, el estudio confirma, o desmiente, que la iniciativa se puede hacer a tiempo y dentro del presupuesto.
 
 Ahora, el riesgo. Es un evento o condición incierta que, si ocurre, tiene un efecto positivo o negativo sobre los objetivos. Ojo con esto, que es de examen: el riesgo puede ser positivo, una oportunidad, o negativo, una amenaza. Tiene tres características: concierne al futuro, implica cambios e implica elegir, por ejemplo métodos, herramientas, cuánta gente y cuánta calidad.
 
@@ -228,11 +236,21 @@ Después viene lo que en TI es fundamental: CapEx contra OpEx. El CapEx es capit
 
 La evaluación financiera suma la inversión, que son activos fijos, activos nominales y capital de trabajo; la proyección de ingresos y gastos anuales; el financiamiento; y los estados proyectados: estado de resultados, flujo de efectivo y balance general. Con el flujo de fondos netos se calculan los criterios de rentabilidad: el VAN, la TIR y la relación beneficio costo.
 
-Los costos y beneficios se clasifican de tres maneras. Tangibles o intangibles: el desgaste de un equipo contra la caída de la imagen de la empresa. Fijos o variables: el costo de un equipo contra la tinta de la impresora. Y directos o indirectos: un equipo para operar el sistema contra la seguridad o el aire acondicionado.
+La gestión de costos del proyecto es el proceso que asegura que el presupuesto se use bien y que los gastos se mantengan según lo planeado, sin sobrecostos. Aunque se llama gestión, incluye planificación, estimación y control. Cómo se gestionan los costos define tres cosas: la salud financiera del proyecto de principio a fin, la calidad de las decisiones, que son mejores si se basan en estimaciones correctas, y la detección temprana de riesgos financieros.
+
+El apunte define dos pares con sus propios ejemplos. Fijos: no cambian durante el proyecto, como los honorarios de una agencia que cobra un precio fijo por diseñar un logo. Variables: cambian según otros factores, como el sueldo del equipo, que depende de las horas que lleve una actividad. Directos: salen directamente del proyecto, como contratar un experto, hacer una campaña de publicidad o comprar material. Indirectos: no salen del proyecto pero igual forman parte de los costos, como los impuestos generales, el alquiler de la oficina o las máquinas y el software que usa toda la empresa.
+
+Las diapositivas ordenan los costos y beneficios en tres pares. Tangibles o intangibles: el desgaste de un equipo contra la caída de la imagen de la empresa. Fijos o variables: el costo de un equipo contra la tinta de la impresora. Y directos o indirectos: un equipo para operar el sistema contra la seguridad o el aire acondicionado.
 
 Las categorías de costos por elemento son equipos, instalaciones, personal, y suministros y varios. Y por instancia del proyecto son seis. Los de desarrollo: investigación, análisis, diseño, programación y pruebas. Los operativos de inicio: migración y carga de datos, conversión, ejecución en paralelo y puesta en marcha. Los operacionales, que son los recurrentes. Los financieros, que son los intereses del financiamiento. Los hereditarios: ya los pagó otro proyecto y se restan. Y los residuales: lo que vale lo que queda al final de la vida útil, que también se resta.
 
 Con los beneficios, igual: se estiman y se les pone un valor en plata. Los tangibles se comparan con los costos; los intangibles sirven para vender el proyecto. Un truco del apunte para encontrarlos: buscá los problemas del sistema actual y lo que cuestan. Si el sistema nuevo los elimina, ese costo es tu beneficio. Se agrupan en beneficios de desempeño, como velocidad, acceso a información y mejor atención, y beneficios por evitar costos, como menos errores administrativos, menos papel y menos conteo de inventario.
+
+Cómo los define el apunte. Los tangibles son fáciles de cuantificar y, en general, tienen que ver con reducir recursos o personal. Los intangibles son difíciles de cuantificar y tienen que ver con el good will, o sea la imagen de la empresa, o con mejoras en otros procesos.
+
+La lista de ejemplos del apunte: más eficiencia en el área, menos personal, menos inversiones y costos futuros, personal disponible para otras tareas, mejor planeación y control de recursos, insumos a tiempo, cumplimiento de requisitos del gobierno, mejores decisiones, información apropiada y más confiable, mejor servicio al cliente interno y externo, ventajas competitivas y valor agregado al producto.
+
+Y la recomendación de las diapositivas: al presentar el proyecto, mostrá los beneficios específicos y también todos los intangibles, tanto los que mejoran el desempeño como los que bajan costos.
 
 **Lo importante.** Se comparan costos y beneficios de cada alternativa, incluyendo el costo de no hacer nada. CapEx es la inversión inicial; OpEx, el gasto recurrente. Y los hereditarios y residuales se restan.
 
@@ -327,19 +345,19 @@ flowchart TD
 
 Uno, el inicio: aparece la necesidad, la causa del contrato.
 
-Dos, el pliego. La entidad licitante, que se llama comitente, arma el Pliego de Bases y Condiciones: la forma, las cantidades, las fechas y cómo se va a elegir a los oferentes. Participan Compras y el área que pide, el cliente interno, y a veces expertos y abogados.
+Dos, el pliego. La entidad licitante, que se llama comitente, arma el Pliego de Bases y Condiciones, también llamado documentación licitaria o simplemente pliego: la forma, las cantidades, las fechas y cómo se va a elegir a los oferentes. Participan Compras y el área que pide, el cliente interno, y a veces expertos y abogados. Se empieza a armar cuando un área hace el pedido y se termina antes del llamado.
 
 Tres, el llamado. Hay dos modalidades. El concurso privado de precios, que es la licitación privada, donde se invita a proveedores elegidos de la base de datos. Y la licitación pública, donde se publica en medios masivos o en el Boletín Oficial, sin preselección. La diferencia es el grado de competencia; el proceso es el mismo. El privado es más rápido, pero la pública es obligatoria en algunos casos: servicios públicos privatizados que superan cierto monto, productos innovadores sin proveedores conocidos o productos clave para un sector del país.
 
 Cuatro, análisis y consultas. Toda consulta de un oferente se responde a todos mediante una circular con consulta, por transparencia. Se puede corregir el pliego, pero solo en este período y comunicándolo a todos. Si se modifica después, el proceso puede quedar viciado de nulidad.
 
-Cinco, presentación de ofertas, con dos sobres cerrados y separados. El Sobre uno lleva el pliego firmado, la documentación técnica, legal y societaria y los certificados, sin precios. El Sobre dos lleva la oferta económica, con la planilla de cotización y las ofertas alternativas si se admiten. La oferta básica cumple el cien por ciento de las especificaciones; la alternativa no cumple alguna. Todo va foliado y firmado: la firma es una declaración jurada de que conocés el pliego, y si falta un documento, quedás descalificado. Y se deposita la garantía de oferta, entre el uno y el dos por ciento del monto ofertado.
+Cinco, presentación de ofertas, con dos sobres cerrados y separados. El Sobre uno lleva los pliegos general y particular firmados con sus anexos, los documentos que acreditan que el oferente es elegible, los certificados de laboratorio, los certificados de homologación, lo que pidan los organismos reguladores y la documentación técnica, legal y societaria, sin precios. El Sobre dos lleva la oferta económica, con la planilla de cotización y las ofertas alternativas si se admiten. La oferta básica cumple el cien por ciento de las especificaciones; la alternativa no cumple alguna. Todo va foliado y firmado: la firma es una declaración jurada de que conocés el pliego, y si falta un documento, quedás descalificado. Y se deposita la garantía de oferta, entre el uno y el dos por ciento del monto ofertado, en dinero o mediante caución.
 
-Seis, análisis y selección: un análisis interdisciplinario del Sobre uno solamente. Se pueden pedir aclaraciones o correcciones de errores formales, siempre de forma transparente.
+Seis, análisis y selección: un análisis interdisciplinario del Sobre uno solamente. Cada área revisa lo suyo, analiza muestras y pide pruebas, y también se miran los antecedentes del oferente en la base de proveedores. Se pueden pedir aclaraciones o correcciones de errores formales, siempre de forma transparente.
 
-Siete, el dictamen de selección: la lista de aptos y no aptos. Es interno: los oferentes saben si son aptos, pero no leen el dictamen, y a los no aptos se les dice por qué.
+Siete, el dictamen de selección: la lista de aptos, o calificados, y no aptos. Para calificar se mira que el oferente cumpla los aspectos formales y técnicos del pliego, los requisitos y documentos que pide y las condiciones de elegibilidad. No tiene una forma fija y es interno: los oferentes saben si son aptos, pero no leen el dictamen, y a los no aptos se les dice por qué.
 
-Ocho, la apertura del Sobre dos, solo de los aptos.
+Ocho, la apertura del Sobre dos, solo de los aptos. Las ofertas de los no aptos se descartan o quedan solo como dato estadístico.
 
 Nueve, la negociación de precios y condiciones, o una subasta, conducida por Compras.
 
@@ -349,7 +367,7 @@ Once, la firma de la contrata. El oferente pasa a ser proveedor, desde esta fech
 
 Doce, la elaboración: el proveedor fabrica o prepara el servicio.
 
-Trece, la recepción. Control de calidad verifica y emite el acta de recepción, sin la cual no se puede facturar. Si hay rechazos o mora, se aplica la cláusula penal, que son multas descontadas de la garantía de ejecución.
+Trece, la recepción. La entrega puede ser total o parcial. Control de calidad verifica y emite el acta de recepción, también llamada de conformidad o de aprobación. Desde la fecha del acta corre el plazo de garantía y el proveedor puede facturar: sin acta no se cobra. Si hay rechazos o mora, se aplica la cláusula penal, que son multas descontadas de la garantía de ejecución.
 
 Catorce, el plazo de garantía: el proveedor repara o reemplaza a su costo.
 
@@ -367,11 +385,15 @@ Y una pregunta clásica: ¿por qué dos sobres y en fechas distintas? Por dos ra
 
 El pliego es el documento clave del contrato. Fija derechos, obligaciones y responsabilidades, cómo se selecciona, cómo se define el producto, cómo se resuelven los conflictos, las causales de rescisión, la forma de pago, los plazos, las penalidades y las garantías.
 
-Se divide en tres partes. El pliego general: cláusulas amplias que se repiten en todos los concursos del contratante. El pliego de condiciones particulares: específico e irrepetible para cada contrato, que es la clave del contrato. Lo que no dice, lo rige el general. Y la documentación técnica, que son los anexos con las especificaciones de requisitos, las normas técnicas y los métodos de instalación u operación. Esta define qué se compra.
+Se divide en tres partes. El pliego general: cláusulas amplias que se repiten en todos los concursos del contratante. El pliego de condiciones particulares: específico e irrepetible para cada contrato, que es la clave del contrato. Lo que no dice, lo rige el general. Y la documentación técnica, que son los anexos con las especificaciones de requisitos, las normas técnicas y los métodos de instalación u operación. Esta define qué se compra. Los anexos son complementarios: el pliego particular los menciona y se presentan como documentos aparte por lo largos que son.
+
+Después del llamado también se generan documentos: las notas con consultas de los oferentes, siempre por escrito, y las circulares con que el comitente responde a todos.
 
 El orden de prelación, o sea, qué manda cuando dos documentos dicen distinto: primero las notas aclaratorias y circulares, después el pliego de condiciones particulares, y al final el pliego general. La regla para acordarte: cuanto más general es un documento, menos prioridad tiene.
 
-Contrata contra orden de compra. Las dos tienen el mismo efecto jurídico. En la contrata las partes firman en el mismo momento, a veces ante escribano. En la orden de compra o de trabajo firman en momentos distintos: el acuerdo vale cuando el proveedor la devuelve firmada.
+La contrata repite los puntos más importantes del pliego y suma lo que salió del proceso: el precio de la contratación, el nombre o razón social del adjudicatario, que desde ahora es el proveedor o contratista, la fecha de entrega, contada desde la firma de la contrata, y las modificaciones y adendas al pliego hechas entre el llamado y la presentación de ofertas. Con las firmas queda el consentimiento de las partes, y en contratos formales que piden solemnidades se firma ante escribano.
+
+Contrata contra orden de compra. Las dos tienen el mismo efecto jurídico; la orden de compra o de trabajo es menos formal y de carácter comercial. En la contrata las partes firman en el mismo momento, a veces ante escribano. En la orden de compra o de trabajo firman en momentos distintos: el acuerdo vale cuando el proveedor la devuelve firmada.
 
 Las garantías son dos. La de oferta: del uno al dos por ciento de lo ofertado, sirve para que el oferente no abandone, es una barrera de salida, y se devuelve al terminar la adjudicación. Y la de ejecución: en general el diez por ciento del contrato, sirve para asegurar que cumpla y se devuelve al cumplir, menos las multas. Se pueden constituir en efectivo, cheque de pago diferido, títulos o bonos, fianza bancaria, seguro de caución, pagaré, caución juratoria o créditos a favor del proveedor.
 
@@ -564,9 +586,9 @@ Tema uno: proyecto. Definí proyecto según el PMBOK con sus tres característic
 
 Tema dos: stakeholders y riesgos. Explicá la matriz de stakeholders con un ejemplo de cada cuadrante. Qué es un riesgo y por qué puede ser positivo. Diferenciá viabilidad de factibilidad.
 
-Tema tres: factibilidad. Qué pregunta responde cada una y en qué orden se encadenan. Diferenciá CapEx de OpEx con ejemplos de TI. Explicá punto de equilibrio, período de recuperación y valor presente. Qué son los costos hereditarios y residuales y por qué se restan. Qué preguntas se hace la factibilidad operativa.
+Tema tres: factibilidad. Qué pregunta responde cada una y en qué orden se encadenan. Diferenciá CapEx de OpEx con ejemplos de TI. Explicá punto de equilibrio, período de recuperación y valor presente. Qué son los costos hereditarios y residuales y por qué se restan. Qué preguntas se hace la factibilidad operativa. Qué es la gestión de costos y qué tres cosas define. Diferenciá beneficios tangibles e intangibles y para qué sirve cada uno.
 
-Tema cuatro: contratación. Diferencia entre concurso privado de precios y licitación pública. Por qué se usan dos sobres y se abren en fechas distintas. Pliego general contra particular y el orden de prelación. Garantía de oferta contra garantía de ejecución, y qué es la cláusula penal. Contrata contra orden de compra.
+Tema cuatro: contratación. Diferencia entre concurso privado de precios y licitación pública. Por qué se usan dos sobres y se abren en fechas distintas. Pliego general contra particular y el orden de prelación. Garantía de oferta contra garantía de ejecución, y qué es la cláusula penal. Contrata contra orden de compra, y qué datos nuevos aparecen en la contrata. Qué se mira en el dictamen de selección para declarar apto a un oferente.
 
 ## Lo mínimo que te tenés que llevar
 

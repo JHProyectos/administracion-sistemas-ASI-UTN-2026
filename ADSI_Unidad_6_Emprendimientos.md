@@ -73,6 +73,8 @@ Y la sexta es la madurez: nuevas líneas de negocio, diversificación, o la sali
 
 La idea de fondo: el foco va pasando de validar lo técnico a operar bien, y después a expandirse. Es como criar a un hijo: primero lo cuidás, después le armás su rutina, y al final lo dejás salir solo.
 
+Ojo con el plan de negocios. El índice del apunte nombra como temas "El Plan de Negocios de una Empresa Tecnológica: Metodología Completa" y "Transformación Digital. Tecnologías exponenciales", pero el texto no los desarrolla: el plan de negocios solo aparece como tarea de la etapa de start-up, y las tecnologías exponenciales solo con la definición de Diamandis. Si en clase los dieron aparte, conviene repasarlos de tus apuntes.
+
 **Lo importante.** Seis etapas en orden: concepción, start-up, early stage, crecimiento, expansión y madurez. El MVP se lanza en el early stage.
 
 **Ojo, trampa.** No mezcles el orden: la estructura legal y el equipo fundador son de la start-up, no de la concepción. Y la salida, el exit o IPO, es de la madurez.
@@ -145,13 +147,13 @@ Tres autores sostienen el marco teórico. Asociá cada uno con una idea.
 
 Klaus Schwab, del Foro Económico Mundial: la Cuarta Revolución Industrial, con velocidad exponencial, convergencia de lo físico, lo digital y lo biológico, y disrupción de los modelos tradicionales.
 
-Peter Diamandis, de la Singularity University y el XPRIZE: las tecnologías exponenciales duplican su capacidad y bajan su costo a intervalos regulares, y eso genera un mundo de abundancia. Su pirámide de la abundancia tiene tres niveles: las necesidades básicas en la base, los habilitadores de desarrollo en el medio y la autorrealización en la cima.
+Peter Diamandis, de la Singularity University y el XPRIZE: las tecnologías exponenciales duplican su capacidad y bajan su costo a intervalos regulares, y eso genera un mundo de abundancia. Su pirámide de la abundancia tiene tres niveles, y la tecnología es lo que permite subir de uno a otro. En la base, las necesidades básicas universales: lo mínimo para sobrevivir, que la tecnología puede democratizar a costo casi nulo, o sea alimento, agua potable y refugio. En el medio, los habilitadores de crecimiento, lo que permite crecer en conocimiento y producción: energía, educación, acceso a la información y telecomunicaciones. Y en la cima, la autorrealización, que se alcanza del todo cuando los de abajo están garantizados: salud y libertad.
 
 Y Salim Ismail: junta todo y define la arquitectura de las organizaciones exponenciales, las ExO.
 
-**Lo importante.** Schwab, la Cuarta Revolución Industrial. Diamandis, tecnologías exponenciales y abundancia. Ismail, las organizaciones exponenciales.
+**Lo importante.** Schwab, la Cuarta Revolución Industrial. Diamandis, tecnologías exponenciales y abundancia, con su pirámide de tres niveles. Ismail, las organizaciones exponenciales.
 
-**Ojo, trampa.** Es una pregunta de asociar nombre con idea, y el error típico es cruzarlos. La pirámide de la abundancia es de Diamandis, y la arquitectura ExO es de Ismail.
+**Ojo, trampa.** Es una pregunta de asociar nombre con idea, y el error típico es cruzarlos. La pirámide de la abundancia es de Diamandis, y la arquitectura ExO es de Ismail. Y no mezcles los niveles: alimento, agua y refugio están en la base; salud y libertad, en la cima.
 
 ## Organizaciones exponenciales y el PTM
 
@@ -198,7 +200,9 @@ El ExO Sprint, o LaunchPad, es una metodología para ayudar a emprendedores a co
 
 El Sprint uno tiene ocho actividades. Conviene saberlas en orden. Una, definir el PTM. Dos, el Team Canvas, para alinear al equipo fundador en roles, valores, objetivos y reglas. Tres, los tipos de mercado. Cuatro, identificar la abundancia: datos masivos, sensores, talento distribuido, activos ociosos. Cinco, el modelo de negocio, con el Business Model Canvas. Seis, el lienzo de propuesta de valor, el Value Proposition Canvas. Siete, la demo. Y ocho, las métricas del problema.
 
-Los tipos de mercado son cinco, y cada uno es una pregunta. El mercado existente: ¿hay un mercado conocido, con nombre y competencia? ¿Mi producto es mejor en algo? El resegmentado de nicho: ¿hay clientes que quieren algo hecho a su medida, aunque cueste más? El resegmentado de bajo costo: ¿hay clientes que comprarían algo suficientemente bueno mucho más barato? El nuevo: no hay mercado definido, ni clientes ni competidores. Y el clon: ¿puedo copiar un modelo exitoso de afuera y adaptarlo al idioma y los hábitos locales?
+Los tipos de mercado son cinco, y cada uno es una pregunta. El mercado existente: ¿hay un mercado conocido, con nombre y competencia? ¿Mi producto es mejor en algo? El resegmentado de nicho: ¿hay clientes que quieren algo hecho a su medida, aunque cueste más? El resegmentado de bajo costo: ¿hay clientes que comprarían algo suficientemente bueno mucho más barato? El nuevo: no hay mercado definido, ni clientes ni competidores. Y el clon: ¿puedo copiar un modelo exitoso de Estados Unidos y adaptarlo al idioma y los hábitos de compra locales?
+
+Un detalle del nicho que el apunte remarca: esos clientes lo compran aunque cueste más, e incluso aunque sea peor en algún aspecto que a ellos no les importa.
 
 **Lo importante.** Ocho actividades en orden: PTM, Team Canvas, tipos de mercado, abundancia, modelo de negocio, propuesta de valor, demo y métricas. Cinco tipos de mercado: existente, nicho, bajo costo, nuevo y clon.
 
@@ -210,7 +214,9 @@ Un modelo de negocio, según Osterwalder, es una simplificación que describe c�
 
 Un truco para leerlo. El lado derecho, con segmento, canales, relación e ingresos, es el cliente y la plata que entra. El lado izquierdo, con recursos, actividades, alianzas y costos, es la operación y la plata que sale. Y la propuesta de valor está en el medio y une todo.
 
-Después viene el Value Proposition Canvas, que hace zoom en dos bloques del canvas, la propuesta de valor y el segmento, y busca el encaje, el fit. Tiene dos lados. El perfil del cliente, a la derecha, con tres elementos: trabajos, lo que intenta hacer; dolores, lo que le molesta o le cuesta; y ganancias, lo que espera obtener. Y el mapa de valor, a la izquierda, también con tres: productos y servicios, aliviadores de dolores y creadores de ganancias. Hay fit cuando cada dolor importante tiene su aliviador y cada ganancia esperada tiene su creador.
+Después viene el Value Proposition Canvas, que hace zoom en dos bloques del canvas, la propuesta de valor y el segmento, y busca el encaje, el fit. Tiene dos lados. El perfil del cliente, a la derecha, el círculo, con tres elementos: trabajos, lo que intenta hacer, resolver o conseguir, que pueden ser tareas funcionales, sociales o emocionales; dolores, los problemas, frustraciones, riesgos o costos que le aparecen al hacer esos trabajos; y ganancias, los beneficios o mejoras que espera obtener. Y el mapa de valor, a la izquierda, el cuadrado, también con tres: productos y servicios, aliviadores de dolores y creadores de ganancias. Hay fit cuando cada dolor importante tiene su aliviador y cada ganancia esperada tiene su creador.
+
+Ojo con los nombres: en la figura del apunte, que es de Strategyzer, los dolores aparecen como frustraciones y las ganancias como alegrías. Entonces también vas a ver aliviadores de frustraciones y creadores de alegrías. Es lo mismo.
 
 **Lo importante.** El canvas tiene nueve bloques: cliente e ingresos a la derecha, operación y costos a la izquierda, y la propuesta de valor en el medio. El fit se da cuando dolores y ganancias tienen aliviadores y creadores.
 
@@ -370,7 +376,7 @@ Tema uno: el emprendedor. Definí emprendedor tecnológico y proceso emprendedor
 
 Tema dos: oportunidades y financiamiento. Cuándo una idea es una oportunidad, con las tres condiciones. Oportunidades a nivel macro y micro. Etapas del capital y fuentes de financiamiento, y qué es el smart money.
 
-Tema tres: organizaciones exponenciales. Qué aportan Schwab, Diamandis e Ismail. Qué es una ExO. Qué es el PTM y qué características tiene. Explicar SCALE e IDEAS y cuál es externo y cuál interno.
+Tema tres: organizaciones exponenciales. Qué aportan Schwab, Diamandis e Ismail, y qué hay en cada nivel de la pirámide de la abundancia. Qué es una ExO. Qué es el PTM y qué características tiene. Explicar SCALE e IDEAS y cuál es externo y cuál interno.
 
 Tema cuatro: el Sprint uno. Nombrar las ocho actividades. Explicar los tipos de mercado. Nombrar los nueve bloques del Business Model Canvas. Explicar el Value Proposition Canvas y qué es el fit. Qué reglas tiene una buena demo y qué son las métricas del problema.
 
