@@ -91,7 +91,7 @@ flowchart LR
     E --> F["6 Madurez"]
 ```
 
-![IMAGEN 1](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-1.jpg)
+![Diagrama de las seis etapas del proceso emprendedor, modelo Endeavor](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-1.jpg)
 
 La imagen uno es la Figura 1 del apunte, "El proceso emprendedor - etapas y acciones (modelo Endeavor)". Son seis cuadros de izquierda a derecha, del más oscuro al más claro. Cada uno tiene tres acciones abreviadas, que el texto del apunte desarrolla. En la figura, el early stage incluye "canales de venta"; el texto del apunte ubica los canales formales en el crecimiento. Para el examen, quedate con la versión del texto, que está en la lista de abajo.
 
@@ -130,7 +130,7 @@ Según el apunte, el perfil del emprendedor exitoso integra un conjunto de actit
 
 Ahora, las tres capas del perfil, de afuera hacia adentro, según qué tan modificables son. El apunte las clasifica por su grado de plasticidad, es decir, qué tanto se pueden cambiar o aprender.
 
-![IMAGEN 2](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-2.jpg)
+![Diagrama de las tres capas del perfil del emprendedor](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-2.jpg)
 
 La imagen dos es la Figura 2 del apunte, "El perfil del emprendedor tecnológico: estructura de tres capas". Son tres rectángulos uno dentro del otro: azul afuera, naranja en el medio y rojo en el centro. En la captura, el texto de la capa del núcleo se sale un poco del recuadro rojo; es un defecto del dibujo original.
 
@@ -148,7 +148,7 @@ El apunte cierra con una advertencia: si bien el núcleo de talentos es el motor
 
 El modelo del triángulo invertido analiza cómo se reparten el peso y el equilibrio entre los tres componentes de cualquier iniciativa de negocio.
 
-![IMAGEN 3](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-3.jpg)
+![Diagrama del triángulo invertido del emprendedor](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-3.jpg)
 
 La imagen tres es la Figura 3 del apunte, "El triángulo invertido del emprendedor". Arriba a la izquierda, un recuadro azul, "Proyecto (idea validada)"; arriba a la derecha, uno verde, "Capital (recursos)"; abajo, en rojo, "Emprendedor (base y sostén)". Hay flechas de doble punta entre los tres.
 
@@ -243,7 +243,7 @@ El marco teórico de las organizaciones exponenciales se apoya en tres referente
 
 La pirámide de la abundancia es de Diamandis. Tiene tres niveles jerárquicos, y la tecnología actúa como facilitadora del progreso humano: es lo que permite subir de un nivel al siguiente.
 
-![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-4.jpg)
+![Pirámide de la abundancia de Diamandis](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-4.jpg)
 
 La imagen cuatro es la Figura 4 del apunte, "Pirámide de la abundancia (Peter Diamandis)". El contenido de cada nivel, con lo que dice la figura:
 
@@ -285,7 +285,7 @@ flowchart TD
     IDEAS --> I1["Interfaces · Dashboards · Experimentación · Autonomía · Tecnologías sociales"]
 ```
 
-![IMAGEN 5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-5.jpg)
+![Esquema del cerebro de las organizaciones exponenciales: IDEAS y SCALE](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-5.jpg)
 
 La imagen cinco es la Figura 5 del apunte, el modelo de gestión de las organizaciones exponenciales. La captura muestra los dos hemisferios con sus cinco atributos cada uno, en inglés. A la izquierda va IDEAS (*Interfaces, Dashboards, Experimentation, Autonomy, Social*); a la derecha va SCALE (*Staff on Demand, Community & Crowd, Algorithms, Leveraged Assets, Engagement*). Fijate que en el dibujo, desde quien mira, IDEAS queda a la izquierda y SCALE a la derecha, y el apunte dice lo mismo: SCALE es el hemisferio derecho e IDEAS el izquierdo. El PTM, que el apunte ubica arriba del cerebro, no está en esta captura.
 
@@ -301,7 +301,7 @@ SCALE, el hemisferio derecho, conexión con la abundancia externa. Cinco letras:
 
 Las capas de participación son concéntricas.
 
-![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-6.jpg)
+![Diagrama de círculos concéntricos de la comunidad y el crowd](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-6.jpg)
 
 La imagen seis es la Figura 6 del apunte, "Estructura concéntrica: comunidad y multitud (community & crowd)". Son óvalos uno dentro de otro, del centro hacia afuera: *Core Team*; usuarios, clientes y *alumni*; *vendors*, *partners* y *fans*; *Staff on Demand*; y por fuera el *crowd* o entorno global, de interés pasivo. Una flecha naranja marca la comunidad, de compromiso activo, y una flecha gris marca la multitud, de alcance masivo. Traducciones mías: *alumni* son los egresados, *vendors* los proveedores, *partners* los socios y *fans* los seguidores.
 
@@ -329,7 +329,7 @@ Para no mezclarlas: SCALE trae abundancia de afuera; IDEAS la ordena adentro. Y 
 
 El ExO Sprint, o LaunchPad (plataforma de lanzamiento), es **una metodología para ayudar a emprendedores a transformar su Startup en una ExO (Exponential Organization) exitosa**. Es un proceso iterativo: puede aplicarse múltiples veces y se basa en metodologías y experiencias validadas, para comprobar y mejorar todos los aspectos clave de un nuevo emprendimiento.
 
-![IMAGEN 7](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-7.jpg)
+![Esquema del ExO Sprint: por qué, qué y cómo](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-7.jpg)
 
 La imagen siete es la figura de la metodología ExO Sprint. El apunte no tiene un texto que la explique, así que esta lectura es mía, a partir de la propia figura. Muestra tres círculos conectados entre sí, ExO, Lean y Agile, cada uno con una pregunta:
 
@@ -368,7 +368,7 @@ Un canvas (lienzo) es una hoja de trabajo con casilleros que se completan. El ap
 
 El Business Model Canvas (BMC) tiene nueve bloques interdependientes, y cada uno guía su diseño con preguntas clave.
 
-![IMAGEN 8](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-8.jpg)
+![Lienzo del modelo de negocios, el Business Model Canvas](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-8.jpg)
 
 La imagen ocho es la Figura 8 del apunte, "Lienzo de modelo de negocios (Business Model Canvas, A. Osterwalder)". Los bloques están numerados como en el apunte: arriba, de izquierda a derecha, alianzas clave (siete), actividades clave (seis) sobre recursos clave (cinco), propuesta de valor (uno), relación con clientes (cuatro) sobre canales (tres), y segmentos de clientes (dos). Abajo, estructura de costos (ocho) y fuentes de ingresos (nueve). La numeración es la del apunte, no el orden en que se llena el canvas.
 
@@ -392,7 +392,7 @@ Un truco para leerlo, que es mío y no del apunte:
 
 Después viene el Value Proposition Canvas (VPC), el lienzo de la propuesta de valor. Es una herramienta para analizar la relación entre las necesidades, problemas y deseos del cliente y la propuesta de valor del emprendimiento. Hace zoom en dos bloques del canvas, la propuesta de valor y el segmento de clientes, y evalúa el **encaje (FIT)** entre el valor que se intenta crear y las expectativas del cliente.
 
-![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-9.jpg)
+![Lienzo de la propuesta de valor](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-6/imagen-9.jpg)
 
 La imagen nueve es el lienzo de la propuesta de valor, de Strategyzer (la empresa de Osterwalder; el nombre está en la propia figura). A la izquierda, un cuadrado con tres zonas: productos y servicios, creadores de alegrías y aliviadores de frustraciones. A la derecha, un círculo con tres zonas: trabajo(s) del cliente, alegrías y frustraciones. Una flecha de doble punta une los dos lados: ese vínculo es el fit. Ojo con los nombres: la figura dice "frustraciones" y "alegrías" donde el texto dice "dolores" y "ganancias". Es lo mismo.
 

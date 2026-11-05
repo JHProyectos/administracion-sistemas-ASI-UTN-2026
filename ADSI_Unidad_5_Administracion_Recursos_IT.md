@@ -135,7 +135,7 @@ Los tres niveles de prioridad:
 
 El apunte agrupa los factores impulsores de la transformación de la gestión de proyectos en tres dimensiones, que van en negrita en el texto: **procesos y capacidades**, **factores externos** y **factores tecnológicos**. Si te piden factores impulsores, contestás con esta idea.
 
-![IMAGEN 1](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-1.jpg)
+![Infografía de los factores que impulsan el cambio, en tres filas](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-1.jpg)
 
 La infografía del apunte está en inglés y tiene tres filas con cuatro factores cada una. De arriba abajo: Process & Capability Drivers (impulsores de procesos y capacidades), External Drivers (impulsores externos) y Technology Drivers (impulsores tecnológicos). Las tres filas se desarrollan a continuación.
 
@@ -173,7 +173,7 @@ La gestión tradicional, también llamada cascada o *waterfall* (cascada, porque
 - **Definición clara de roles y responsabilidades**: el director del proyecto está en el centro y se usan cronogramas, diagramas de Gantt (barras sobre una línea de tiempo que muestran cuándo empieza y termina cada tarea), gestión del alcance y control de cambios.
 - **Planificación detallada, control estructurado y ejecución secuencial**: sirve para proyectos con requisitos bien definidos, poca incertidumbre y entornos estables.
 
-![IMAGEN 2](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-2.jpg)
+![Diagrama en cascada de las cinco fases del proyecto](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-2.jpg)
 
 El esquema del apunte, en inglés, muestra las cinco fases del ciclo en cascada, numeradas del 01 al 05: Project Initiation (inicio), Project Planning (planificación), Project Execution (ejecución), Project Monitoring and Control (monitoreo y control) y Project Closure (cierre).
 
@@ -186,7 +186,7 @@ Con eso salen cuatro tipos de proyecto:
 - **Complejo**: alta incertidumbre, cambios frecuentes y mucho contacto con el cliente, y ahí va el enfoque ágil.
 - **Caótico**: no hay ni requisitos ni solución, y no sirve ni uno ni otro: primero hay que estabilizar.
 
-![IMAGEN 3](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-3.jpg)
+![Matriz de Stacey: requisitos contra tecnología](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-3.jpg)
 
 La matriz del apunte está en inglés. El eje vertical es Requirements (requisitos), de Close to Agreement (cerca del acuerdo) abajo a Far from Agreement (lejos del acuerdo) arriba. El eje horizontal es Technology (tecnología), de Close to Certainty (cerca de la certeza) a la izquierda a Far from Certainty (lejos de la certeza) a la derecha. Las zonas, de la esquina de abajo a la izquierda hacia arriba a la derecha, son Simple, Complicated (complicado), Complex (complejo) y Anarchy (anarquía). Las flechas rojas marcan que Structured projects (proyectos estructurados) corresponden a lo simple, Agile projects (proyectos ágiles) a lo complejo y Chaotic projects (proyectos caóticos) a la anarquía.
 
@@ -199,7 +199,7 @@ Los marcos que nombra la unidad son cuatro:
 
 Y el objetivo de cualquier metodología es el mismo: resultados de calidad predecible con actividades ordenadas y eficientes.
 
-![IMAGEN 4](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-4.jpg)
+![Esquemas de los marcos de gestión de proyectos](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-4.jpg)
 
 El apunte trae un esquema por cada marco, todos en inglés y sin traducción. Esta es la traducción de lo que muestran, y las aclaraciones entre paréntesis son mías, porque el apunte no las da:
 
@@ -218,7 +218,7 @@ El apunte trae un esquema por cada marco, todos en inglés y sin traducción. Es
 
 Esto se pregunta mucho, así que vale aprenderse qué se hace en cada una de las cinco fases. En el apunte se dibujan como flechas encadenadas:
 
-![IMAGEN 5](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-5.jpg)
+![Diagrama de los grupos de procesos, con una fase resaltada](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-5.jpg)
 
 El apunte repite este esquema una vez por fase, con la fase que explica resaltada en verde. Acá va una sola vez, con Inicio resaltado.
 
@@ -267,7 +267,7 @@ Las listas de qué hacer en cada fase son las del apunte:
 
 Fijate que el monitoreo y control no es "después" de la ejecución: corre en paralelo y realimenta a la planificación. Por eso en el dibujo va con líneas punteadas. Es como el GPS del auto: no aparece al final del viaje, te va corrigiendo todo el camino.
 
-![IMAGEN 6](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-6.jpg)
+![Gráfico de la superposición de los grupos de procesos en el tiempo](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-6.jpg)
 
 El gráfico del apunte muestra el nivel de interacción de procesos (eje vertical) a lo largo del tiempo, desde el inicio hasta el fin (eje horizontal). Hay una curva por cada grupo de procesos: inicio, planificación, ejecución, monitoreo y control, y cierre. Las curvas se superponen: no son compartimentos estancos. El inicio sube y baja temprano, la planificación llega a su pico antes que la ejecución, la ejecución es la más alta y está en el medio, el monitoreo y control es una curva baja y larga que acompaña casi todo el proyecto, y el cierre aparece al final.
 
@@ -288,7 +288,7 @@ Un **stakeholder**, o interesado, es cualquier persona, grupo u organización qu
 - Alta dirección.
 - Otros proyectos o programas relacionados.
 
-![IMAGEN 7](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-7.jpg)
+![Diagrama de círculos concéntricos de los interesados](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-7.jpg)
 
 El apunte los ordena en tres círculos concéntricos, del centro hacia afuera:
 
@@ -341,7 +341,7 @@ Y tiene que documentar. La lista:
 
 Se cruzan dos ejes, poder e interés, y salen cuatro tipos. Cada uno pide una estrategia distinta. El apunte dice que hay que usar una estrategia de comunicación diferente para cada categoría.
 
-![IMAGEN 8](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-8.jpg)
+![Matriz de poder e interés de los interesados](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-8.jpg)
 
 Es una matriz de dos por dos. El poder va en el eje vertical y el interés en el horizontal, los dos de bajo a alto. Arriba a la izquierda están los latentes (informar), arriba a la derecha los promotores (involucrar), abajo a la izquierda los apáticos (monitorizar) y abajo a la derecha los defensores (reportar). La imagen es del PMI de Valencia, España, y por eso los ejemplos del apunte hablan de ayuntamientos, que son los municipios en España.
 
@@ -404,7 +404,7 @@ Las actividades para hacerlo son siete:
 
 Este proceso ayuda a ganar la confianza necesaria: confirma, o desmiente, que la iniciativa se puede hacer a tiempo y dentro del presupuesto.
 
-![IMAGEN 9](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-9.jpg)
+![Infografía de los seis beneficios del análisis de viabilidad](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-9.jpg)
 
 La infografía del apunte lista seis beneficios del análisis de viabilidad:
 
@@ -433,7 +433,7 @@ Las categorías de riesgos de proyecto son cuatro:
 - **Organizacionales**: dependencias del proyecto, recursos, financiamiento y prioridades.
 - **De administración del proyecto**: estimación, planificación, control y comunicación.
 
-![IMAGEN 10](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-10.jpg)
+![Organigrama de las categorías de riesgos del proyecto](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-10.jpg)
 
 Es el organigrama del apunte, titulado "Riesgos del proyecto (PM)", donde PM es Project Management, gestión de proyectos. Parte de "Riesgos del proyecto" y abre las cuatro ramas con las categorías de arriba.
 
@@ -755,7 +755,7 @@ Una contratación típica tiene tres etapas:
 
 Esto es largo pero tiene lógica. Primero, el esquema del apunte, que ordena las etapas básicas de una contratación:
 
-![IMAGEN 11](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-11.jpg)
+![Esquema del proceso de contratación, en ocho etapas y tres bloques](https://raw.githubusercontent.com/JHProyectos/administracion-sistemas-ASI-UTN-2026/refs/heads/main/imagenes/Unidad-5/imagen-11.jpg)
 
 El esquema agrupa ocho etapas en tres bloques:
 
