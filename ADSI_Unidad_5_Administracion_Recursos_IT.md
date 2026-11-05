@@ -57,13 +57,14 @@ Y la frase que la cátedra marca en mayúsculas: "IT Project" es un concepto sim
 
 Un proyecto puede iniciarse en cuatro lugares, y cada uno tiene su detalle.
 
-Los gerentes de departamento: hay que ver si hay otras áreas involucradas, para buscar una solución de conjunto y no un parche local. Los ejecutivos de alto nivel: suelen tener objetivos más amplios, que tocan varias áreas. El área de sistemas: detecta mejoras de tecnologías y metodologías, pero conviene que el pedido lo haga el gerente del área afectada. Y los grupos externos: clientes, usuarios, proveedores o entes oficiales, como ARCA o el gobierno.
+**Los gerentes de departamento**: hay que ver si hay otras áreas involucradas, para buscar una solución de conjunto y no un parche local. **Los ejecutivos de alto nivel**: suelen tener objetivos más amplios, que tocan varias áreas. **El área de sistemas**: detecta mejoras de tecnologías y metodologías, pero conviene que el pedido lo haga el gerente del área afectada. Y **los grupos externos**: clientes, usuarios, proveedores o entes oficiales, como ARCA o el gobierno.
 
 Un detalle que suelen preguntar: aunque sistemas tiene que estar atento, las personas que usan el sistema todos los días son la mejor fuente para saber qué mejorar. Son como los pasajeros del colectivo: el chofer maneja, pero quien sabe dónde falta una parada es quien viaja todos los días.
 
 Ahora, transformación digital. Digitalizar no es meter herramientas. La transformación digital se centra en que el cambio sea sostenible y en construir una cultura digital. Y tiene dos pilares.
 
-El primero, la gestión del cambio: afecta a toda la empresa y necesita que participen empleados, directivos y ejecutivos, con concientización, capacitación y coaching. El segundo, la colaboración: comunicación constante entre equipos, estructura interfuncional y software colaborativo para trabajar en tiempo real.
+- El primero, la gestión del cambio: afecta a toda la empresa y necesita que participen empleados, directivos y ejecutivos, con concientización, capacitación y coaching. 
+- El segundo, la colaboración: comunicación constante entre equipos, estructura interfuncional y software colaborativo para trabajar en tiempo real.
 
 **Lo importante.** Un proyecto nace en gerentes, ejecutivos, sistemas o grupos externos. Los usuarios diarios son la mejor fuente de mejoras. Y la transformación digital es cultura, con dos pilares: gestión del cambio y colaboración.
 
@@ -75,7 +76,10 @@ Esto es más importante de lo que parece. Definir bien el problema exige disting
 
 Las tareas son siete. Estudiar el sistema y el contexto actual. Analizar lo que se desea obtener. Clarificar qué áreas se verán afectadas. Definir el problema y sus componentes, priorizando en tres niveles. Identificar a los responsables. Definir con claridad qué se propone solucionar. Y validar la definición con los interesados.
 
-Los tres niveles de prioridad: fundamental, que es indispensable; deseable, que aporta mucho valor; y opcional, que es secundario o queda para más adelante.
+Los tres niveles de prioridad: 
+ 1 fundamental, que es indispensable; 
+ 2 deseable, que aporta mucho valor; y 
+ 3 opcional, que es secundario o queda para más adelante.
 
 **Lo importante.** El problema se define distinguiendo causas, síntomas y necesidades, se prioriza en fundamental, deseable y opcional, y se valida con los interesados. De ahí sale el alcance.
 
