@@ -1227,6 +1227,124 @@ La correcta es la primera. ¿La trampa? La segunda: los intangibles sirven justa
   - Contrata contra orden de compra, y qué datos nuevos aparecen en la contrata.
   - Qué se mira en el dictamen de selección para declarar apto a un oferente.
 
+## Respuestas breves a las preguntas de desarrollo
+
+Una respuesta corta para cada pregunta de la lista de arriba. Es lo mínimo que tenés que poder escribir; si te sobra tiempo en el parcial, sumá el ejemplo del apunte.
+
+### Tema uno: proyecto
+
+**Definí proyecto según el PMBOK con sus tres características.**
+
+Según el PMBOK, un proyecto es un esfuerzo temporal que se emprende para crear un producto, servicio o resultado único. Las tres características son: temporal, porque tiene fecha de inicio y de fin; único, porque el resultado no se hizo exactamente igual antes; y con recursos escasos, porque las personas, la tecnología y la plata son limitadas. Por eso no se pueden hacer todos los proyectos y hay que evaluarlos para elegir el más conveniente.
+
+**Explicá por qué "IT Project" es simplista.**
+
+Porque no existe un proyecto de TI sin el negocio que reciba su resultado. Todo proyecto de tecnología se hace para resolver un problema o aprovechar una oportunidad de la organización, así que siempre es un proyecto del negocio. Pensarlo como algo solo del área de sistemas deja afuera a los usuarios, los procesos y los objetivos que le dan sentido.
+
+**Explicá cuándo conviene gestión ágil y cuándo tradicional, con la matriz de Stacey.**
+
+La matriz de Stacey cruza dos ejes: qué tan claros están los requisitos, el qué, y qué tan clara está la tecnología o la solución, el cómo. Si los dos están claros, el proyecto es simple y va con gestión tradicional, como cascada. Si se conocen en parte, es complicado y va en un punto intermedio. Si hay alta incertidumbre, cambios frecuentes y mucho contacto con el cliente, es complejo y va con gestión ágil, como Scrum. Si no hay ni requisitos ni solución, es caótico: no sirve ninguno de los dos y primero hay que estabilizar.
+
+**Nombrá las cinco fases del ciclo de vida y dos actividades de cada una.**
+
+- **Inicio**: análisis de la situación inicial y constitución del proyecto.
+- **Planificación**: plan detallado del proyecto y presupuesto.
+- **Ejecución**: ejecución de actividades e informe de avance.
+- **Monitoreo y control**: control del alcance y control del cronograma. Corre en paralelo a la planificación y la ejecución.
+- **Cierre**: aceptación del producto y acta de cierre.
+
+**Qué dice la introducción sobre lo que tienen que hacer las organizaciones para adaptarse a la velocidad digital.**
+
+Que las organizaciones tienen que transformar las funciones y los procesos subyacentes y crear un conjunto único de capacidades digitales, para desarrollar la competencia empresarial central y adaptarse a la velocidad digital. O sea, digitalizar no es comprar una herramienta: es cambiar cómo funciona la organización por dentro.
+
+### Tema dos: stakeholders y riesgos
+
+**Explicá la matriz de stakeholders con un ejemplo de cada cuadrante.**
+
+Cruza el poder y el interés de cada stakeholder, que es quien puede afectar, verse afectado o sentirse afectado por el proyecto. Salen cuatro cuadrantes, cada uno con su estrategia de comunicación:
+
+- **Promotores**, poder alto e interés alto: se los involucra. Ejemplo: los ayuntamientos, o sea los municipios.
+- **Latentes**, poder alto e interés bajo: se los informa de manera proactiva. Ejemplo: las ONG ambientales.
+- **Defensores**, poder bajo e interés alto: se les reportan los avances. Ejemplo: los comercios locales.
+- **Apáticos**, poder bajo e interés bajo: se los monitoriza, por si cambian de cuadrante. Ejemplo: los vecinos.
+
+**Qué es un riesgo y por qué puede ser positivo.**
+
+Un riesgo es un evento o condición incierta que, si ocurre, tiene un efecto positivo o negativo sobre los objetivos del proyecto. Puede ser positivo porque la incertidumbre va para los dos lados: si el efecto es negativo es una amenaza, y si es positivo es una oportunidad. Por eso hace falta un equilibrio entre riesgos y oportunidades para decidir bien.
+
+**Cuáles son las tres características del riesgo.**
+
+- Concierne a lo que ocurra en el futuro: qué riesgos pueden hacer fracasar el proyecto.
+- Implica cambios: cómo afectan al éxito y a los plazos los cambios en los requisitos, las tecnologías o los equipos.
+- Implica una elección: qué métodos y herramientas usar, cuánta gente involucrar y cuánta importancia darle a la calidad.
+
+**Diferenciá viabilidad de factibilidad.**
+
+La viabilidad es la decisión estratégica de si vale la pena convertir la idea en proyecto: se aprueba o se rechaza. La factibilidad viene después, con el proyecto aprobado, y analiza tres cosas: si se puede hacer, que es la técnica; si conviene, que es la económica; y si la organización lo va a poder llevar a la práctica, que es la operativa.
+
+### Tema tres: factibilidad
+
+**Qué pregunta responde cada una y en qué orden se encadenan.**
+
+La técnica responde si se puede hacer, la económica si conviene hacerlo y la operativa si la organización lo va a poder llevar a la práctica. Se encadenan así: la técnica define un rango de soluciones posibles, la económica elige la más conveniente de ese rango y la operativa confirma que se pueda poner en práctica.
+
+**Diferenciá CapEx de OpEx con ejemplos de TI.**
+
+CapEx, el gasto de capital, es la inversión inicial: hardware, licencias de software perpetuas, la red y el desarrollo. OpEx, el gasto operativo, son los gastos recurrentes: suscripciones a la nube, soporte, mantenimiento, energía, internet y sueldos de TI. Pasar a la nube es cambiar CapEx por OpEx: en vez de comprar el servidor, se paga por mes.
+
+**Explicá punto de equilibrio, período de recuperación y valor presente.**
+
+- **Punto de equilibrio**: el momento en que el costo acumulado del sistema nuevo iguala al del actual. De ahí en adelante, el nuevo da beneficio neto.
+- **Período de recuperación**, o payback: el tiempo que pasa hasta que los beneficios acumulados igualan a los costos. Cuanto más corto, menos riesgo.
+- **Valor presente**: como un peso de hoy vale más que uno futuro, los costos y beneficios de cada año se llevan al presente con una tasa de descuento, que es el costo de oportunidad de la plata. Si los beneficios a valor presente superan a los costos, la inversión es buena.
+
+**Qué son los costos hereditarios y residuales y por qué se restan.**
+
+Los hereditarios son costos que ya pagó otro proyecto, como equipos que ya están comprados. Los residuales son lo que vale lo que queda al final de la vida útil. Se restan porque no son un gasto nuevo que cause este proyecto: si se sumaran, el proyecto parecería más caro de lo que es.
+
+**Qué preguntas se hace la factibilidad operativa.**
+
+- ¿Hay suficiente apoyo de la gerencia y de los usuarios?
+- ¿Van a usar el sistema cuando esté instalado?
+- ¿Los usuarios participaron en la planeación y el desarrollo?
+- ¿Aumenta la productividad?
+- ¿Mejora la integración con otras áreas?
+- ¿Causa daño, como resultados más pobres, pérdida de control o de acceso a información, trabajo más lento o clientes afectados?
+
+**Qué es la gestión de costos y qué tres cosas define.**
+
+Es el proceso que asegura que el presupuesto se use bien y que los gastos se mantengan según lo planeado, sin sobrecostos. Incluye planificación, estimación y control. Define tres cosas: la salud financiera del proyecto de principio a fin, la calidad de las decisiones y la detección temprana de riesgos financieros.
+
+**Diferenciá beneficios tangibles e intangibles y para qué sirve cada uno.**
+
+Los tangibles son fáciles de cuantificar y en general vienen de reducir recursos o personal; se comparan con los costos en el análisis económico. Los intangibles son difíciles de cuantificar, como el good will o las mejoras en otros procesos; sirven para vender el proyecto. Por eso la recomendación es mostrar los dos al presentarlo.
+
+### Tema cuatro: contratación
+
+**Diferencia entre concurso privado de precios y licitación pública.**
+
+En el concurso privado de precios se invita a proveedores elegidos de la base de datos. En la licitación pública se publica en medios masivos o en el Boletín Oficial, sin preselección, y puede presentarse cualquiera. El proceso es el mismo: cambia el grado de competencia. El privado es más rápido, pero la pública es obligatoria en algunos casos, como los productos innovadores sin proveedores conocidos.
+
+**Por qué se usan dos sobres y se abren en fechas distintas.**
+
+El Sobre uno lleva lo técnico, legal y administrativo, sin precios, y el Sobre dos lleva la oferta económica. Se abren en fechas distintas por dos razones: cada área evalúa lo suyo, Técnica y Legal el uno y Compras el dos; y si se vieran los precios antes de evaluar lo técnico, la evaluación quedaría sesgada. Por eso el Sobre dos solo se abre a los que salieron aptos.
+
+**Pliego general contra particular y el orden de prelación.**
+
+El pliego general tiene cláusulas amplias que se repiten en todos los concursos del contratante. El particular es específico e irrepetible para cada contrato, y lo que no dice lo rige el general. El orden de prelación dice qué manda si dos documentos dicen distinto: primero las notas aclaratorias y circulares, después el pliego particular y al final el general. Cuanto más general es el documento, menos prioridad tiene.
+
+**Garantía de oferta contra garantía de ejecución, y qué es la cláusula penal.**
+
+La garantía de oferta es del uno al dos por ciento de lo ofertado, sirve para que el oferente no abandone el concurso y se devuelve al terminar la adjudicación. La de ejecución es de alrededor del diez por ciento del contrato, asegura que el proveedor cumpla y se devuelve al cumplir, menos las multas. La cláusula penal fija una multa automática si el proveedor entra en mora, que se descuenta de la garantía de ejecución. Es accesoria, porque solo actúa si hay incumplimiento, y sirve para asegurar el cumplimiento sin tener que rescindir.
+
+**Contrata contra orden de compra, y qué datos nuevos aparecen en la contrata.**
+
+Tienen el mismo efecto jurídico. En la contrata las partes firman en el mismo momento, a veces ante escribano. En la orden de compra o de trabajo firman en momentos distintos, y el acuerdo vale cuando el proveedor la devuelve firmada; es menos formal y de carácter comercial. La contrata repite lo importante del pliego y suma lo nuevo: el precio, el nombre del adjudicatario, la fecha de entrega contada desde la firma y las modificaciones o adendas hechas durante el proceso.
+
+**Qué se mira en el dictamen de selección para declarar apto a un oferente.**
+
+Se mira que cumpla los aspectos formales y técnicos del pliego, que presente los requisitos y documentos que pide y que cumpla las condiciones de elegibilidad. Sale de un análisis interdisciplinario del Sobre uno y de los antecedentes del oferente. El dictamen es interno: los oferentes saben si son aptos, pero no lo leen, y a los no aptos se les explica por qué.
+
 ## Lo mínimo que te tenés que llevar
 
 - Las organizaciones tienen que transformar sus funciones y procesos y crear capacidades digitales para adaptarse a la velocidad digital.

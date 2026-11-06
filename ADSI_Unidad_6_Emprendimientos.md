@@ -698,6 +698,160 @@ Cuatro temas posibles. En cada uno, lo que te pueden pedir:
   - Explicar el Value Proposition Canvas y qué es el fit.
   - Qué reglas tiene una buena demo y qué son las métricas del problema.
 
+## Respuestas breves a las preguntas de desarrollo
+
+Una respuesta corta para cada pregunta de la lista de arriba. Es lo mínimo que tenés que poder escribir; si te sobra tiempo en el parcial, sumá el ejemplo del apunte.
+
+### Tema uno: el emprendedor
+
+**Definir emprendedor tecnológico y proceso emprendedor.**
+
+El emprendedor tecnológico es una persona que detecta una oportunidad vacante en el entorno y crea una organización para encararla, o la adquiere, o forma parte activa de un equipo fundador. Estructura recursos humanos, técnicos y financieros para generar valor y transformar el mercado. El proceso emprendedor es la totalidad de actividades interrelacionadas que van desde la detección temprana de oportunidades hasta la concepción, el lanzamiento, la consolidación y la escalabilidad de las organizaciones que las concretan.
+
+**Explicar los tres mitos.**
+
+- **La idea brillante**: se cree que hace falta una idea jamás pensada. Es falso: el noventa por ciento de los emprendimientos surge de la experiencia previa del fundador, y el valor está en la ejecución.
+- **Las grandes sumas de capital**: se cree que hay que tener mucha plata para empezar. Es falso: el capital es consecuencia de un proyecto validado y un equipo sólido, no un requisito previo.
+- **La edad**: se cree que hay una edad para emprender. Es falso: depende de las competencias, la convicción y el rigor metodológico.
+
+Lo que de verdad determina el éxito es el coraje, la convicción y la disciplina para validar y ejecutar la visión.
+
+**Nombrar y describir las seis etapas de Endeavor.**
+
+- **Concepción**: se evalúa la oportunidad y se valida de forma preliminar la factibilidad tecnológica y comercial.
+- **Start-up**: se arma el equipo fundador, se hace el primer plan de negocios y se formaliza la estructura legal.
+- **Early stage**: empiezan las operaciones, se lanza el MVP y llegan los primeros clientes.
+- **Crecimiento**: se consolidan los canales formales de venta y distribución y las plataformas de operación.
+- **Expansión**: se escala a nivel regional o internacional y se replica el modelo en nuevos mercados.
+- **Madurez**: consolidación institucional, nuevas líneas de negocio o la salida, con exit o IPO.
+
+**Decir qué significa cada letra de EMPRENDEDOR.**
+
+- E, emancipación.
+- M, moderación en la ambición del dinero.
+- P, pasión.
+- R, resultados.
+- E, espiritualidad.
+- N, novicio.
+- D, disfrute del camino.
+- E, éxitos compartidos.
+- D, determinación.
+- O, optimismo y sueños.
+- R, responsabilidad incondicional.
+
+**Las tres capas del perfil y cuáles se pueden aprender.**
+
+- **Hábitos técnicos**, la capa exterior: programación, presupuestos, metodologías ágiles, marketing digital. Se pueden aprender con capacitación y práctica.
+- **Meta-habilidades**, la capa intermedia: liderazgo, negociación, comunicación y tolerancia a la frustración. Son una zona gris: se pueden desarrollar, pero con tiempo, experiencia y mentoría.
+- **Talentos**, el núcleo: pasión, convicción, intuición y empuje. Se consideran inmodificables.
+
+El talento es el motor de arranque, pero sin hábitos técnicos y meta-habilidades no se convierte en desempeño sostenible.
+
+**El triángulo invertido.**
+
+Muestra cómo se reparte el peso entre los tres componentes de un emprendimiento. Arriba están el proyecto, que es la idea validada, y el capital, que son los recursos. Abajo, como base y sostén, está el emprendedor con su equipo. Ni una gran idea ni mucha plata se sostienen solas si el emprendedor no tiene solidez, resiliencia y liderazgo: si la base falla, todo se cae. Y al revés, un emprendedor sólido puede reformular el proyecto y atraer el capital.
+
+**Luchadores, caza-olas y gladiadores.**
+
+- **Luchadores**: emprenden por necesidad, porque no encuentran alternativas en el mercado laboral formal.
+- **Caza-olas**: oportunistas de corto plazo que se suben a modas o tendencias buscando ganancias rápidas, sin compromiso de largo plazo.
+- **Gladiadores**: emprendedores por vocación. Lo eligen aunque tengan opciones estables y se comprometen de forma incondicional con la visión.
+
+### Tema dos: oportunidades y financiamiento
+
+**Cuándo una idea es una oportunidad, con las tres condiciones.**
+
+Una idea es una oportunidad cuando se cumplen las tres condiciones a la vez. Primero, factibilidad de implementación: se puede llevar a la realidad con la tecnología y las capacidades disponibles. Segundo, creación real de valor: resuelve un dolor crítico o da un beneficio concreto al cliente. Tercero, predisposición a pagar: los clientes están dispuestos a pagar un precio bastante mayor que el costo de proveerlo. Si falta una, sigue siendo solo una idea.
+
+**Oportunidades a nivel macro y micro.**
+
+- **Nivel macro**, mirando desde miles de metros de altura: las disparan los saltos tecnológicos, como la inteligencia artificial, la nube o la computación cuántica, la transformación digital masiva y los cambios de regulación. Crean mercados e industrias nuevas donde todavía no hay competidores consolidados.
+- **Nivel micro**, mirando de cerca: las disparan los cambios de hábitos, los dolores y cuellos de botella en los procesos, los clientes insatisfechos y los no consumidores que quedan afuera por costo o complejidad. Permiten soluciones puntuales de alto valor percibido.
+
+**Etapas del capital y fuentes de financiamiento, y qué es el smart money.**
+
+Las etapas del capital son tres: capital semilla, que financia la investigación y el prototipo o MVP; etapa temprana, para arrancar operaciones y lograr el encaje producto-mercado; y expansión, para crecer, internacionalizarse y lograr economías de escala.
+
+Las fuentes son:
+
+- Las tres F, amigos, familia y "tontos", que aportan por confianza.
+- Los inversores ángeles, particulares que invierten capital propio en etapas tempranas.
+- El venture capital, fondos profesionales que invierten en empresas jóvenes de alto potencial y esperan retornos de más del treinta y cinco por ciento anual.
+- El private equity, que invierte en empresas ya consolidadas.
+- El Estado, con subsidios y créditos blandos como FONTAR o FONSOFT.
+
+El smart money, plata inteligente, es la plata que viene acompañada de experiencia, contactos y mentoría, como la de los inversores ángeles.
+
+### Tema tres: organizaciones exponenciales
+
+**Qué aportan Schwab, Diamandis e Ismail, y qué hay en cada nivel de la pirámide de la abundancia.**
+
+Schwab define la Cuarta Revolución Industrial: velocidad exponencial y convergencia de los mundos físico, digital y biológico, que rompe los modelos tradicionales. Diamandis plantea que las tecnologías exponenciales, que duplican su capacidad y bajan su costo a intervalos regulares, generan un entorno de abundancia. Ismail define la arquitectura y los atributos de las organizaciones exponenciales.
+
+La pirámide de la abundancia, de Diamandis, tiene tres niveles:
+
+- **Base**: alimento, agua y refugio, las necesidades básicas.
+- **Medio**: energía, educación, acceso a información y telecomunicaciones, que habilitan el crecimiento.
+- **Cima**: salud y libertad, la autorrealización.
+
+La tecnología es lo que permite subir de un nivel al siguiente.
+
+**Qué es una ExO.**
+
+Una organización exponencial es una entidad cuyo impacto o resultado es desproporcionadamente grande, al menos diez veces mayor que el de las organizaciones tradicionales de su industria. Lo logra con técnicas organizativas apoyadas en tecnologías de información y en activos externos, en vez de crecer sumando empleados y activos propios.
+
+**Qué es el PTM y qué características tiene.**
+
+El PTM, Propósito de Transformación Masiva, es la declaración aspiracional más alta de la organización, que captura los corazones y las mentes del equipo y de la comunidad. Sus características: piensa en grande y apunta a un desafío global; conecta con la abundancia y no con la escasez; es inspirador, conciso, claro y memorable; y tiene que hacernos sentir incómodos, porque no es un slogan sino el norte estratégico.
+
+**Explicar SCALE e IDEAS y cuál es externo y cuál interno.**
+
+Son los dos hemisferios del cerebro de una ExO, con el PTM arriba. SCALE es el externo, el hemisferio derecho, y conecta con la abundancia de afuera:
+
+- Staff a demanda.
+- Comunidad y entorno.
+- Algoritmos.
+- Activos apalancados, o sea alquilar o pagar por uso en vez de comprar.
+- Engagement, el compromiso de la comunidad.
+
+IDEAS es el interno, el hemisferio izquierdo, y da orden y estabilidad:
+
+- Interfaces, el puente con lo externo.
+- Dashboards, tableros con métricas en tiempo real.
+- Experimentación, validar antes de invertir.
+- Autonomía, equipos autoorganizados.
+- Tecnologías sociales, para comunicarse rápido.
+
+**Las capas de participación: core team, comunidad y crowd.**
+
+Son círculos concéntricos. En el centro está el core team: el equipo fundador y los líderes directos. En el medio está la comunidad: usuarios activos, clientes fieles, egresados, proveedores, socios y staff a demanda, con alta identificación con el PTM. Afuera está el crowd o entorno: la multitud global con interés pasivo, que se alcanza en masa por canales digitales.
+
+### Tema cuatro: el Sprint uno
+
+**Nombrar las ocho actividades.**
+
+En orden: definir el PTM, construir el Team Canvas, definir los tipos de mercado, identificar la abundancia, definir el modelo de negocio con el Business Model Canvas, armar el Value Proposition Canvas, hacer una demo y definir las métricas del problema.
+
+**Explicar los tipos de mercado.**
+
+- **Existente**: un mercado consolidado, con clientes y competencia; el producto nuevo tiene que tener una ventaja sobre los competidores.
+- **Resegmentado de nicho**: clientes de un mercado existente que quieren un producto hecho a su medida, aunque cueste más.
+- **Resegmentado de bajo costo**: clientes del extremo inferior que comprarían algo "lo suficientemente bueno" si fuera bastante más barato.
+- **Nuevo**: no hay un mercado definido, ni clientes ni competidores.
+- **Clon**: se copia un modelo de negocio exitoso de afuera, como de Estados Unidos, y se adapta al idioma y las costumbres locales.
+
+**Nombrar los nueve bloques del Business Model Canvas.**
+
+Propuesta de valor, segmento de clientes, canales, relación con los clientes, recursos clave, actividades clave, alianzas clave, estructura de costos y fuentes de ingresos.
+
+**Explicar el Value Proposition Canvas y qué es el fit.**
+
+Hace zoom en dos bloques del canvas, la propuesta de valor y el segmento de clientes. De un lado está el perfil del cliente: sus trabajos, o sea lo que intenta hacer; sus dolores, los problemas que le aparecen; y sus ganancias, lo que espera obtener. Del otro lado está el mapa de valor: los productos y servicios, los aliviadores de dolores y los creadores de ganancias. El fit, o encaje, se da cuando lo que ofrece el emprendimiento responde a lo que el cliente espera: cada dolor importante tiene su aliviador y cada ganancia esperada tiene su creador.
+
+**Qué reglas tiene una buena demo y qué son las métricas del problema.**
+
+La demo sirve para que el cliente visualice la solución y valide que resuelve su problema. Tiene que ser realizable, parecer real, minimizar el desperdicio y usar datos de aspecto real. En software alcanza con maquetas o videos, en productos físicos con bocetos o prototipos, y en los dos casos sirve una landing page. Las métricas del problema son los indicadores y los valores objetivo que se fijan antes para dar por validado el problema. El ejemplo del apunte: hacer como mínimo diez entrevistas y que el ochenta por ciento comparta el problema.
+
 ## Lo mínimo que te tenés que llevar
 
 - El emprendedor detecta una oportunidad vacante y crea una organización. Los mitos son falsos: ni idea brillante, ni mucha plata, ni edad. El noventa por ciento sale de la experiencia previa.
